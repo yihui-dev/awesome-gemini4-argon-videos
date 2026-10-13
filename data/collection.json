@@ -1,0 +1,78 @@
+{
+  "title": "Awesome Gemini 4 Argon Videos",
+  "collectedOn": "2026-10-14",
+  "searchSnapshotEndBeijing": "2026-10-14T00:55:00+08:00",
+  "publicationCutoffUtc": "2026-10-13T16:00:00Z",
+  "publicationCutoffBeijing": "2026-10-14T00:00:00+08:00",
+  "cutoffRule": "strictly after; original source post publication, not a repost or download time",
+  "videoCount": 83,
+  "sourceAccountCount": 56,
+  "publicPromptCount": 11,
+  "categories": {
+    "motion": 26,
+    "3d": 22,
+    "interactive": 16,
+    "workflow": 11,
+    "comparison": 8
+  },
+  "videoBytes": 2065448146,
+  "earliestPublicationBeijing": "2026-10-14T00:00:02+08:00",
+  "latestPublicationBeijing": "2026-10-14T00:54:41+08:00",
+  "discovery": {
+    "platform": "X",
+    "surfaces": [
+      "Top search",
+      "Latest search",
+      "creator threads and replies",
+      "author-specific video searches"
+    ],
+    "keywords": [
+      "Argon",
+      "Gemini 4",
+      "Gemini4",
+      "Gemini 4 Argon",
+      "code animation",
+      "video",
+      "SVG",
+      "WebGL",
+      "three.js"
+    ],
+    "timeQuery": "since:2026-10-13_16:00:00_UTC",
+    "filter": "filter:videos",
+    "scope": "Broad search plus author follow-up, bounded to this collection session; not an exhaustive index of X."
+  },
+  "provenance": {
+    "postMetadata": "Public X pages and FxTwitter public post JSON",
+    "publicationCheck": "Source timestamp cross-checked against X Snowflake ID to within 2 seconds",
+    "modelAttribution": "Creator-reported; context links or visible comparison labels are retained where needed. No independent generation-process audit.",
+    "promptPolicy": "Verbatim public prompts only. Missing prompts are explicitly labelled. Older referenced prompts are allowed, while every included video source post must pass the cutoff.",
+    "mediaValidation": "ffprobe, full ffmpeg decode, visual frame review, SHA-256 duplicate checks, followed by public CDN hash readback and HTTP range verification."
+  },
+  "excludedOrConsolidated": [
+    {
+      "postId": "2110039082764280146",
+      "reason": "Visually duplicate re-encode, consolidated into 2110038787795689573 with source text retained."
+    },
+    {
+      "postId": "2110041046319263963",
+      "reason": "Duplicate arcade showcase, consolidated into 2110039866788507709 with source text retained."
+    },
+    {
+      "postId": "2110047189963788656",
+      "reason": "Model provenance insufficiently clear for this collection."
+    },
+    {
+      "postId": "2110046079983001783",
+      "reason": "Creator explicitly says they do not have Gemini access yet."
+    },
+    {
+      "postId": "2110041607777206296",
+      "attachmentIndexes": [
+        1,
+        3
+      ],
+      "reason": "Visibly labelled Claude Opus 5.5. Only attachments 2 and 4 labelled Gemini 4 Argon are included."
+    }
+  ],
+  "rights": "Third-party videos, original posts and prompts retain their creators rights. MIT covers original repository tooling and curation structure only."
+}

@@ -1,0 +1,8 @@
+.env*
+*.mp4
+*.mov
+*.jpg
+*.webp
+__pycache__/
+.DS_Store
+node_modules/
