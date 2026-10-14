@@ -3,17 +3,17 @@
   "collectedOn": "2026-10-14",
   "publicationCutoffUtc": "2026-10-13T16:00:00Z",
   "cutoffRule": "strictly after; original source post publication, not a repost or download time",
-  "videoCount": 321,
-  "sourceAccountCount": 231,
-  "publicPromptCount": 54,
+  "videoCount": 382,
+  "sourceAccountCount": 286,
+  "publicPromptCount": 66,
   "categories": {
-    "motion": 74,
-    "3d": 81,
-    "interactive": 92,
-    "workflow": 26,
-    "comparison": 48
+    "motion": 94,
+    "3d": 90,
+    "interactive": 115,
+    "workflow": 28,
+    "comparison": 55
   },
-  "videoBytes": 7588439911,
+  "videoBytes": 8945773629,
   "discovery": {
     "platform": "X",
     "surfaces": [
@@ -295,21 +295,110 @@
     {
       "postId": "2110188042170638393",
       "reason": "Compilation commentary containing third-party demos, not a new original work."
+    },
+    {
+      "postId": "2110226616110440742",
+      "reason": "Third-party whale comparison; original creator attribution unresolved."
+    },
+    {
+      "postId": "2110226256361091076",
+      "reason": "Same media as hqmank original 2110216771508805847."
+    },
+    {
+      "postId": "2110194620517032043",
+      "reason": "Existing media from thebuggeddev, not a new original work."
+    },
+    {
+      "postId": "2110223026549850196",
+      "reason": "Republished four-model pelican comparison; original creation provenance not established."
+    },
+    {
+      "postId": "2110220253204500492",
+      "reason": "Same gummy-bear comparison already collected from original creator semichenkko, 2110131790136401989."
+    },
+    {
+      "postId": "2110216927763443987",
+      "reason": "Same gummy-bear comparison already collected from semichenkko, 2110131790136401989."
+    },
+    {
+      "postId": "2110213441575412022",
+      "reason": "Same gummy-bear comparison already collected from semichenkko, 2110131790136401989."
+    },
+    {
+      "postId": "2110211048825647560",
+      "reason": "Same gummy-bear comparison already collected from semichenkko, 2110131790136401989."
+    },
+    {
+      "postId": "2110208734291247560",
+      "reason": "Same ship-in-a-bottle comparison already collected from vib3coded, 2110136719827747181."
+    },
+    {
+      "postId": "2110205693789909253",
+      "reason": "Photorealistic game footage; original assets and actual generation-model provenance not established."
+    },
+    {
+      "postId": "2110205665679646800",
+      "reason": "Chat interaction and model feedback only; no completed creative project demonstrated."
+    },
+    {
+      "postId": "2110199862512038390",
+      "reason": "Reused pelican-on-jet comparison; independent original creation not established."
+    },
+    {
+      "postId": "2110196035314503890",
+      "reason": "Republished four-model whale comparison; original creator not established."
+    },
+    {
+      "postId": "2110196120681115923",
+      "reason": "Author only identifies Argon as the worst one; attachment identity remains ambiguous."
+    },
+    {
+      "postId": "2110197658346221818",
+      "reason": "Same Argon voxel diorama as standalone creator reply 2110197843910902181; retained as a related source, not counted twice."
+    },
+    {
+      "postId": "2110221562108584381",
+      "reason": "Photorealistic commercial: underlying footage generator is not established beyond the Argon chat workflow."
+    },
+    {
+      "postId": "2110226280855830863",
+      "reason": "Republished Chinese-language pelican showcase; original creator attribution is not established."
+    },
+    {
+      "postId": "2110196895885013081",
+      "reason": "Article commentary with an embedded monkey-driving clip; original creator attribution is not established."
+    },
+    {
+      "postId": "2110222234296123476",
+      "reason": "Later recording of the same map simulation as 2110206207848001751; linked as a follow-up rather than counted again."
+    },
+    {
+      "postId": "2110220353180168399",
+      "attachmentIndexes": [
+        1
+      ],
+      "reason": "Author identifies attachment 1 as Opus 5.5; only attachment 2 is Argon."
+    },
+    {
+      "postId": "2110219953760862239",
+      "reason": "Visual re-encode of the voxel dragon and pagoda already catalogued under original creator HarshithLucky3, source 2110045402544341180."
     }
   ],
   "rights": "Third-party videos, original posts and prompts retain their creators rights. MIT covers original repository tooling and curation structure only.",
-  "searchSnapshotEndUtc": "2026-10-14T02:21:00Z",
+  "searchSnapshotEndUtc": "2026-10-14T04:33:00Z",
   "earliestPublicationUtc": "2026-10-13T16:00:02Z",
-  "latestPublicationUtc": "2026-10-14T02:20:32Z",
+  "latestPublicationUtc": "2026-10-14T04:31:51Z",
   "lastSearch": {
-    "fromUtc": "2026-10-14T01:10:00Z",
-    "toUtc": "2026-10-14T02:21:00Z",
-    "query": "(argon OR \"gemini 4\" OR gemini4) filter:videos since:2026-10-14_01:10:00_UTC until:2026-10-14_02:21:00_UTC",
+    "fromUtc": "2026-10-14T02:10:00Z",
+    "toUtc": "2026-10-14T04:33:00Z",
+    "query": "(argon OR \"gemini 4\" OR gemini4) filter:videos since:2026-10-14_02:10:00_UTC until:2026-10-14_04:33:00_UTC",
     "surface": "X Latest in the current signed-in Chrome session, followed by original posts and author replies",
-    "discoveredPostCount": 94,
-    "candidatePostsWithFullMetadata": 59,
-    "addedVideos": 27,
-    "verifiedNewObjects": 81,
+    "discoveredPostCount": 152,
+    "candidatePostsWithFullMetadata": 81,
+    "updatedExistingPrompts": 1,
+    "originalPostsReviewed": 78,
+    "addedVideos": 61,
+    "verifiedNewObjects": 183,
     "scope": "Curated original works found in the bounded search; not an exhaustive index of X."
   }
 }
