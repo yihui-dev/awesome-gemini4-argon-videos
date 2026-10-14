@@ -4,13 +4,13 @@ English · [简体中文](README.zh-CN.md)
 
 A curated collection of Gemini 4 Argon creations shared on X, with original videos, full post text, creator credits, and publicly shared prompts.
 
-**[Explore AI creative skills on Skillry →](https://skillry.dev/skills?output=video&utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
+**[▶ Browse all 83 on Skillry](https://skillry.dev/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)** · newest first, with a live gallery that keeps growing.
 
-- **83 videos**, 56 source accounts
+- **83 videos** from 56 source accounts, **and growing**: new ones are added as creators post them.
 - 11 entries include a verbatim public prompt or template; other entries explicitly say no exact prompt was found.
 - Original videos, posters, and animated previews are hosted on Skillry R2 / `media.skillry.dev`. Click a preview to watch; click a title for the post and prompt.
 - Comparison recordings have their own section and retain other-model labels. Build walkthroughs are listed separately from creation demos.
-- This is a bounded collection snapshot, not an exhaustive index of X. The cutoff applies to publication, not when the creator generated the work.
+- Each update is a bounded collection pass, not an exhaustive index of X. The cutoff applies to publication, not when the creator generated the work.
 
 ## Contents
 

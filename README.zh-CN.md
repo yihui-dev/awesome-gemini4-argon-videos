@@ -4,13 +4,13 @@
 
 从 X 收集的 Gemini 4 Argon 创作视频：保留作者、完整原文、公开提示词和原帖链接。
 
-**[在 Skillry 探索 AI 创作 Skills →](https://skillry.dev/skills?output=video&utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
+**[▶ 在 Skillry 浏览全部 83 条视频](https://skillry.dev/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)** · 最新的排在最前，持续增加中。
 
-- **83 条视频**, 56 个发布账号
+- **83 条视频**，来自 56 个发布账号，**持续增加中**：创作者发布新作品后会陆续收录。
 - 11 条保留了作者公开的原文提示词或模板；其余条目明确标注未公开，不编造提示词。
 - 原视频、静态封面和动态预览托管于 Skillry R2 / `media.skillry.dev`。点击预览播放视频，点击标题查看原文和提示词。
 - 对比视频单独分组；保留作者原视频中的其它模型标签。制作教程与纯作品演示分组展示。
-- 这是一份截至本次采集的快照，不代表 X 全量内容，也不保证每段作品的实际生成日期是今天。
+- 每次更新都是一轮有边界的采集，不代表 X 全量内容；截止时间按原帖发布时间计算，而不是作品实际生成时间。
 
 ## 目录
 
