@@ -3,17 +3,15 @@
   "collectedOn": "2026-10-14",
   "publicationCutoffUtc": "2026-10-13T16:00:00Z",
   "cutoffRule": "strictly after; original source post publication, not a repost or download time",
-  "videoCount": 382,
-  "sourceAccountCount": 286,
-  "publicPromptCount": 67,
+  "videoCount": 280,
+  "sourceAccountCount": 213,
+  "publicPromptCount": 54,
   "categories": {
-    "motion": 94,
-    "3d": 90,
-    "interactive": 115,
-    "workflow": 28,
-    "comparison": 55
+    "motion": 76,
+    "3d": 91,
+    "interactive": 113
   },
-  "videoBytes": 8945773629,
+  "videoBytes": 6824136525,
   "discovery": {
     "platform": "X",
     "surfaces": [
@@ -382,12 +380,930 @@
     {
       "postId": "2110219953760862239",
       "reason": "Visual re-encode of the voxel dragon and pagoda already catalogued under original creator HarshithLucky3, source 2110045402544341180."
+    },
+    {
+      "postId": "2110038980058141140",
+      "entryId": "2110038980058141140",
+      "mediaId": "2110038895505158145",
+      "sourceSha256": "dedb954998f2659234b4f44c1937eed10ffaeeaa1e333bec11ad31804ca1615d",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110039192365637985",
+      "entryId": "2110039192365637985",
+      "mediaId": "2110038977181011968",
+      "sourceSha256": "e767d86b4bb5989dd11564429e0090ef1e95f0797354022e9bf244974f311e58",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110039863039008840",
+      "entryId": "2110039863039008840",
+      "mediaId": "2110037731829071872",
+      "sourceSha256": "39268c74572942d0855973219419e93e75489b8ae2cec2a537a4c4907aaec4d8",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110039865119113597",
+      "entryId": "2110039865119113597",
+      "mediaId": "2110037937157013504",
+      "sourceSha256": "9f4b12011782bb89317c31eaccd477f3a518e54e904e42923891d63a7b97041f",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110040068027199925",
+      "entryId": "2110040068027199925",
+      "mediaId": "2110039367213568001",
+      "sourceSha256": "f61c6abebfbbf8d30b7d8273ddfb02dc3baca042fa0782bf553e19c2e69a881f",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110040109789708543",
+      "entryId": "2110040109789708543",
+      "mediaId": "2110040049467240449",
+      "sourceSha256": "c75ba97d57d694c3e40723a9c20f551a808a6de484d48d4ec7026793fa0a2c7e",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110040726457491845",
+      "entryId": "2110040726457491845",
+      "mediaId": "2110040468600012800",
+      "sourceSha256": "114f662e1c34737bac33cfde387cbf59fc709d055683cef6642f25a60510028f",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110041194457899054",
+      "entryId": "2110041194457899054",
+      "mediaId": "2110040437302157312",
+      "sourceSha256": "7603095d7a9274dbb7a45096404f6ccd3d336c54d0d6bb78135f31d3de689d99",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110041614685282336",
+      "entryId": "2110041614685282336",
+      "mediaId": "2110037856089464833",
+      "sourceSha256": "f84b8bc73141f5f3862582fccaa0a8650ab826645a46a842bc7221309d428107",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110041939978694766",
+      "entryId": "2110041939978694766",
+      "mediaId": "2110041173033381889",
+      "sourceSha256": "d9500ffe59c4a94ed85bc4c5acb442a755222049b0f508b4db3692682f3a5c62",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110042531425812846",
+      "entryId": "2110042531425812846",
+      "mediaId": "2110042048091000832",
+      "sourceSha256": "4e7b7e3160f6808fe4c078927c979ee4f32c77ce3f12d688484728d3edc73b5a",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110043060134703594",
+      "entryId": "2110043060134703594",
+      "mediaId": "2110042908665741312",
+      "sourceSha256": "b90437df91f60bb0c65e7508f2d2ccfec3eadd7f2cc3f662207960b77fe933d0",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110043597051658263",
+      "entryId": "2110043597051658263",
+      "mediaId": "2110043464704589824",
+      "sourceSha256": "7140498a4b7d507e369796c0abc2013b2ae6ffb470b927cf23092d656e89cf5d",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110043897812668840",
+      "entryId": "2110043897812668840",
+      "mediaId": "2110043874030927872",
+      "sourceSha256": "f80f9a691d180dba966f9f97cd83d7bfeea5a6ed59e0b0ccbc283a6a11ccc09c",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110047624359194720",
+      "entryId": "2110047624359194720",
+      "mediaId": "2110046036366438401",
+      "sourceSha256": "65ec447a7e9c72cec1a48ec0fbf995f1a7c29724d8b7af029e76de33d8f47793",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110047989280670072",
+      "entryId": "2110047989280670072",
+      "mediaId": "2110047947220221952",
+      "sourceSha256": "64e82c0e10b6f406adccb0e3161148fcb15834957d6149d15caa1a824fb547e0",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110050272806601189",
+      "entryId": "2110050272806601189",
+      "mediaId": "2110047714310488070",
+      "sourceSha256": "6b9a7415b31f0351c0d1f4d2aa79269cc5c5f0e8bacf54689c3f6d3ae07266a5",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110050276128559172",
+      "entryId": "2110050276128559172",
+      "mediaId": "2110048896512819201",
+      "sourceSha256": "52fb62d0cc411ea37970290028dd7ab37a971ec9bfa2ed02ac11f954d5ca380c",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110050277831459182",
+      "entryId": "2110050277831459182",
+      "mediaId": "2110049662619222017",
+      "sourceSha256": "3a739ca049971b1b2144006e703d359ec691001bb8cfab0febcf37d14daf9579",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110050308969627723",
+      "entryId": "2110050308969627723",
+      "mediaId": "2110037058651860992",
+      "sourceSha256": "4207e5c0871cb71b6ffa040e22ddacf7d0c9c7f0279cb43067240c01725ddde1",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110050421184360718",
+      "entryId": "2110050421184360718",
+      "mediaId": "2110049906429689856",
+      "sourceSha256": "90222b157d6235540eae60e4103c057b944a517a0961a7357208183af06551ac",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110051610953171343",
+      "entryId": "2110051610953171343",
+      "mediaId": "2110051544838320130",
+      "sourceSha256": "168dccfb47a7920f1533fa86a69c199f6974bca0a536246b0a0b8f85bef2a99e",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110053382043873389",
+      "entryId": "2110053382043873389",
+      "mediaId": "2110053327278858240",
+      "sourceSha256": "50f82c81e6aa7d54166b3bc545fd337db066f11f2009e52abdd219df3b57d3fb",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110054176382206379",
+      "entryId": "2110054176382206379",
+      "mediaId": "2110051759288655872",
+      "sourceSha256": "3f85e5101a1e606c3d3750484be840dcf899deea031e4598a62f4614933dcbed",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110054195734982817",
+      "entryId": "2110054195734982817",
+      "mediaId": "2110053969594843136",
+      "sourceSha256": "1d559e86d1c607f6a0c1b25983165502bbe6b2eb8176f691c775e1ff671a5697",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110056629756674190",
+      "entryId": "2110056629756674190",
+      "mediaId": "2110055761946554368",
+      "sourceSha256": "b909f3ca824748b4bd7a60d1ce84a03ce9e456df1804d9bfa668b324835a9e2f",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110057589279162811",
+      "entryId": "2110057589279162811",
+      "mediaId": "2110055633810534401",
+      "sourceSha256": "0a868ec9a538c97483b4401ef0bd62c907b63ed02cffd18c4d1af35eb29c93d3",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110057849653002459",
+      "entryId": "2110057849653002459",
+      "mediaId": "2110057723484069888",
+      "sourceSha256": "0682ca732680d20020eef3dbf92f6113d81e8a2e821f0267edee8f613330391b",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110058567239888984",
+      "entryId": "2110058567239888984",
+      "mediaId": "2110058431940014080",
+      "sourceSha256": "160c5a5b32a7af7d92193fd3b72ced058a6eb278e5c853781818cac87bb358fb",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110059132569215117",
+      "entryId": "2110059132569215117",
+      "mediaId": "2110059032639946754",
+      "sourceSha256": "ff14ad29d4f69179f2b7357e969ff343ed09677d9d59413bcd8ed9fef09def3e",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110065587279798719",
+      "entryId": "2110065587279798719",
+      "mediaId": "2110065442639228928",
+      "sourceSha256": "5225ea307baaefb91771104b50fdb1288b52ba1790d6b88939d26629d9316be9",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110067362603110790",
+      "entryId": "2110067362603110790",
+      "mediaId": "2110067268826861568",
+      "sourceSha256": "3626e05889e1c574505cbde63608818691983855c071e816c73123c47b8c0ef8",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110067675074535792",
+      "entryId": "2110067675074535792",
+      "mediaId": "2110067226577719296",
+      "sourceSha256": "58f3261aa1457a1c5c2c540ecc8fd495616f6950bc35ace71260a349055ee861",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110068872846197107",
+      "entryId": "2110068872846197107",
+      "mediaId": "2110068718856269824",
+      "sourceSha256": "1bcd4069b0ad8a6bf68494b8b8e3425ddc442fd604f8b23ae63210c0fcf8feaa",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110069699597971828",
+      "entryId": "2110069699597971828",
+      "mediaId": "2110069488410345472",
+      "sourceSha256": "567dedb39e39f98cf4b8e27b324b3410caf96c5b07a2ef40971aeee514f32639",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110071875040665672",
+      "entryId": "2110071875040665672",
+      "mediaId": "2110071638230212608",
+      "sourceSha256": "bce8e24d17cf099907880aefb707881e9d561c0376a9c28bbe3d850acf268a78",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110075686946054258",
+      "entryId": "2110075686946054258",
+      "mediaId": "2110075625293684737",
+      "sourceSha256": "bd4887c770d58090f7e7900aacdd1e2034cb43fc1b65f8b5965762ec9d1d9a83",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110077572583403539",
+      "entryId": "2110077572583403539",
+      "mediaId": "2110077103702147072",
+      "sourceSha256": "3267136a4249fc9a010a2eb2fb9f2b65181db0b5b5948e1b6b301c9d83726203",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110082266055741764",
+      "entryId": "2110082266055741764",
+      "mediaId": "2110064809651978240",
+      "sourceSha256": "f90fede8de739561a1d1a1e695a2dd7900e64851f75b4acfdc3b0b3a9136668a",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110083146767335450",
+      "entryId": "2110083146767335450",
+      "mediaId": "2110059215947714560",
+      "sourceSha256": "e786edc4ff2642bae34bd40f72997476e1856a5e135892ef5fd68ae8c8b27375",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110087087097626876",
+      "entryId": "2110087087097626876",
+      "mediaId": "2110086717956845568",
+      "sourceSha256": "c8155d8d643783a5ce2ef6964478a2170a956375f38c79a9c34cb1da2610a902",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110087305163854042",
+      "entryId": "2110087305163854042",
+      "mediaId": "2110087261584834560",
+      "sourceSha256": "c2c871b6f99fdaadc556108113e59c3071afed0160adb74ba4a0f7057d0dcbd4",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110096619526140062",
+      "entryId": "2110096619526140062",
+      "mediaId": "2110096573812060162",
+      "sourceSha256": "870f8a06c93a9a9bafc6c707d824c8417b208038c37f34f29cdfcfd2f2fddbb0",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110098369276477862",
+      "entryId": "2110098369276477862",
+      "mediaId": "2110098302003744768",
+      "sourceSha256": "6abbbe20b00621e70caffc1a5f356cd7cbeae05b2801744725dd47b367f62299",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110099064310358329",
+      "entryId": "2110099064310358329",
+      "mediaId": "2110098607525539840",
+      "sourceSha256": "8c07ff51f60bd83601d19a5ca88eb6e7dc7a1dbe6c77fe1943e395b430c2d2be",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110100853910642816",
+      "entryId": "2110100853910642816",
+      "mediaId": "2110100283741073408",
+      "sourceSha256": "3577287d305817058f624cc1b49246f9b930761cb9f74513eb8518d3b1c208ed",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110101446272188680",
+      "entryId": "2110101446272188680",
+      "mediaId": "2110101018021134336",
+      "sourceSha256": "4d8bd6be23e44f1ee68da8805713f2fb7d0bc36bfd937d6315e7ae4f2f840809",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110101488345248250",
+      "entryId": "2110101488345248250",
+      "mediaId": "2110100620581425152",
+      "sourceSha256": "6a63ac3bf58dcb606a23541b42ef598cb8d3492ddffe9b346469bbae7d2fbee3",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110105796071535057",
+      "entryId": "2110105796071535057",
+      "mediaId": "2110059529736212480",
+      "sourceSha256": "d727fdd95f7367659365271f04987015195c699302aacaa7c2cd3e0e4b588d9f",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110105831601811818",
+      "entryId": "2110105831601811818",
+      "mediaId": "2110105738077151232",
+      "sourceSha256": "db48871036d11d90e151c9240fccc3b39a4a23b0126bef5660b427bb07706826",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110107094603206727",
+      "entryId": "2110107094603206727",
+      "mediaId": "2110106903552397312",
+      "sourceSha256": "e5a70e60478bdad32d15a0afa9630f905e617424cdf0c91041e66af5cb9cdeac",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110114781734821995",
+      "entryId": "2110114781734821995",
+      "mediaId": "2110114231521562624",
+      "sourceSha256": "590752d012714a09c657c35e710745a125fcd49240ec1121d89d4a5c43966ba9",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110115647921471812",
+      "entryId": "2110115647921471812",
+      "mediaId": "2110114685714337792",
+      "sourceSha256": "c37115a224557f62542ebff3019257b4ff673949046e7865f99f8c128c83e474",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110116583016419760",
+      "entryId": "2110116583016419760",
+      "mediaId": "2110116426166263808",
+      "sourceSha256": "8e232f4da14b0bb02f95bf473707390ca89ddf63a478652cc6de291b06c2a0b9",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110116676922650636",
+      "entryId": "2110116676922650636",
+      "mediaId": "2110116428124745728",
+      "sourceSha256": "d0529a1d84e1e54c94671ff5c9784e428b7068617a9227e8ff62a139521f82a9",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110116795516661832",
+      "entryId": "2110116795516661832",
+      "mediaId": "2110116721063591936",
+      "sourceSha256": "bc3ad673465e5d91b9d57064a0235b435549fbca462ba99e8e7959f92b33e2fb",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110117120839148016",
+      "entryId": "2110117120839148016",
+      "mediaId": "2110060068674957312",
+      "sourceSha256": "ad5a6376fac3355e482c7833ba2d741a7fdeb67a46d8ca5af0c73ccd11be3ad3",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110121002332295599",
+      "entryId": "2110121002332295599",
+      "mediaId": "2110119796457033728",
+      "sourceSha256": "99c6251d7ccc5faad1641ae9656b663c768c7e0875313e8a6feee3ca98f45269",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110121892442943710",
+      "entryId": "2110121892442943710",
+      "mediaId": "2110121468205940736",
+      "sourceSha256": "71e0d85b1fe7f00a1019463625a893fe9331f86f3fd71a4a93724c0ff542d40e",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110125129053200430",
+      "entryId": "2110125129053200430",
+      "mediaId": "2110124839784611840",
+      "sourceSha256": "23a6056f6f46fa4cfcd3e3479b95c83473052d07639d13efa98445b274edda11",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110126675682033909",
+      "entryId": "2110126675682033909",
+      "mediaId": "2110126223485505536",
+      "sourceSha256": "c4d7b13f29c60769244a2625e177f2514c9689f8a369ad19a73f8fb81a7bdb52",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110128795026145609",
+      "entryId": "2110128795026145609",
+      "mediaId": "2110104439227064320",
+      "sourceSha256": "7d9d0dad0b33c3912709a20c0af1757fce6c359612f704f883ae121205802388",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110128927549292684",
+      "entryId": "2110128927549292684",
+      "mediaId": "2110128563890405376",
+      "sourceSha256": "6967b000457bafcda647416607e4eedd92f1ff3f9d5e74f279ad45277a107e68",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110131790136401989",
+      "entryId": "2110131790136401989",
+      "mediaId": "2110131742086500352",
+      "sourceSha256": "9e97fc342d30208e1fda613b975a0e824c43fd7cf3ac3caa7ff848111a9adea6",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110132280614064300",
+      "entryId": "2110132280614064300",
+      "mediaId": "2110129306051514368",
+      "sourceSha256": "404a26cbebe36e0a62a917e739b28d060019fcf8d2315cce96e01f418d8f132a",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110132555643245028",
+      "entryId": "2110132555643245028",
+      "mediaId": "2110132519152828416",
+      "sourceSha256": "eac249d279af613b25f9b8edef0d2cf84581712404a40f8dcf865379801db441",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110135264782025044",
+      "entryId": "2110135264782025044",
+      "mediaId": "2110135229554069504",
+      "sourceSha256": "310fb295a5c1f167cc857006ac97b2ce1ec3ba6f8ab7ddc3954e7c22eb493273",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110136719827747181",
+      "entryId": "2110136719827747181",
+      "mediaId": "2110136618275233792",
+      "sourceSha256": "b2e028c0e2e4e34f3dde1b995d9697ca5d7eb126942432d8a4f63ed982139fdc",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110138628227887393",
+      "entryId": "2110138628227887393",
+      "mediaId": "2110137933504393216",
+      "sourceSha256": "492dd5a2a61025e59fa0d3d735947b67839980dda44aa725a9c56b42b5211673",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110147571532628423",
+      "entryId": "2110147571532628423",
+      "mediaId": "2110147518562480128",
+      "sourceSha256": "0424c46522cc3c89f8903b16aa9c76862e1f16b4a9f9ff9ec0cb58d60be790e8",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110152387604500593",
+      "entryId": "2110152387604500593",
+      "mediaId": "2110152222701203456",
+      "sourceSha256": "6c48d217fc36197a11b5a8addffbe2dd05030e4b2e70068fec1cfa63fe948a60",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110155062664188395",
+      "entryId": "2110155062664188395",
+      "mediaId": "2110154870040809472",
+      "sourceSha256": "3348f276e46a918509231a4f5933a27f9c97afdf8d59d5729a8a14666f303b91",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110156279742124329",
+      "entryId": "2110156279742124329",
+      "mediaId": "2110150008775340032",
+      "sourceSha256": "ac406f90cd3de82eaf7d6ce9917340061e37a5e128fb235a1c1786dfe90fdd2f",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110159585248178578",
+      "entryId": "2110159585248178578",
+      "mediaId": "2110158830856495104",
+      "sourceSha256": "4e2f269ff197ca82a23f34fda6fbc4d1ef7f0151b79bb83fb5f39869e03ea4d2",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110160290088382522",
+      "entryId": "2110160290088382522",
+      "mediaId": "2110159372387315713",
+      "sourceSha256": "8c8a04a5342e0e5a5ce56f5b68f6c2faf7d75678a4aab78204c34209e5d23b65",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110161014167941388",
+      "entryId": "2110161014167941388",
+      "mediaId": "2110160693102305280",
+      "sourceSha256": "667cb86418a018c4e5e3af10e194b44960c753601485489512a1f6638903cd2d",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110177575825821842",
+      "entryId": "2110177575825821842",
+      "mediaId": "2110177553965051904",
+      "sourceSha256": "77e7a558ef156ef34bd2e9a9d5fb99fbaef1ab111940a81866c0521307a75c7c",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110180538028048438",
+      "entryId": "2110180538028048438",
+      "mediaId": "2110120323559378944",
+      "sourceSha256": "29a0453c291c7b19149df4db068931beb08247ea7504e1b9dc056bc7f7004bb6",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110182874913910978",
+      "entryId": "2110182874913910978",
+      "mediaId": "2110181955828649984",
+      "sourceSha256": "a783fa0ecd648c197e8caba37715fc76efbe25d9f3fbbf9dbb9ad03de95e9c8a",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110186410401788028",
+      "entryId": "2110186410401788028",
+      "mediaId": "2110183463370567680",
+      "sourceSha256": "f5cf7c69a459779d5924924960fd86adc6d405a94f2679943c72e9ad048d1933",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110187095868547354",
+      "entryId": "2110187095868547354",
+      "mediaId": "2110184360272089088",
+      "sourceSha256": "5a2dd22a649568f2e5c201864cf9f2aa12ed931020c4d2ded934988a42b9d35f",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110187598581051789",
+      "entryId": "2110187598581051789",
+      "mediaId": "2110187526749380608",
+      "sourceSha256": "f643f05e16573c5f470c2500826df7fa8cf6367167304147b12c300c73541186",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110190366783910062",
+      "entryId": "2110190366783910062",
+      "mediaId": "2110189332921462784",
+      "sourceSha256": "601a65de49ce939c6c8a267620cb768ca242af8999cc5efef7f31d837da1b02b",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110194780068249705",
+      "entryId": "2110194780068249705",
+      "mediaId": "2110194156840841216",
+      "sourceSha256": "989048d640fed2502cf8fb7a08922a26d4982f5c3870799d769cbaf5e4ae896d",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110195194092044742",
+      "entryId": "2110195194092044742",
+      "mediaId": "2110194723654709248",
+      "sourceSha256": "ba943d968ac9654bf9cd6428b6ae578d4f65df2bc82076c6c226faee52afe2d6",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110196524559036551",
+      "entryId": "2110196524559036551",
+      "mediaId": "2110196299937325056",
+      "sourceSha256": "90e7a680f4162eb8d8475fdca14459b0b30e7dec36b9e854858f4a5d6304ac3a",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110206367248404739",
+      "entryId": "2110206367248404739",
+      "mediaId": "2110206307479552000",
+      "sourceSha256": "168e492e87b32a5b78e6cbf3aeaac4c94d35967d19c5f3f2a36124514add81cf",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110208333689049461",
+      "entryId": "2110208333689049461",
+      "mediaId": "2110208269465821184",
+      "sourceSha256": "688d1488c19334b30bf392301088ae5edd5050d9d4860f6a0aa3d46370a797fb",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110208644226949600",
+      "entryId": "2110208644226949600",
+      "mediaId": "2110201055502061568",
+      "sourceSha256": "21d9a47609a8d87ffb564c27fb64c70140e1bc19a068ecd276f725a3318d996c",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110209802496344522",
+      "entryId": "2110209802496344522",
+      "mediaId": "2110209618936754176",
+      "sourceSha256": "53c61278152ae433ae7de79de34dd9bd2910f53ef0969325ea8ab90d94282fc7",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110211917990273525",
+      "entryId": "2110211917990273525",
+      "mediaId": "2110211702117863424",
+      "sourceSha256": "40c709294c624cfac2a5fdac3174e23995f4b4f333219a34c45aa5082812117b",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110212307590795467",
+      "entryId": "2110212307590795467",
+      "mediaId": "2110211266170195968",
+      "sourceSha256": "535fbf727de605fd039e950bb58e5b1a995b414344cff309e2e28dea6a149df8",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110212723300876341",
+      "entryId": "2110212723300876341",
+      "mediaId": "2110212562247946241",
+      "sourceSha256": "7c45a18eef85c1654bf64f682cf9a117698ab8a45b1dfd7a958d907b658bf9f5",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110215229783355880",
+      "entryId": "2110215229783355880",
+      "mediaId": "2110214832666615808",
+      "sourceSha256": "66e14c8d5b7323c5a56d97e667e07d63fa5af1825d09cf8a6d3df0e01e7f7b03",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110216012188770555",
+      "entryId": "2110216012188770555",
+      "mediaId": "2110215604829671425",
+      "sourceSha256": "40918a6328eb3b123676cd452f8fa9a24edb3a0839f76671ac9e92604831af8c",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110216255474897247",
+      "entryId": "2110216255474897247",
+      "mediaId": "2110214933120229376",
+      "sourceSha256": "7113352f4ae38d6c35ebe9a844f7fb52c9485f36173ebfd3315770f4537eb97e",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "model_comparison",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110217988955857313",
+      "entryId": "2110217988955857313",
+      "mediaId": "2110217697703378944",
+      "sourceSha256": "8aa6f7939640ee7b66570e9a62294d93a3ed03430ae28c93bae26fca171cc2e8",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110222002607067646",
+      "entryId": "2110222002607067646",
+      "mediaId": "2110218309899784192",
+      "sourceSha256": "d6625c9c8647530c3028a3ca25d0fd9b69984fc633cdfe1a2fa7c2e26e2adf7d",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110222370015252517",
+      "entryId": "2110222370015252517",
+      "mediaId": "2110222300033216512",
+      "sourceSha256": "25659cb5238b7f074efa9aef036bb4a3a6132cdf906684093bad1c0b7052e993",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110223489387163725",
+      "entryId": "2110223489387163725",
+      "mediaId": "2110221255064588289",
+      "sourceSha256": "d079003ebe8ec8454d4c33c13bb4fa70987af2839646e8e64a882c0d5340b633",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110226197368246652",
+      "entryId": "2110226197368246652",
+      "mediaId": "2110225362835984384",
+      "sourceSha256": "e29b405a751c8a99979a30d4fc95a66633f336d520037d7faaf6bc85c7a90c62",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
+    },
+    {
+      "postId": "2110227059108921680",
+      "entryId": "2110227059108921680",
+      "mediaId": "2110226475286941697",
+      "sourceSha256": "89297c67f8b5c5081b3409b4ce1dd95b5bf20287c67e8e03d876ed592eea74ff",
+      "removedAt": "2026-10-14T06:18:35.313563Z",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Removed at the curator's request: model comparisons, narrated explainers, tutorials, production walkthroughs, and software feature presentations are outside this finished-work showcase."
     }
   ],
   "rights": "Third-party videos, original posts and prompts retain their creators rights. MIT covers original repository tooling and curation structure only.",
   "searchSnapshotEndUtc": "2026-10-14T04:33:00Z",
   "earliestPublicationUtc": "2026-10-13T16:00:02Z",
-  "latestPublicationUtc": "2026-10-14T04:31:51Z",
+  "latestPublicationUtc": "2026-10-14T04:27:44Z",
   "lastSearch": {
     "fromUtc": "2026-10-14T02:10:00Z",
     "toUtc": "2026-10-14T04:33:00Z",
@@ -400,5 +1316,30 @@
     "addedVideos": 61,
     "verifiedNewObjects": 183,
     "scope": "Curated original works found in the bounded search; not an exhaustive index of X."
+  },
+  "curationPolicy": {
+    "showcase": "Finished creative work only; exclude model comparisons, reviews, explainers, tutorials, production walkthroughs, and software feature presentations. A short product demo can still be an explainer; evaluate content, not just category or duration.",
+    "maxNewVideoDurationSeconds": 120,
+    "screening": "Review directly on X, including substantive comments and visible engagement, before downloading final selections.",
+    "maxNewVideosPerRun": 50,
+    "intervalHours": 4
+  },
+  "lastCuration": {
+    "at": "2026-10-14T06:18:35.313563Z",
+    "removedVideoCount": 102,
+    "removalCategories": {
+      "explanatory_or_product_walkthrough": 47,
+      "model_comparison": 55
+    },
+    "reclassifiedFinishedWorks": [
+      "2110090701715513687",
+      "2110091334707286214",
+      "2110125258351030429",
+      "2110131248727298412",
+      "2110165927916613916",
+      "2110170471165505765"
+    ],
+    "newMediaDownloads": 0,
+    "r2ObjectsDeleted": 0
   }
 }

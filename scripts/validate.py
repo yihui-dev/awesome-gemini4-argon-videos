@@ -17,6 +17,10 @@ assert len({v['id'] for v in videos}) == len(videos)
 assert len({v['sourceSha256'] for v in videos}) == len(videos), 'Duplicate original files'
 assert len({v['mediaId'] for v in videos}) == len(videos)
 assert len(objects) == len(videos) * 3 == verification['objectCount']
+excluded = [e for e in collection.get('excludedOrConsolidated', []) if e.get('reasonCode') in {'model_comparison', 'explanatory_or_product_walkthrough'}]
+for field, excluded_field in [('id', 'entryId'), ('mediaId', 'mediaId'), ('sourceSha256', 'sourceSha256')]:
+    assert not ({v[field] for v in videos} & {e[excluded_field] for e in excluded if e.get(excluded_field)}), 'Removed content re-added'
+assert {p.stem for p in (ROOT / 'prompts').glob('*.md')} == {v['id'] for v in videos}, 'Stale or missing prompt pages'
 for v in videos:
     post_id = v['id'].split('-')[0]
     p = posts[post_id]
@@ -27,7 +31,7 @@ for v in videos:
     assert v['originalPost'] == p['text'] and v['author']['handle'] == p['author']['handle']
     assert v['sourceUrl'] == p['url'] and post_id in v['sourceUrl']
     assert (ROOT / 'prompts' / (v['id'] + '.md')).exists()
-    assert v['category'] in {'motion', '3d', 'interactive', 'comparison', 'workflow'}
+    assert v['category'] in {'motion', '3d', 'interactive'}
     assert bool(v['prompt']) == bool(v['promptSourceUrl'])
     if v['prompt']:
         assert v['promptStatus'].startswith('verbatim')
