@@ -8650,5 +8650,70 @@
     "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110362020935860334/2110361823841320960.cf68596587c4.mp4",
     "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110362020935860334/poster.dee426fb08de.webp",
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110362020935860334/preview.18dcbeffe571.webp"
+  },
+  {
+    "id": "2110390964028330106",
+    "title": "Kestrel K1 Humanoid Robot",
+    "category": "3d",
+    "author": {
+      "name": "Bee",
+      "handle": "thtbee_",
+      "url": "https://x.com/thtbee_"
+    },
+    "sourceUrl": "https://x.com/thtbee_/status/2110390964028330106",
+    "publishedAt": "2026-10-14T15:23:09Z",
+    "originalPost": "Gemini 4 Argon - A futuristic humanoid 3D robot..\n\nBuilt with Three.js & Blender..\n\nYou can try it out here: https://thtbee.github.io/waggles/kestrel-k1/\nAnd explore the demos from my previous posts here: https://github.com/thtbee/waggles\n\nThis took around 30hrs of iteration and direction.. Initially, I only planned to build a robotic hand. When I saw how good it was.. I expanded the scope to build a full interactive robot!\n\nIt looks so good, and the exploded view is insane too.. I asked it to add some premade poses (it even added a sassy one ;)\n\nThere's still a lot to show, and something cool is almost ready.. I might announce it today if I get everything set up! So stick around :)",
+    "prompt": null,
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": null,
+    "modelAttribution": "author_reported",
+    "mediaId": "2110386210439073793",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110386210439073793/vid/avc1/1920x1080/KRN7YlQZCCBCrLg6.mp4?tag=29",
+    "sourceSha256": "d4903b1d059c6d35554e8724a42029c378a9701b6a426c645cfb949ce9489ef2",
+    "duration": 70.983401,
+    "bytes": 58551135,
+    "width": 1920,
+    "height": 1080,
+    "relatedSources": [],
+    "additionalPosts": [
+      {
+        "url": "https://x.com/thtbee_/status/2110411018858086553",
+        "text": "@PJeevanG1 Yup yup very soon I'm readying everything.. i will put it here.. https://github.com/thtbee/waggles\n\nIn the meanwhile you can check explore all the previous builds here.. https://thtbee.github.io/waggles/",
+        "publishedAt": "2026-10-14T16:42:51Z"
+      }
+    ],
+    "note": "The creator reports about 30 hours of iterative direction using Gemini 4 Argon, Three.js and Blender.",
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110390964028330106/2110386210439073793.d4903b1d059c.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110390964028330106/poster.bec06198c525.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110390964028330106/preview.608fd92657c6.webp"
+  },
+  {
+    "id": "2110476539825643944",
+    "title": "Hand-Drawn Skull Collage in Motion",
+    "category": "motion",
+    "author": {
+      "name": "FinkTheArtist",
+      "handle": "crtvTeknologist",
+      "url": "https://x.com/crtvTeknologist"
+    },
+    "sourceUrl": "https://x.com/crtvTeknologist/status/2110476539825643944",
+    "publishedAt": "2026-10-14T21:03:12Z",
+    "originalPost": "I asked Gemini 4 Argon to take one of my sketches and make something cool. This is what it did:",
+    "prompt": null,
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": null,
+    "modelAttribution": "author_reported",
+    "mediaId": "2110476470648745984",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110476470648745984/vid/avc1/1080x1350/QFmYWgY5NWXFHFN7.mp4?tag=29",
+    "sourceSha256": "7141f74311855fed94da9d4c9537d6fc10be10cdbc2db171c516b847c2d2024f",
+    "duration": 13.55,
+    "bytes": 5888740,
+    "width": 1080,
+    "height": 1350,
+    "relatedSources": [],
+    "additionalPosts": [],
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110476539825643944/2110476470648745984.7141f7431185.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110476539825643944/poster.0d4f2a1de835.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110476539825643944/preview.ddba3ac7afc0.webp"
   }
 ]

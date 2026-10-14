@@ -1,0 +1,508 @@
+{
+  "automationId": "gemini-4-argon",
+  "fromUtc": "2026-10-14T04:10:00Z",
+  "toUtc": "2026-10-14T21:30:38Z",
+  "observedAt": "2026-10-14T21:38:27.298639+00:00",
+  "discoveredPostCount": 47,
+  "originalPostsReviewed": 6,
+  "selectedCount": 2,
+  "pendingCount": 45,
+  "scope": "Bounded X Latest and Top search plus original threads; 47 distinct search results and one earlier pending original reviewed. Not exhaustive. Successful-search cursor preserved; unresolved candidates never downloaded.",
+  "candidates": [
+    {
+      "postId": "2110483058927489349",
+      "sourceUrl": "https://x.com/i/status/2110483058927489349",
+      "decision": "excluded_promotion",
+      "reason": "Model availability, workflow promotion or news rather than an original finished creative work; excluded at text screening.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110477416695304460",
+      "sourceUrl": "https://x.com/i/status/2110477416695304460",
+      "decision": "excluded_promotion",
+      "reason": "Model availability, workflow promotion or news rather than an original finished creative work; excluded at text screening.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110474382288011513",
+      "sourceUrl": "https://x.com/i/status/2110474382288011513",
+      "decision": "excluded_promotion",
+      "reason": "Model availability, workflow promotion or news rather than an original finished creative work; excluded at text screening.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110464408682152401",
+      "sourceUrl": "https://x.com/i/status/2110464408682152401",
+      "decision": "excluded_promotion",
+      "reason": "Model availability, workflow promotion or news rather than an original finished creative work; excluded at text screening.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110380396399776024",
+      "sourceUrl": "https://x.com/i/status/2110380396399776024",
+      "decision": "excluded_promotion",
+      "reason": "Model availability, workflow promotion or news rather than an original finished creative work; excluded at text screening.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110276528961654998",
+      "sourceUrl": "https://x.com/i/status/2110276528961654998",
+      "decision": "excluded_promotion",
+      "reason": "Model availability, workflow promotion or news rather than an original finished creative work; excluded at text screening.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110482343148601840",
+      "sourceUrl": "https://x.com/i/status/2110482343148601840",
+      "decision": "excluded_software_features",
+      "reason": "Post describes research/workflow or utility software features rather than a finished creative work.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110458309077795038",
+      "sourceUrl": "https://x.com/i/status/2110458309077795038",
+      "decision": "excluded_software_features",
+      "reason": "Post describes research/workflow or utility software features rather than a finished creative work.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110474369952858195",
+      "sourceUrl": "https://x.com/i/status/2110474369952858195",
+      "decision": "excluded_comparison",
+      "reason": "Explicit model comparison or attachment belonging to a multi-model comparison thread; no candidate download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110473838353953154",
+      "sourceUrl": "https://x.com/i/status/2110473838353953154",
+      "decision": "excluded_comparison",
+      "reason": "Explicit model comparison or attachment belonging to a multi-model comparison thread; no candidate download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110473836219048301",
+      "sourceUrl": "https://x.com/i/status/2110473836219048301",
+      "decision": "excluded_comparison",
+      "reason": "Explicit model comparison or attachment belonging to a multi-model comparison thread; no candidate download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110460343205949870",
+      "sourceUrl": "https://x.com/i/status/2110460343205949870",
+      "decision": "excluded_comparison",
+      "reason": "Explicit model comparison or attachment belonging to a multi-model comparison thread; no candidate download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110457138740957664",
+      "sourceUrl": "https://x.com/i/status/2110457138740957664",
+      "decision": "excluded_comparison",
+      "reason": "Explicit model comparison or attachment belonging to a multi-model comparison thread; no candidate download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110244369706139742",
+      "sourceUrl": "https://x.com/i/status/2110244369706139742",
+      "decision": "excluded_comparison",
+      "reason": "Explicit model comparison or attachment belonging to a multi-model comparison thread; no candidate download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110428088698016038",
+      "sourceUrl": "https://x.com/i/status/2110428088698016038",
+      "decision": "excluded_comparison",
+      "reason": "Explicit model comparison or attachment belonging to a multi-model comparison thread; no candidate download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110297272042856888",
+      "sourceUrl": "https://x.com/i/status/2110297272042856888",
+      "decision": "excluded_comparison",
+      "reason": "Explicit model comparison or attachment belonging to a multi-model comparison thread; no candidate download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110467329163407780",
+      "sourceUrl": "https://x.com/i/status/2110467329163407780",
+      "decision": "excluded_explainer",
+      "reason": "Post explicitly calls the video an explainer of Fourier construction.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110466955253600453",
+      "sourceUrl": "https://x.com/i/status/2110466955253600453",
+      "decision": "excluded_other_model",
+      "reason": "Visible attribution identifies Grok Imagine or Opus rather than an Argon creative output.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110329593441796383",
+      "sourceUrl": "https://x.com/i/status/2110329593441796383",
+      "decision": "excluded_other_model",
+      "reason": "Visible attribution identifies Grok Imagine or Opus rather than an Argon creative output.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110479827660665320",
+      "sourceUrl": "https://x.com/i/status/2110479827660665320",
+      "decision": "excluded_author_reported_limitations",
+      "reason": "Author describes failed likeness, glitches or low-quality test output. Low-cost text rejection; no independent playback quality assessment claimed.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110456287448408381",
+      "sourceUrl": "https://x.com/i/status/2110456287448408381",
+      "decision": "excluded_author_reported_limitations",
+      "reason": "Author describes failed likeness, glitches or low-quality test output. Low-cost text rejection; no independent playback quality assessment claimed.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110460859004911683",
+      "sourceUrl": "https://x.com/i/status/2110460859004911683",
+      "decision": "excluded_author_reported_limitations",
+      "reason": "Author describes failed likeness, glitches or low-quality test output. Low-cost text rejection; no independent playback quality assessment claimed.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110480304280629329",
+      "sourceUrl": "https://x.com/i/status/2110480304280629329",
+      "decision": "excluded_repost_news",
+      "reason": "News/commentary reusing another creator or official demo; do not count as a new original work.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110477229662634136",
+      "sourceUrl": "https://x.com/i/status/2110477229662634136",
+      "decision": "excluded_repost_news",
+      "reason": "News/commentary reusing another creator or official demo; do not count as a new original work.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110481816838946933",
+      "sourceUrl": "https://x.com/i/status/2110481816838946933",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110478256097173600",
+      "sourceUrl": "https://x.com/i/status/2110478256097173600",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110473828526891276",
+      "sourceUrl": "https://x.com/i/status/2110473828526891276",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110468908067221643",
+      "sourceUrl": "https://x.com/i/status/2110468908067221643",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110467830185447751",
+      "sourceUrl": "https://x.com/i/status/2110467830185447751",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110465510760423917",
+      "sourceUrl": "https://x.com/i/status/2110465510760423917",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110465137597661211",
+      "sourceUrl": "https://x.com/i/status/2110465137597661211",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110464811930931372",
+      "sourceUrl": "https://x.com/i/status/2110464811930931372",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110463305529835606",
+      "sourceUrl": "https://x.com/i/status/2110463305529835606",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110458860377104764",
+      "sourceUrl": "https://x.com/i/status/2110458860377104764",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110458848381473138",
+      "sourceUrl": "https://x.com/i/status/2110458848381473138",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110458692218810431",
+      "sourceUrl": "https://x.com/i/status/2110458692218810431",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110458003027894607",
+      "sourceUrl": "https://x.com/i/status/2110458003027894607",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110457864699490679",
+      "sourceUrl": "https://x.com/i/status/2110457864699490679",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110471958513279274",
+      "sourceUrl": "https://x.com/i/status/2110471958513279274",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110407008956694797",
+      "sourceUrl": "https://x.com/i/status/2110407008956694797",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110384884732907667",
+      "sourceUrl": "https://x.com/i/status/2110384884732907667",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110233483176214805",
+      "sourceUrl": "https://x.com/i/status/2110233483176214805",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110479872418287630",
+      "sourceUrl": "https://x.com/i/status/2110479872418287630",
+      "decision": "excluded_limited_novelty",
+      "reason": "Original playback around 14s and 21s: flat 2D pelican bicycle with night/snack controls. Clean but limited novelty relative to existing pelican bicycle works.",
+      "stage": "original_post_review",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false,
+      "duration": 42,
+      "engagement": {
+        "views": 10,
+        "likes": 0,
+        "replies": 0
+      }
+    },
+    {
+      "postId": "2110475333262778649",
+      "sourceUrl": "https://x.com/i/status/2110475333262778649",
+      "decision": "excluded_quality",
+      "reason": "Original playback around 13s and 20s: bridge perspective followed by faint crowded wireframe/epicycle scene. Limited legibility and novelty relative to existing bridge/Fourier works. Generic praise did not override visual assessment.",
+      "stage": "original_post_review",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false,
+      "duration": 53.655,
+      "engagement": {
+        "views": 831,
+        "likes": 17,
+        "replies": 2,
+        "bookmarks": 8
+      }
+    },
+    {
+      "postId": "2110461103008321700",
+      "sourceUrl": "https://x.com/i/status/2110461103008321700",
+      "decision": "excluded_explainer",
+      "reason": "Original playback shows a developing llama outline with successive N/error/spinning-circle counts and formula, presenting an explanatory construction progression rather than only a finished work.",
+      "stage": "original_post_review",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false,
+      "engagement": {
+        "views": 2070,
+        "likes": 50,
+        "reposts": 2,
+        "replies": 6,
+        "bookmarks": 4
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/to_zix/status/2110463733906513965",
+          "note": "General model-quality skepticism; no specific source evidence and not used as rejection basis."
+        }
+      ]
+    },
+    {
+      "postId": "2110476539825643944",
+      "sourceUrl": "https://x.com/i/status/2110476539825643944",
+      "decision": "selected",
+      "reason": "X original playback at about 12s and 5.39s after loop: cutout hand-drawn skulls and figure shift with layered depth while preserving original paper textures. Distinct creator-owned sketch composition, finished compact art display; no comparison or instruction. Player duration 13.55s. One like,46 views,zero visible replies; exact prompt absent.",
+      "stage": "original_post_review",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": true,
+      "duration": 13.55,
+      "engagement": {
+        "views": 46,
+        "likes": 1,
+        "replies": 0
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/crtvTeknologist/status/2110476539825643944",
+          "note": "No visible replies; no exact public prompt in reviewed original."
+        }
+      ]
+    },
+    {
+      "postId": "2110390964028330106",
+      "sourceUrl": "https://x.com/i/status/2110390964028330106",
+      "decision": "selected",
+      "reason": "Original X playback at17.65s,~38s,~53s of70.916s: complete humanoid with layered mechanical structure, coherent articulated poses and detailed robotic hand close-up. Finished interactive model presentation, no creation instruction or other-model comparison. Author credits Argon,Three.js,Blender and30h iterative direction; not one-shot. Prompt promised in reply but not provided there.",
+      "stage": "original_post_review",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": true,
+      "duration": 70.916,
+      "engagement": {
+        "views": 5170,
+        "likes": 163,
+        "replies": 23,
+        "reposts": 11,
+        "bookmarks": 44
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/thtbee_/status/2110411018858086553",
+          "note": "Author says prompts/build materials will be shared, links public waggles repository; this reply does not provide the actual prompt."
+        },
+        {
+          "url": "https://x.com/thtbee_/status/2110413275272040702",
+          "note": "Author emphasizes iterative direction; original post reports about 30 hours. Not labelled one-shot."
+        }
+      ]
+    },
+    {
+      "postId": "2110253132353839106",
+      "sourceUrl": "https://x.com/i/status/2110253132353839106",
+      "decision": "excluded_limited_novelty",
+      "reason": "Reviewed prior pending original: 15-second weekday title with cyan typography, concentric circles, perspective grid and animated bars. Clear finish but conventional title-card composition, limited new value for this collection. Author reply describes procedural Python rendering; no exact prompt.",
+      "stage": "original_post_review",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false,
+      "duration": 15.046529,
+      "engagement": {
+        "views": 201,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0
+      }
+    }
+  ]
+}

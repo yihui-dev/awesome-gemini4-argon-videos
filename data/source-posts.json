@@ -4318,5 +4318,35 @@
       "name": "Yogesh Singla",
       "handle": "yogeshsingla481"
     }
+  },
+  {
+    "id": "2110476539825643944",
+    "url": "https://x.com/crtvTeknologist/status/2110476539825643944",
+    "text": "I asked Gemini 4 Argon to take one of my sketches and make something cool. This is what it did:",
+    "publishedTimestamp": 1792011792,
+    "author": {
+      "name": "FinkTheArtist",
+      "handle": "crtvTeknologist"
+    }
+  },
+  {
+    "id": "2110390964028330106",
+    "url": "https://x.com/thtbee_/status/2110390964028330106",
+    "text": "Gemini 4 Argon - A futuristic humanoid 3D robot..\n\nBuilt with Three.js & Blender..\n\nYou can try it out here: https://thtbee.github.io/waggles/kestrel-k1/\nAnd explore the demos from my previous posts here: https://github.com/thtbee/waggles\n\nThis took around 30hrs of iteration and direction.. Initially, I only planned to build a robotic hand. When I saw how good it was.. I expanded the scope to build a full interactive robot!\n\nIt looks so good, and the exploded view is insane too.. I asked it to add some premade poses (it even added a sassy one ;)\n\nThere's still a lot to show, and something cool is almost ready.. I might announce it today if I get everything set up! So stick around :)",
+    "publishedTimestamp": 1791991389,
+    "author": {
+      "name": "Bee",
+      "handle": "thtbee_"
+    }
+  },
+  {
+    "id": "2110411018858086553",
+    "url": "https://x.com/thtbee_/status/2110411018858086553",
+    "text": "@PJeevanG1 Yup yup very soon I'm readying everything.. i will put it here.. https://github.com/thtbee/waggles\n\nIn the meanwhile you can check explore all the previous builds here.. https://thtbee.github.io/waggles/",
+    "publishedTimestamp": 1791996171,
+    "author": {
+      "name": "Bee",
+      "handle": "thtbee_"
+    }
   }
 ]

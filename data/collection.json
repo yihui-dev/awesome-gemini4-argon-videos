@@ -3,15 +3,15 @@
   "collectedOn": "2026-10-14",
   "publicationCutoffUtc": "2026-10-13T16:00:00Z",
   "cutoffRule": "strictly after; original source post publication, not a repost or download time",
-  "videoCount": 291,
-  "sourceAccountCount": 219,
+  "videoCount": 293,
+  "sourceAccountCount": 220,
   "publicPromptCount": 57,
   "categories": {
-    "motion": 77,
-    "3d": 95,
+    "motion": 78,
+    "3d": 96,
     "interactive": 119
   },
-  "videoBytes": 7418771080,
+  "videoBytes": 7483210955,
   "discovery": {
     "platform": "X",
     "surfaces": [
@@ -1303,17 +1303,17 @@
   "rights": "Third-party videos, original posts and prompts retain their creators rights. MIT covers original repository tooling and curation structure only.",
   "searchSnapshotEndUtc": "2026-10-14T04:33:00Z",
   "earliestPublicationUtc": "2026-10-13T16:00:02Z",
-  "latestPublicationUtc": "2026-10-14T13:28:09Z",
+  "latestPublicationUtc": "2026-10-14T21:03:12Z",
   "lastSearch": {
     "fromUtc": "2026-10-14T04:10:00Z",
-    "toUtc": "2026-10-14T17:31:08Z",
+    "toUtc": "2026-10-14T21:30:38Z",
     "surface": "X Latest and Top in signed-in Chrome, followed by original posts and author replies",
-    "discoveredPostCount": 52,
-    "originalPostsReviewed": 5,
-    "addedVideos": 3,
-    "verifiedNewObjects": 9,
-    "pendingReviewCount": 28,
-    "screeningRecord": "data/screening/20261014T173108Z.json",
+    "discoveredPostCount": 47,
+    "originalPostsReviewed": 6,
+    "addedVideos": 2,
+    "verifiedNewObjects": 6,
+    "pendingReviewCount": 45,
+    "screeningRecord": "data/screening/20261014T213038Z.json",
     "scope": "Bounded discovery, not an exhaustive index of X. Unreviewed candidates retained; successful-search cursor intentionally not advanced until pending candidates are resolved."
   },
   "curationPolicy": {
@@ -1498,14 +1498,6 @@
       "reason": "Retained for further online playback/provenance review; not downloaded."
     },
     {
-      "postId": "2110253132353839106",
-      "sourceUrl": "https://x.com/i/status/2110253132353839106",
-      "decision": "pending",
-      "stage": "search_text_and_player_metadata",
-      "downloaded": false,
-      "reason": "Retained for further online playback/provenance review; not downloaded."
-    },
-    {
       "postId": "2110230202991472880",
       "sourceUrl": "https://x.com/i/status/2110230202991472880",
       "decision": "pending",
@@ -1592,6 +1584,168 @@
       "reason": "Virtual terrarium; original player review still needed.",
       "stage": "search_text",
       "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110481816838946933",
+      "sourceUrl": "https://x.com/i/status/2110481816838946933",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110478256097173600",
+      "sourceUrl": "https://x.com/i/status/2110478256097173600",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110473828526891276",
+      "sourceUrl": "https://x.com/i/status/2110473828526891276",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110468908067221643",
+      "sourceUrl": "https://x.com/i/status/2110468908067221643",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110467830185447751",
+      "sourceUrl": "https://x.com/i/status/2110467830185447751",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110465510760423917",
+      "sourceUrl": "https://x.com/i/status/2110465510760423917",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110465137597661211",
+      "sourceUrl": "https://x.com/i/status/2110465137597661211",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110464811930931372",
+      "sourceUrl": "https://x.com/i/status/2110464811930931372",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110463305529835606",
+      "sourceUrl": "https://x.com/i/status/2110463305529835606",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110458860377104764",
+      "sourceUrl": "https://x.com/i/status/2110458860377104764",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110458848381473138",
+      "sourceUrl": "https://x.com/i/status/2110458848381473138",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110458692218810431",
+      "sourceUrl": "https://x.com/i/status/2110458692218810431",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110458003027894607",
+      "sourceUrl": "https://x.com/i/status/2110458003027894607",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110457864699490679",
+      "sourceUrl": "https://x.com/i/status/2110457864699490679",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110471958513279274",
+      "sourceUrl": "https://x.com/i/status/2110471958513279274",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110407008956694797",
+      "sourceUrl": "https://x.com/i/status/2110407008956694797",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110384884732907667",
+      "sourceUrl": "https://x.com/i/status/2110384884732907667",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110233483176214805",
+      "sourceUrl": "https://x.com/i/status/2110233483176214805",
+      "decision": "pending",
+      "reason": "Requires original playback, content-type, attribution, duration and duplicate checks. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T21:38:27.298639+00:00",
       "downloaded": false
     }
   ]
