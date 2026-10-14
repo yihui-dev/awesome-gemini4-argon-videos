@@ -1,7 +1,7 @@
 {
-  "verifiedAt": "2026-10-14T13:38:54.339603+00:00",
+  "verifiedAt": "2026-10-14T17:40:19.228416+00:00",
   "method": "Every published object downloaded from its public R2 custom-domain URL and compared byte-for-byte by SHA-256 and length. Video URLs also tested with a 100-byte HTTP range request. Local originals passed ffprobe and full ffmpeg decode.",
-  "objectCount": 864,
+  "objectCount": 873,
   "objects": [
     {
       "url": "https://media.skillry.dev/gemini-4-argon/2110037855452180633/2110037645325733888.745e35aeddad.mp4",
@@ -7202,6 +7202,81 @@
       "publicReadback": "passed",
       "contentType": "image/webp",
       "verifiedAt": "2026-10-14T13:38:36.032054+00:00"
+    },
+    {
+      "url": "https://media.skillry.dev/gemini-4-argon/2110303650887487745/2110301548714852352.813b43ba3c3c.mp4",
+      "bytes": 257530543,
+      "sha256": "813b43ba3c3c9bdf1e328da23ae9cc34e49641f6a4a63aaad0612f2ca4c11372",
+      "publicReadback": "passed",
+      "contentType": "video/mp4",
+      "verifiedAt": "2026-10-14T17:40:18.862550+00:00",
+      "byteRange": "206; bytes 0-99; 100 bytes"
+    },
+    {
+      "url": "https://media.skillry.dev/gemini-4-argon/2110303650887487745/poster.78930868a71d.webp",
+      "bytes": 78896,
+      "sha256": "78930868a71d54ccb00eb93efeecb78954b71d5d92cccf76a7a323f1d01585cf",
+      "publicReadback": "passed",
+      "contentType": "image/webp",
+      "verifiedAt": "2026-10-14T17:40:14.471423+00:00"
+    },
+    {
+      "url": "https://media.skillry.dev/gemini-4-argon/2110303650887487745/preview.854d01451d1a.webp",
+      "bytes": 535982,
+      "sha256": "854d01451d1aa3f0dab74a8f3238630026e52beb603b8c526add5a9aaca1386b",
+      "publicReadback": "passed",
+      "contentType": "image/webp",
+      "verifiedAt": "2026-10-14T17:40:14.776209+00:00"
+    },
+    {
+      "url": "https://media.skillry.dev/gemini-4-argon/2110241991233790456/2110241050128531456.009ebb3730dc.mp4",
+      "bytes": 66112424,
+      "sha256": "009ebb3730dcba081c5f15e1f7d87fb5b2cc6302e3998c9e403515e31f18b560",
+      "publicReadback": "passed",
+      "contentType": "video/mp4",
+      "verifiedAt": "2026-10-14T17:40:16.423819+00:00",
+      "byteRange": "206; bytes 0-99; 100 bytes"
+    },
+    {
+      "url": "https://media.skillry.dev/gemini-4-argon/2110241991233790456/poster.b435b635dd9f.webp",
+      "bytes": 41154,
+      "sha256": "b435b635dd9f518e4026c1e25ed76b550c98394f28a5f43040bdc285fb770569",
+      "publicReadback": "passed",
+      "contentType": "image/webp",
+      "verifiedAt": "2026-10-14T17:40:14.501378+00:00"
+    },
+    {
+      "url": "https://media.skillry.dev/gemini-4-argon/2110241991233790456/preview.b5c64abaf4b2.webp",
+      "bytes": 174768,
+      "sha256": "b5c64abaf4b236a40379cd089d6262ff5751135509cbf10f1420d5fd2c692760",
+      "publicReadback": "passed",
+      "contentType": "image/webp",
+      "verifiedAt": "2026-10-14T17:40:14.644311+00:00"
+    },
+    {
+      "url": "https://media.skillry.dev/gemini-4-argon/2110361900160884792/2110356939465175040.4958470fad83.mp4",
+      "bytes": 6248766,
+      "sha256": "4958470fad83472ba45dd54591ce90a517ee45cf8f10a5e60dcf1d0c831816c0",
+      "publicReadback": "passed",
+      "contentType": "video/mp4",
+      "verifiedAt": "2026-10-14T17:40:16.017161+00:00",
+      "byteRange": "206; bytes 0-99; 100 bytes"
+    },
+    {
+      "url": "https://media.skillry.dev/gemini-4-argon/2110361900160884792/poster.f128914bac82.webp",
+      "bytes": 17912,
+      "sha256": "f128914bac82ce8fbb76229feddf34d5ca7ca2eaf80ae26a5c88497714680f78",
+      "publicReadback": "passed",
+      "contentType": "image/webp",
+      "verifiedAt": "2026-10-14T17:40:14.435368+00:00"
+    },
+    {
+      "url": "https://media.skillry.dev/gemini-4-argon/2110361900160884792/preview.6a8cdd2a3a74.webp",
+      "bytes": 135206,
+      "sha256": "6a8cdd2a3a747e875975151568c46e1c70b6f084058a239334c02726744f6d04",
+      "publicReadback": "passed",
+      "contentType": "image/webp",
+      "verifiedAt": "2026-10-14T17:40:15.243223+00:00"
     }
   ],
   "catalogReconciledAt": "2026-10-14T06:18:35.313563Z"

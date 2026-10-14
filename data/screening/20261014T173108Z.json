@@ -1,0 +1,568 @@
+{
+  "automationId": "gemini-4-argon",
+  "fromUtc": "2026-10-14T04:10:00Z",
+  "toUtc": "2026-10-14T17:31:08Z",
+  "observedAt": "2026-10-14T17:40:07.142045+00:00",
+  "discoveredPostCount": 52,
+  "originalPostsReviewed": 5,
+  "selectedCount": 3,
+  "pendingCount": 28,
+  "scope": "Bounded X Latest and Top search plus original threads. Search results are not exhaustive; old successful cursor is retained. Pending candidates do not enter download queue.",
+  "candidates": [
+    {
+      "postId": "2110422404174413866",
+      "sourceUrl": "https://x.com/i/status/2110422404174413866",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110419113873170472",
+      "sourceUrl": "https://x.com/i/status/2110419113873170472",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110418905168814491",
+      "sourceUrl": "https://x.com/i/status/2110418905168814491",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110417458846916697",
+      "sourceUrl": "https://x.com/i/status/2110417458846916697",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110417051680694613",
+      "sourceUrl": "https://x.com/i/status/2110417051680694613",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110416341287022800",
+      "sourceUrl": "https://x.com/i/status/2110416341287022800",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110416198085345694",
+      "sourceUrl": "https://x.com/i/status/2110416198085345694",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110415877485318583",
+      "sourceUrl": "https://x.com/i/status/2110415877485318583",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110414194139075055",
+      "sourceUrl": "https://x.com/i/status/2110414194139075055",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110413532089008510",
+      "sourceUrl": "https://x.com/i/status/2110413532089008510",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110413293491831212",
+      "sourceUrl": "https://x.com/i/status/2110413293491831212",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110412492417761442",
+      "sourceUrl": "https://x.com/i/status/2110412492417761442",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110412116104503705",
+      "sourceUrl": "https://x.com/i/status/2110412116104503705",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110411823857979404",
+      "sourceUrl": "https://x.com/i/status/2110411823857979404",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110275966094454864",
+      "sourceUrl": "https://x.com/i/status/2110275966094454864",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110282668122480967",
+      "sourceUrl": "https://x.com/i/status/2110282668122480967",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110398876889104799",
+      "sourceUrl": "https://x.com/i/status/2110398876889104799",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110308632453669038",
+      "sourceUrl": "https://x.com/i/status/2110308632453669038",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110234900616126769",
+      "sourceUrl": "https://x.com/i/status/2110234900616126769",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110396076054507792",
+      "sourceUrl": "https://x.com/i/status/2110396076054507792",
+      "decision": "excluded_comparison",
+      "reason": "Post explicitly presents same-prompt/model comparison; excluded before download, no quality claim based on playback.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110422804042805442",
+      "sourceUrl": "https://x.com/i/status/2110422804042805442",
+      "decision": "excluded_source",
+      "reason": "Author identifies the attached result as GPT-6 Sol, not Argon.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110419245477790045",
+      "sourceUrl": "https://x.com/i/status/2110419245477790045",
+      "decision": "excluded_source",
+      "reason": "Author credits video generation to MiniMax H3/ComfyUI and music to Suno.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110419057602408658",
+      "sourceUrl": "https://x.com/i/status/2110419057602408658",
+      "decision": "excluded_source",
+      "reason": "Author says they want to recreate the attached video; not a completed Argon output.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110417621493391852",
+      "sourceUrl": "https://x.com/i/status/2110417621493391852",
+      "decision": "excluded_source",
+      "reason": "Media is labelled Made with Grok Imagine.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110412783343059441",
+      "sourceUrl": "https://x.com/i/status/2110412783343059441",
+      "decision": "excluded_source",
+      "reason": "Quotes an October 6 HyperFrames video; cannot use new repost date as qualifying original publication.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110421276456313063",
+      "sourceUrl": "https://x.com/i/status/2110421276456313063",
+      "decision": "excluded_content_type",
+      "reason": "Prompting commentary comparing Opus and Argon, with another creator quoted; not original finished-work showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110418901108408700",
+      "sourceUrl": "https://x.com/i/status/2110418901108408700",
+      "decision": "excluded_content_type",
+      "reason": "Launch/news commentary about Gemini and app installation; excluded content type.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110417557572465014",
+      "sourceUrl": "https://x.com/i/status/2110417557572465014",
+      "decision": "excluded_content_type",
+      "reason": "Reports wrong recipe attribution in Gemini; not creative finished work.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110416852912665063",
+      "sourceUrl": "https://x.com/i/status/2110416852912665063",
+      "decision": "excluded_content_type",
+      "reason": "Release-notes interview/news episode.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110414241639612533",
+      "sourceUrl": "https://x.com/i/status/2110414241639612533",
+      "decision": "excluded_content_type",
+      "reason": "Model-launch commentary, not an attributed creative work.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110411902773813499",
+      "sourceUrl": "https://x.com/i/status/2110411902773813499",
+      "decision": "excluded_content_type",
+      "reason": "Official model launch/feature promotion.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110338902863032445",
+      "sourceUrl": "https://x.com/i/status/2110338902863032445",
+      "decision": "excluded_content_type",
+      "reason": "Explicitly an animation explaining electric motor operation; explainer exclusion applies.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110350583697908053",
+      "sourceUrl": "https://x.com/i/status/2110350583697908053",
+      "decision": "excluded_content_type",
+      "reason": "Reposted model capability/news demonstration, no original creator attribution.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110407107011031434",
+      "sourceUrl": "https://x.com/i/status/2110407107011031434",
+      "decision": "excluded_content_type",
+      "reason": "News thread compiling 15 examples; no original author verification.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110292322902753748",
+      "sourceUrl": "https://x.com/i/status/2110292322902753748",
+      "decision": "excluded_content_type",
+      "reason": "Explanatory discussion of text prediction and hallucinations.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110422918333092048",
+      "sourceUrl": "https://x.com/i/status/2110422918333092048",
+      "decision": "excluded_duration",
+      "reason": "X play control explicitly says 2 minutes 41 seconds; greater than 120 seconds.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false,
+      "durationDisplay": "2:41"
+    },
+    {
+      "postId": "2110413026033651853",
+      "sourceUrl": "https://x.com/i/status/2110413026033651853",
+      "decision": "excluded_incomplete",
+      "reason": "Author explicitly reports missing wire openings and low reward in CAD test; incomplete output, not finished showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110422079539675175",
+      "sourceUrl": "https://x.com/i/status/2110422079539675175",
+      "decision": "consolidated",
+      "reason": "Quotes the same Gothic Victorian carriage original 2110241991233790456 selected this round; no separate work counted.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110419562940498176",
+      "sourceUrl": "https://x.com/i/status/2110419562940498176",
+      "decision": "excluded_quality",
+      "reason": "Watched original at approximately 10,17,26 seconds of 53: landscape remains broad flat ground/fog with small controls; weaker composition and visual detail than the selected meadow. Public prompt present but does not override quality.",
+      "stage": "original_post_playback",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false,
+      "duration": 53,
+      "engagement": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 8,
+        "views": 238
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/soumyadesign/status/2110422739710554572",
+          "note": "Author praises conversational prompts; not independent quality evidence."
+        }
+      ]
+    },
+    {
+      "postId": "2110361711543029860",
+      "sourceUrl": "https://x.com/i/status/2110361711543029860",
+      "decision": "excluded_quality",
+      "reason": "Viewed original at 22 seconds and after loop: SVG avatar with small face/eye changes on plain white background. Limited motion and scene development; ordinary test rather than representative showcase.",
+      "stage": "original_post_playback",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false,
+      "duration": 27.916666,
+      "engagement": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 23
+      }
+    },
+    {
+      "postId": "2110417078654279736",
+      "sourceUrl": "https://x.com/i/status/2110417078654279736",
+      "decision": "pending",
+      "reason": "Walkable apartment: original creator and video type require review.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110413900277506127",
+      "sourceUrl": "https://x.com/i/status/2110413900277506127",
+      "decision": "pending",
+      "reason": "Argon reply appears in comparison thread; individual attachment content not yet viewed.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110413533116809299",
+      "sourceUrl": "https://x.com/i/status/2110413533116809299",
+      "decision": "pending",
+      "reason": "Generic model label; provenance/content type unresolved.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110413490024526057",
+      "sourceUrl": "https://x.com/i/status/2110413490024526057",
+      "decision": "pending",
+      "reason": "Robot actuator scene; need distinguish finished display from technical explainer.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110411560527282358",
+      "sourceUrl": "https://x.com/i/status/2110411560527282358",
+      "decision": "pending",
+      "reason": "Fourier Porsche repost; find creator and deduplicate before viewing.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110253739999461606",
+      "sourceUrl": "https://x.com/i/status/2110253739999461606",
+      "decision": "pending",
+      "reason": "Generic Gemini4 video label; Argon attribution unresolved.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110359948421206020",
+      "sourceUrl": "https://x.com/i/status/2110359948421206020",
+      "decision": "pending",
+      "reason": "Seven Wonders media credited to Adit_Yah; must find original before selection.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110324025855787092",
+      "sourceUrl": "https://x.com/i/status/2110324025855787092",
+      "decision": "pending",
+      "reason": "Game repost; original creator unresolved.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110250945900892463",
+      "sourceUrl": "https://x.com/i/status/2110250945900892463",
+      "decision": "pending",
+      "reason": "Argon motion work; requires original player review.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110397180817387792",
+      "sourceUrl": "https://x.com/i/status/2110397180817387792",
+      "decision": "pending",
+      "reason": "Animal capture-the-flag game repost; find original creator.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110363991180800187",
+      "sourceUrl": "https://x.com/i/status/2110363991180800187",
+      "decision": "pending",
+      "reason": "Virtual terrarium; original player review still needed.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110303650887487745",
+      "sourceUrl": "https://x.com/i/status/2110303650887487745",
+      "decision": "selected",
+      "reason": "X original playback observed at 14, 19, 30 and 40 seconds: dense flowers and grass, reflective stream, camera movement and changing daylight; coherent finished interactive scene. 75.983 seconds player. Author explicitly states Argon; public exact prompt absent. Comments mention hand-gesture harp, generic praise not used as proof.",
+      "stage": "original_post_playback",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": true,
+      "duration": 75.968,
+      "engagement": {
+        "replies": 7,
+        "reposts": 3,
+        "likes": 64,
+        "views": 1331
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/yibaili530/status/2110390775221731329",
+          "note": "Comment specifically mentions hand gestures playing harp; not treated as verified reproduction."
+        }
+      ],
+      "sourceTimestamp": 1791970572,
+      "snowflakeTimestamp": 1791970572.574,
+      "promptStatus": "not_published_in_reviewed_sources"
+    },
+    {
+      "postId": "2110241991233790456",
+      "sourceUrl": "https://x.com/i/status/2110241991233790456",
+      "decision": "selected",
+      "reason": "Original X playback observed at 16s,38s and loop restart; detailed gothic carriage, coherent multiple viewing angles, skull ornaments, door/window articulation. Finished interactive 3D work without instructional overlays or model comparison. Author replies confirm Antigravity and reference image; exact prompt not shared.",
+      "stage": "original_post_playback",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": true,
+      "duration": 50.076,
+      "engagement": {
+        "replies": 64,
+        "reposts": 106,
+        "likes": 1045,
+        "views": 39314
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/boyang_xie/status/2110357502617690414",
+          "note": "Asks how unseen details are handled; author replies 2110423397956231214 confirms reference image and limited model changes. 2110423992343707866 confirms Antigravity."
+        }
+      ],
+      "sourceTimestamp": 1791955871,
+      "snowflakeTimestamp": 1791955871.767,
+      "promptStatus": "not_published_in_reviewed_sources"
+    },
+    {
+      "postId": "2110361900160884792",
+      "sourceUrl": "https://x.com/i/status/2110361900160884792",
+      "decision": "selected",
+      "reason": "X playback sampled from start through 13.65s,23s,37.82s of 41.32s. Pure gameplay: knight dodges area attacks, breaks ankle armor, boss changes phase and falls exposing chest gears. Coherent health/armor indicators and readable effects. Promotional prose surrounds the post but the video shows finished gameplay, not platform instructions. No exact public prompt in reviewed replies.",
+      "stage": "original_post_playback",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": true,
+      "duration": 41.266,
+      "engagement": {
+        "replies": 5,
+        "reposts": 11,
+        "likes": 21,
+        "views": 17423
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/yogeshsingla481/status/2110382060376563720",
+          "note": "Author names Little Knight: Clockwork Colossus and links playable version. Other feedback concerns a different pocket-tanks game and is not quality evidence for this clip."
+        }
+      ],
+      "sourceTimestamp": 1791984460,
+      "snowflakeTimestamp": 1791984460.283,
+      "promptStatus": "not_published_in_reviewed_sources"
+    }
+  ]
+}

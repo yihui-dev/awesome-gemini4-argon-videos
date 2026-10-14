@@ -8339,6 +8339,46 @@
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110228353462526112/preview.2df062018a10.webp"
   },
   {
+    "id": "2110241991233790456",
+    "title": "Gothic Victorian Carriage",
+    "category": "3d",
+    "author": {
+      "name": "The Bugged Dev",
+      "handle": "thebuggeddev",
+      "url": "https://x.com/thebuggeddev"
+    },
+    "sourceUrl": "https://x.com/thebuggeddev/status/2110241991233790456",
+    "publishedAt": "2026-10-14T05:31:11Z",
+    "originalPost": "I feel like we haven't seen enough of what Gemini 4 Argon can actually do ❤️‍🔥\n\nI gave it one image of a Gothic Victorian carriage and asked it to build the whole thing as an interactive 3D experience.\n\nJust one image and this is what you get. \n\nA 174,000 face model from scratch, complete with opening doors, hinged windows, working wheel physics, suspension, flickering lanterns and even custom sculpted skulls.\n\nAll of this generated through code. No blender. \n\nArgon absolutely delivered with this one too. Many more such experiments are on the way :D",
+    "prompt": null,
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": null,
+    "modelAttribution": "author_reported",
+    "mediaId": "2110241050128531456",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110241050128531456/vid/avc1/2828x1844/bLWqHlPCyPf4IwMe.mp4?tag=29",
+    "sourceSha256": "009ebb3730dcba081c5f15e1f7d87fb5b2cc6302e3998c9e403515e31f18b560",
+    "duration": 50.066667,
+    "bytes": 66112424,
+    "width": 2828,
+    "height": 1844,
+    "relatedSources": [],
+    "additionalPosts": [
+      {
+        "url": "https://x.com/thebuggeddev/status/2110423397956231214",
+        "text": "Just one reference image and a good, not-so-long detailed prompt were enough to generate the entire model.\n\nI didn’t do much work on the model afterward.\n\nMost of my time went into the UI, as I initially wanted to turn it into a game but eventually settled on a website instead :)\n\nFor small details, you just have to say it in plain words. That's it. It does rest of the work on its own",
+        "publishedAt": "2026-10-14T17:32:02Z"
+      },
+      {
+        "url": "https://x.com/thebuggeddev/status/2110423992343707866",
+        "text": "@DanielZambrini Thank you. I used Antigravity :)",
+        "publishedAt": "2026-10-14T17:34:24Z"
+      }
+    ],
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110241991233790456/2110241050128531456.009ebb3730dc.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110241991233790456/poster.b435b635dd9f.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110241991233790456/preview.b5c64abaf4b2.webp"
+  },
+  {
     "id": "2110276716870647921",
     "title": "Predator and schooling ecosystem",
     "category": "interactive",
@@ -8490,6 +8530,35 @@
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110296301048836416/preview.b18327496858.webp"
   },
   {
+    "id": "2110303650887487745",
+    "title": "Enchanted Musical Meadow",
+    "category": "interactive",
+    "author": {
+      "name": "Soumya",
+      "handle": "soumyadesign",
+      "url": "https://x.com/soumyadesign"
+    },
+    "sourceUrl": "https://x.com/soumyadesign/status/2110303650887487745",
+    "publishedAt": "2026-10-14T09:36:12Z",
+    "originalPost": "Asked Argon to make me an interactive musical garden and it rendered me this!\n\nIt made an infinite 3D digital garden and generative concert-harp instrument that responds to real-time webcam hand gestures and your cursor. I especially loved the way the river was rendered in the night time.\n\nArgon was able to add the following : \n\n1. 3D Rendering & Custom Shaders: Three.js (WebGL2) with custom GLSL Vertex & Fragment Shaders, GPU-instanced botanical geometry (82,000 multi-blade grass tufts, 22,000 3D sculpted wildflower bouquets, 4,200 bokeh fireflies, and 1,800 aerodynamic 3D petals), toroidal infinite world wrapping, and procedural Simplex/FBM terrain & water shaders\n\n2. MediaPipe Tasks Vision (HandLandmarker) with an adaptive 1-Euro Low-Pass Filter for low-latency 3D webcam hand tracking\n\n3. Procedural Audio Synthesis: Web Audio API custom multi-partial acoustic concert-harp synthesizer (D Major 9 / G Lydian harmonic chord voicings, stereo hall convolution reverb, shimmer delay, and pink-noise breeze/brook generators) requirin g zero external audio files.\n\nMade in @antigravity with @GeminiApp 4 Argon. And final touches in @GoogleAIStudio.\n\nLink : http://enchanted-meadow.ai.studio",
+    "prompt": null,
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": null,
+    "modelAttribution": "author_reported",
+    "mediaId": "2110301548714852352",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110301548714852352/vid/avc1/3618x2160/-kP-q4_bSzKjaDpg.mp4?tag=29",
+    "sourceSha256": "813b43ba3c3c9bdf1e328da23ae9cc34e49641f6a4a63aaad0612f2ca4c11372",
+    "duration": 76.010667,
+    "bytes": 257530543,
+    "width": 3618,
+    "height": 2160,
+    "relatedSources": [],
+    "additionalPosts": [],
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110303650887487745/2110301548714852352.813b43ba3c3c.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110303650887487745/poster.78930868a71d.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110303650887487745/preview.854d01451d1a.webp"
+  },
+  {
     "id": "2110359134524805359",
     "title": "Pixel city and submarine animation",
     "category": "motion",
@@ -8517,6 +8586,41 @@
     "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110359134524805359/2110359044695420928.629de28a2e72.mp4",
     "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110359134524805359/poster.672d627da197.webp",
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110359134524805359/preview.260b03d5430b.webp"
+  },
+  {
+    "id": "2110361900160884792",
+    "title": "Little Knight: Clockwork Colossus",
+    "category": "interactive",
+    "author": {
+      "name": "Yogesh Singla",
+      "handle": "yogeshsingla481",
+      "url": "https://x.com/yogeshsingla481"
+    },
+    "sourceUrl": "https://x.com/yogeshsingla481/status/2110361900160884792",
+    "publishedAt": "2026-10-14T13:27:40Z",
+    "originalPost": "I made this game in under 5 minutes using Gemini Argon.\n\nand yes it runs on your phone\n \nToday I'm launching Wish Play ✨\nhttp://mywishplay.com\n\n🎮 Scroll the feed just like reels and play games made by people around the world, one swipe at a time\n\n✏️  Create your own game in minutes: just describe it in plain words\n\n🌍 Show it to the world: publish it to the Feed and let anyone play.\n\nNo code. No engine. Just your idea.\n\nFree, live now",
+    "prompt": null,
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": null,
+    "modelAttribution": "author_reported",
+    "mediaId": "2110356939465175040",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110356939465175040/vid/avc1/1280x720/ffIjnIgJEWI2lCPH.mp4?tag=29",
+    "sourceSha256": "4958470fad83472ba45dd54591ce90a517ee45cf8f10a5e60dcf1d0c831816c0",
+    "duration": 41.322667,
+    "bytes": 6248766,
+    "width": 1280,
+    "height": 720,
+    "relatedSources": [],
+    "additionalPosts": [
+      {
+        "url": "https://x.com/yogeshsingla481/status/2110382060376563720",
+        "text": "Come play “Little Knight: Clockwork Colossus” on Wish Play 🎮 Discover fun games, play for free, and create your own. https://mywishplay.com/feed?play=290bea15-da36-4325-9505-0ab8e3234419",
+        "publishedAt": "2026-10-14T14:47:46Z"
+      }
+    ],
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110361900160884792/2110356939465175040.4958470fad83.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110361900160884792/poster.f128914bac82.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110361900160884792/preview.6a8cdd2a3a74.webp"
   },
   {
     "id": "2110362020935860334",

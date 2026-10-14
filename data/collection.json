@@ -3,15 +3,15 @@
   "collectedOn": "2026-10-14",
   "publicationCutoffUtc": "2026-10-13T16:00:00Z",
   "cutoffRule": "strictly after; original source post publication, not a repost or download time",
-  "videoCount": 288,
-  "sourceAccountCount": 218,
+  "videoCount": 291,
+  "sourceAccountCount": 219,
   "publicPromptCount": 57,
   "categories": {
     "motion": 77,
-    "3d": 94,
-    "interactive": 117
+    "3d": 95,
+    "interactive": 119
   },
-  "videoBytes": 7088879347,
+  "videoBytes": 7418771080,
   "discovery": {
     "platform": "X",
     "surfaces": [
@@ -1306,14 +1306,14 @@
   "latestPublicationUtc": "2026-10-14T13:28:09Z",
   "lastSearch": {
     "fromUtc": "2026-10-14T04:10:00Z",
-    "toUtc": "2026-10-14T13:29:06Z",
+    "toUtc": "2026-10-14T17:31:08Z",
     "surface": "X Latest and Top in signed-in Chrome, followed by original posts and author replies",
-    "discoveredPostCount": 32,
-    "originalPostsReviewed": 13,
-    "addedVideos": 4,
-    "verifiedNewObjects": 12,
-    "pendingReviewCount": 21,
-    "screeningRecord": "data/screening/20261014T132906Z.json",
+    "discoveredPostCount": 52,
+    "originalPostsReviewed": 5,
+    "addedVideos": 3,
+    "verifiedNewObjects": 9,
+    "pendingReviewCount": 28,
+    "screeningRecord": "data/screening/20261014T173108Z.json",
     "scope": "Bounded discovery, not an exhaustive index of X. Unreviewed candidates retained; successful-search cursor intentionally not advanced until pending candidates are resolved."
   },
   "curationPolicy": {
@@ -1370,24 +1370,6 @@
       "downloaded": false
     },
     {
-      "postId": "2110361900160884792",
-      "sourceUrl": "https://x.com/i/status/2110361900160884792",
-      "decision": "pending",
-      "reason": "Requires original playback/provenance review.",
-      "stage": "search_text",
-      "downloaded": false,
-      "observedAt": "2026-10-14T13:38:06.000944+00:00"
-    },
-    {
-      "postId": "2110361711543029860",
-      "sourceUrl": "https://x.com/i/status/2110361711543029860",
-      "decision": "pending",
-      "reason": "Requires original playback/provenance review.",
-      "stage": "search_text",
-      "downloaded": false,
-      "observedAt": "2026-10-14T13:38:06.000944+00:00"
-    },
-    {
       "postId": "2110360212506845261",
       "sourceUrl": "https://x.com/i/status/2110360212506845261",
       "decision": "pending",
@@ -1400,10 +1382,10 @@
       "postId": "2110359948421206020",
       "sourceUrl": "https://x.com/i/status/2110359948421206020",
       "decision": "pending",
-      "reason": "Requires original playback/provenance review.",
+      "reason": "Seven Wonders media credited to Adit_Yah; must find original before selection.",
       "stage": "search_text",
-      "downloaded": false,
-      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
     },
     {
       "postId": "2110358622807154806",
@@ -1494,9 +1476,10 @@
       "postId": "2110253739999461606",
       "sourceUrl": "https://x.com/i/status/2110253739999461606",
       "decision": "pending",
-      "stage": "search_text_and_player_metadata",
-      "downloaded": false,
-      "reason": "Retained for further online playback/provenance review; not downloaded."
+      "reason": "Generic Gemini4 video label; Argon attribution unresolved.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
     },
     {
       "postId": "2110280375268245740",
@@ -1529,6 +1512,87 @@
       "stage": "search_text_and_player_metadata",
       "downloaded": false,
       "reason": "Retained for further online playback/provenance review; not downloaded."
+    },
+    {
+      "postId": "2110417078654279736",
+      "sourceUrl": "https://x.com/i/status/2110417078654279736",
+      "decision": "pending",
+      "reason": "Walkable apartment: original creator and video type require review.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110413900277506127",
+      "sourceUrl": "https://x.com/i/status/2110413900277506127",
+      "decision": "pending",
+      "reason": "Argon reply appears in comparison thread; individual attachment content not yet viewed.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110413533116809299",
+      "sourceUrl": "https://x.com/i/status/2110413533116809299",
+      "decision": "pending",
+      "reason": "Generic model label; provenance/content type unresolved.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110413490024526057",
+      "sourceUrl": "https://x.com/i/status/2110413490024526057",
+      "decision": "pending",
+      "reason": "Robot actuator scene; need distinguish finished display from technical explainer.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110411560527282358",
+      "sourceUrl": "https://x.com/i/status/2110411560527282358",
+      "decision": "pending",
+      "reason": "Fourier Porsche repost; find creator and deduplicate before viewing.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110324025855787092",
+      "sourceUrl": "https://x.com/i/status/2110324025855787092",
+      "decision": "pending",
+      "reason": "Game repost; original creator unresolved.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110250945900892463",
+      "sourceUrl": "https://x.com/i/status/2110250945900892463",
+      "decision": "pending",
+      "reason": "Argon motion work; requires original player review.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110397180817387792",
+      "sourceUrl": "https://x.com/i/status/2110397180817387792",
+      "decision": "pending",
+      "reason": "Animal capture-the-flag game repost; find original creator.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110363991180800187",
+      "sourceUrl": "https://x.com/i/status/2110363991180800187",
+      "decision": "pending",
+      "reason": "Virtual terrarium; original player review still needed.",
+      "stage": "search_text",
+      "observedAt": "2026-10-14T17:40:07.142045+00:00",
+      "downloaded": false
     }
   ]
 }
