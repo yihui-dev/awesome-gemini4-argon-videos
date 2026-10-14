@@ -3068,5 +3068,335 @@
       "name": "Brandon Edward Velez",
       "handle": "bevelez"
     }
+  },
+  {
+    "id": "2110187236201488748",
+    "url": "https://x.com/akokoi1/status/2110187236201488748",
+    "text": "测试提示词：\n\n请用 Three.js 编写一个单文件 HTML 页面，实现一个 3D 场景：「漂浮在云海上的蒸汽朋克天文台」。\n\n【硬性约束】\n- 单个 HTML 文件，Three.js 从 CDN 引入（固定版本号），不得加载任何外部模型、贴图或图片，所有几何体和纹理必须程序化生成\n- 打开即可运行，无报错，桌面浏览器保持流畅（目标 60fps）\n\n【场景内容】\n1. 一座悬浮的岩石小岛，底部是不规则的岩石形态（不能是简单的圆锥或球体），岛上建有一座圆顶天文台\n2. 天文台圆顶可以打开：圆顶上的一条狭缝向两侧滑开，露出一架望远镜\n3. 天空中有一颗带光环的行星，沿椭圆轨道缓慢运动；望远镜必须始终实时对准这颗行星\n4. 天文台旁边有一组外露的齿轮机构，至少 4 个齿轮，齿数各不相同。要求：相邻齿轮的齿真正啮合，转速比等于齿数的反比，相邻齿轮转向相反\n5. 岛屿下方是云海，云层有缓慢的流动感\n6. 昼夜循环（一个完整周期约 60 秒）：\n   - 太阳的位置驱动主光源方向，阴影随之实时变化\n   - 天空颜色随时间渐变（白天 → 黄昏 → 夜晚 → 黎明）\n   - 夜晚出现星空，白天星星不可见\n   - 黄昏时天文台的灯笼/窗户自动亮起，并照亮周围物体，黎明时熄灭\n\n【交互】\n- 鼠标拖拽旋转视角，滚轮缩放，视角有合理的限制（不能穿到岛屿内部或地底）\n- 点击圆顶：切换开合状态，开合过程有平滑动画\n- 屏幕角落有一个时间滑块，可以手动拖动时间，同时提供暂停/播放按钮\n\n【画面要求】\n- 统一的视觉风格，色彩协调，不要出现大面积纯色或默认材质\n- 金属、岩石、玻璃等不同材质要有可区分的质感",
+    "publishedTimestamp": 1791942817,
+    "author": {
+      "name": "WY",
+      "handle": "akokoi1"
+    }
+  },
+  {
+    "id": "2110184374096495066",
+    "url": "https://x.com/TonyZhang12025/status/2110184374096495066",
+    "text": "Gemini 4 Argon测试鹈鹕骑自行车的 SVG 动画",
+    "publishedTimestamp": 1791942134,
+    "author": {
+      "name": "Tony",
+      "handle": "TonyZhang12025"
+    }
+  },
+  {
+    "id": "2110192210964521388",
+    "url": "https://x.com/ashen_one/status/2110192210964521388",
+    "text": "Gemini 4 Argon flying dragon test, all custom made assets, no animations or video gen\n\nTripo 3D for mesh (via browser control not MCP) + Blender MCP + Argon 4 Medium = not bad for one shot?",
+    "publishedTimestamp": 1791944003,
+    "author": {
+      "name": "ashen",
+      "handle": "ashen_one"
+    }
+  },
+  {
+    "id": "2110190705151000754",
+    "url": "https://x.com/opkonc/status/2110190705151000754",
+    "text": "The \"pelican on a bicycle\" test checks if an LLM can draw a coherent static SVG: frame, spokes, and pedaling pose. Here’s what happens when you push Gemini 4 Argon from drawing a pose to coding a 20s runnable animation—with wheel-wire contact, IK pedaling, and a 5-beat story. 🦀",
+    "publishedTimestamp": 1791943644,
+    "author": {
+      "name": "可乐柠檬水",
+      "handle": "opkonc"
+    }
+  },
+  {
+    "id": "2110190016097866107",
+    "url": "https://x.com/JeudryPena28376/status/2110190016097866107",
+    "text": "Minecraft clone with argon High, the styles were strange similar to the example of @notjazii \n\nThis is his example\nhttps://x.com/notjazii/status/2110059198230970782",
+    "publishedTimestamp": 1791943479,
+    "author": {
+      "name": "Jeudry Peña Peña",
+      "handle": "JeudryPena28376"
+    }
+  },
+  {
+    "id": "2110193157619187947",
+    "url": "https://x.com/tarumainfo/status/2110193157619187947",
+    "text": "I tried asking Gemini 4 Argon in Gemini to read my old master's thesis and generate an interactive visualization for it. The topic was rainfall-runoff modeling using LSTM. This was 5 years ago, so I didn't really double-check the accuracy of the numbers in the visualization, but at least it gives an idea of what I worked on back then. Haha. 🤣 \n\nThere was no ChatGPT back then, so yeah... I had to figure things out manually and bridge two different fields (from civil engineering to deep learning). I really enjoyed the process though, and looking back at the results makes me feel pretty confident whenever I'm faced with something completely new to me.\n\nGemini link: https://share.gemini.google/OrfRBgbsng1c",
+    "publishedTimestamp": 1791944228,
+    "author": {
+      "name": "taruma sakti",
+      "handle": "tarumainfo"
+    }
+  },
+  {
+    "id": "2110184108496474275",
+    "url": "https://x.com/Jackson77li/status/2110184108496474275",
+    "text": "Gemini4 Argon鹈鹕骑车测试\n你们觉得是第一梯队了吗？",
+    "publishedTimestamp": 1791942071,
+    "author": {
+      "name": "Jackson li",
+      "handle": "Jackson77li"
+    }
+  },
+  {
+    "id": "2110191121783808497",
+    "url": "https://x.com/ktseo41/status/2110191121783808497",
+    "text": "Gemini 4 Argon 테스트 겸, iOS 기본앱같은 지뢰찾기를 만들어주는데, 거기에 더해 Figma처럼 문구 수정, 코멘트를 달 수 있게 html로 만들어달라고 했더니 만들어줬다. 색상 변경이나 간격 수정같은 건 제외해달라고 했음. 문구 수정 사항이랑 코멘트는 md나 json으로 내보낼 수 있게 해줬네",
+    "publishedTimestamp": 1791943743,
+    "author": {
+      "name": "yiyi",
+      "handle": "ktseo41"
+    }
+  },
+  {
+    "id": "2110185435242897849",
+    "url": "https://x.com/kavindpadi/status/2110185435242897849",
+    "text": "Impressed with @GeminiApp #Argon on the ideation to build ways to cluster notes I have taken. It landed a great V1, had to steer a bit to get a better V2. \n\nToo bad its not available in Antigravity in personal Pro plan! So the #TPUs go brrr in Gemini app!",
+    "publishedTimestamp": 1791942387,
+    "author": {
+      "name": "Shiva Kavindpadi",
+      "handle": "kavindpadi"
+    }
+  },
+  {
+    "id": "2110195906914255130",
+    "url": "https://x.com/chasen_liao/status/2110195906914255130",
+    "text": "@amewarain “生成3D鹈鹕踩单车”",
+    "publishedTimestamp": 1791944884,
+    "author": {
+      "name": "Chasen",
+      "handle": "chasen_liao"
+    }
+  },
+  {
+    "id": "2110179213487534366",
+    "url": "https://x.com/emollick/status/2110179213487534366",
+    "text": "Argon is quite different: \"A game about Imminence. Something very big, very strange is happening. A suburb & the arrival of a vast & unknowable presence. Not horror, invoke the feeling of the end of all things coming, inevitably, but also not sad or scary\"  https://perigee-sycamore-court-2608.netlify.app/",
+    "publishedTimestamp": 1791940904,
+    "author": {
+      "name": "Ethan Mollick",
+      "handle": "emollick"
+    }
+  },
+  {
+    "id": "2110190605561479255",
+    "url": "https://x.com/JeudryPena28376/status/2110190605561479255",
+    "text": "Antigravity with /boost and /goal\n\nMake me a minecraft clone  that runs in the browser with survival mode, infinite randomly generated world with multiple biomes nearby, crafting like Minecraft, mobs that spawn naturally, a day/night cycle, a main menu to start, all built with Three.js and no external assets, call it ArgonCraft, take long time enough and polish the game.\n\nI cant give exactly time it took but was almost 2 hours (because had to make a pause because of quota ended, Google never gave a reset...)",
+    "publishedTimestamp": 1791943620,
+    "author": {
+      "name": "Jeudry Peña Peña",
+      "handle": "JeudryPena28376"
+    }
+  },
+  {
+    "id": "2110189465381793886",
+    "url": "https://x.com/mspd4100/status/2110189465381793886",
+    "text": "Gemini 4 Argon测试： 模仿鹈鹕骑单车，来了个大公鸡骑猫\n\n貌似Argon很喜欢矢量透视啊，默认就给我加了这样的模式，还有狂飙模式和菜单，挺会发散的，慢动作的效果还是比较舒服的，turbo和动作整体略显单一了些。\n整体动画视觉效果还过得去。。。",
+    "publishedTimestamp": 1791943348,
+    "author": {
+      "name": "有鸡骑猫",
+      "handle": "mspd4100"
+    }
+  },
+  {
+    "id": "2110180538028048438",
+    "url": "https://x.com/karabolamani/status/2110180538028048438",
+    "text": "C was Argon\n\nA Fable 5.1: 4 min 36 s, $1.09 B Opus 5.5: 11 min 14 s, $1.43 C Argon: about 2 min\n\nArgon ran in the Gemini app, which shows no cost. its intro price is $2 in / $10 out per million tokens. Opus is $4 / $20, Fable $10 / $50",
+    "publishedTimestamp": 1791941220,
+    "author": {
+      "name": "Karabo",
+      "handle": "karabolamani"
+    }
+  },
+  {
+    "id": "2110192510106845259",
+    "url": "https://x.com/fxmqs/status/2110192510106845259",
+    "text": "Gemini 4 这次让秦始皇动起来，\n\n加了一句：让刚才的动起来，自行车一脚蹬完，背景也得给拉过去啊。\n\n美国大豆包，站起来了😤😤😤",
+    "publishedTimestamp": 1791944074,
+    "author": {
+      "name": "风雪漫千山",
+      "handle": "fxmqs"
+    }
+  },
+  {
+    "id": "2110194010006683995",
+    "url": "https://x.com/xluchuan/status/2110194010006683995",
+    "text": "太强了吧\n\nGemini 4 Argon 版\n\n鹈鹕骑自行车",
+    "publishedTimestamp": 1791944432,
+    "author": {
+      "name": "鹿川 Luchuan",
+      "handle": "xluchuan"
+    }
+  },
+  {
+    "id": "2110187095868547354",
+    "url": "https://x.com/akokoi1/status/2110187095868547354",
+    "text": "Gemini 4 Argon、Opus 5.5、GPT-6.1 Sol、GPT-6 Astra对比测试。\n\n同一提示词，在Chat中生成的页面。Opus 5.5依旧断崖式的领先。\n\n有趣的是，Gemini 4 Argon居然没有一次性生成成功，第一轮报了语法错误。另外，项穹顶开合测试中，有明显的穿模情况。\n\nGPT-6.1 Sol和GPT-6 Astra功能基本都实现了，就是这个画面质感有点拉胯，云海、星空几乎没有细节。\n\nOpus 5.5挑不出什么毛病。",
+    "publishedTimestamp": 1791942783,
+    "author": {
+      "name": "WY",
+      "handle": "akokoi1"
+    }
+  },
+  {
+    "id": "2110190004534132821",
+    "url": "https://x.com/amjustadam/status/2110190004534132821",
+    "text": "Gemini 4 argon",
+    "publishedTimestamp": 1791943477,
+    "author": {
+      "name": "ADAM 🌠",
+      "handle": "amjustadam"
+    }
+  },
+  {
+    "id": "2110186253983645884",
+    "url": "https://x.com/chasen_liao/status/2110186253983645884",
+    "text": "🔥牛而逼之！🔥\n\nGemini 4 argon 名副其实回归前端之王\n\n这鹈鹕踩单车直接给我做成一个游戏了而且画面还很精美 但是现在Gemini PRO的用户 闲鱼上面买的那些只能在网页端用",
+    "publishedTimestamp": 1791942582,
+    "author": {
+      "name": "Chasen",
+      "handle": "chasen_liao"
+    }
+  },
+  {
+    "id": "2110187598581051789",
+    "url": "https://x.com/yoloytang/status/2110187598581051789",
+    "text": "✨ Gemini 4 Argon and Muse Wonder results are now on BVB! We’ve also added Claude Haiku 5.5, DeepSeek V4.1 Flash, and Grok 4.7.\n\nHappy to see the progress in programmatic video reconstruction!\n\nFull learderboard: https://yoloytang.me/BVB/",
+    "publishedTimestamp": 1791942903,
+    "author": {
+      "name": "Yolo Y. Tang",
+      "handle": "yoloytang"
+    }
+  },
+  {
+    "id": "2110184851366367697",
+    "url": "https://x.com/SongyuKite/status/2110184851366367697",
+    "text": "Gemini 4 Argon 在动画上 车轮起伏 都做的很好",
+    "publishedTimestamp": 1791942248,
+    "author": {
+      "name": "songyuKite",
+      "handle": "SongyuKite"
+    }
+  },
+  {
+    "id": "2110190890929258977",
+    "url": "https://x.com/MinLiBuilds/status/2110190890929258977",
+    "text": "Gemini 4 Argon看来炼化了一些Banana的审美能力。\n\n增加一点点审美向量：纪念碑谷\n\n效果有点小惊艳了",
+    "publishedTimestamp": 1791943688,
+    "author": {
+      "name": "实践哥 Li",
+      "handle": "MinLiBuilds"
+    }
+  },
+  {
+    "id": "2110191503301865780",
+    "url": "https://x.com/opkonc/status/2110191503301865780",
+    "text": "Process note: Gemini 4 Argon created the initial HTML/SVG/JS and one revision. Codex refined framing and timing, verified the motion, and rendered the video. This is a capability demo, not a same-prompt ranking of other models.",
+    "publishedTimestamp": 1791943834,
+    "author": {
+      "name": "可乐柠檬水",
+      "handle": "opkonc"
+    }
+  },
+  {
+    "id": "2110186410401788028",
+    "url": "https://x.com/mionwang/status/2110186410401788028",
+    "text": "So, I tested Gemini 4 argon. Used the same starting point as Claude. The video below compares the landing page made by claude vs gemini. It's a little unfair because the Claude version is a result of 18 detailed prompts telling Claude what changes to make. However it's still a valid comparison because Claude one shotted something that was very much usable.\n\nThe second video shows Gemini's brilliant redesign after I told it to make the site look like DaVinci Resolve. Note that I didn't tell Claude to make it look and feel like Resolve -- Claude asked an MCQ and I clicked \"Gradnig Suite\".\n\nGemini didn't ask questions. It just started working and made what it made. I don't think it works even as a starting point. It also made really silly mistakes like completely deleting image links.\n\nI have no doubt in my mind that Gemini 4 Argon is a benchmaxxed model.",
+    "publishedTimestamp": 1791942620,
+    "author": {
+      "name": "Mion.",
+      "handle": "mionwang"
+    }
+  },
+  {
+    "id": "2110183006161756230",
+    "url": "https://x.com/niachito/status/2110183006161756230",
+    "text": "@lndgalante le pinto cualquiera a Argon😅\nhttps://nachoiannella.github.io/furlab-3d/",
+    "publishedTimestamp": 1791941808,
+    "author": {
+      "name": "Nacho Iannella",
+      "handle": "niachito"
+    }
+  },
+  {
+    "id": "2110187211945816231",
+    "url": "https://x.com/bao_xiao78791/status/2110187211945816231",
+    "text": "Prompted @GeminiApp  Argon on iOS to generate a standalone 3D Invoker workshop—and it actually worked!Powered by Lyria 3.5 for the epic BGM and Gemini 3.8 Flash TTS for narration, all brought together seamlessly with @Antigravity. #dota2",
+    "publishedTimestamp": 1791942811,
+    "author": {
+      "name": "xiaobao",
+      "handle": "bao_xiao78791"
+    }
+  },
+  {
+    "id": "2110187446906613901",
+    "url": "https://x.com/lemomo_ai/status/2110187446906613901",
+    "text": "我也快速地用gemini 4 Argon 摸了一个3d交互网页\n\n我选了\"可拆解的机械腕表\"做题目。\n原因是它很考推理：齿轮要真的咬合、传动比要算对，部件多，还有拆解动画，比太阳系、汽车这类常见题目更容易拉开模型之间的差距。\n\n提示词如下 ：\n\n你是顶尖的创意技术专家，精通 Three.js、实时渲染和机械钟表结构。请做一个单文件网页 index.html：一只可交互、可拆解的自动上链机械腕表 3D 模型。\n\n【硬性约束】\n- 只输出一个完整的 index.html，双击就能在 Chrome 里运行，不需要构建工具或本地服务器。\n- 用 importmap 引入 Three.js\n- 不加载任何外部模型、贴图或字体，所有几何体和纹理都用代码程序化生成。\n- 输出完整代码，不要省略，不要写\"此处略\"。\n\n【模型】\n- 至少 30 个独立部件，包括：表壳、表耳、表冠、蓝宝石表镜、表盘（刻度和自拟品牌名用 Canvas 绘制）、时针、分针、秒针、发条盒、中心轮、三轮、四轮、擒纵轮、擒纵叉、摆轮与游丝、自动陀、夹板、螺丝、红宝石轴承。\n- 齿轮要有真实齿形，啮合位置正确。先算好各齿轮的齿数和传动比，保证秒针 60 秒一圈、分针 60 分钟一圈、时针 12 小时一圈。\n- 尺寸比例参照真实的 40mm 表径手表。\n\n【材质与灯光】\n- 使用 PBR 材质：拉丝和抛光不锈钢、镀金夹板、烤蓝螺丝、半透明红宝石，以及带透射和折射效果的蓝宝石玻璃（MeshPhysicalMaterial）。\n- 用 RoomEnvironment 生成环境反射，开启 ACES 色调映射、柔和阴影和轻微的 bloom。\n\n【动画】\n- 指针显示本地的真实当前时间。\n- 机芯要真实运转：摆轮往复摆动，擒纵叉和擒纵轮按节拍配合，各齿轮按自己的传动比转动。\n\n【交互】\n- 鼠标和触控都能旋转、缩放、平移，带阻尼。\n- 鼠标悬停在部件上时描边高亮，并显示部件名。\n- 点击部件时，相机平滑聚焦到它，同时弹出信息卡，写明名称、作用、齿数和转速。\n- 控制面板包含：\n  - 爆炸视图滑块（0–100%，沿轴向分层平滑拆开）\n  - 剖切平面滑块\n  - 时间倍速（1x–3600x）\n  - 表盘显示/隐藏\n  - 一键复位视角\n\n【界面与性能】\n- 中文界面，深色玻璃拟态风格，带加载动画，适配手机屏幕。\n- 桌面端稳定 60fps：重复的部件用 InstancedMesh，devicePixelRatio 上限设为 2。\n- 控制台不能有报错。\n\n【工作方式】\n1. 先写设计方案：部件清单、场景层级、齿轮齿数和传动比的计算过程。\n2. 再写完整代码。\n3. 最后对照上面每一条要求逐项自查，没做到的先改好，再输出最终版本。",
+    "publishedTimestamp": 1791942867,
+    "author": {
+      "name": "Lemomo",
+      "handle": "lemomo_ai"
+    }
+  },
+  {
+    "id": "2110184017261908025",
+    "url": "https://x.com/ayyh_18/status/2110184017261908025",
+    "text": "Gemini 4 Argonを使って、Canvasで「手のひら銀河」を作ってみました！\n手を開くと星が広がり、握るとぎゅっと集まる🌌🌟\n\nGoogleによると、空間推論や、ビジュアル表現をコードで作る力が向上したとのこと。その力を試したくて、手の動きに反応する3Dアプリを作成！\n動画、最後まで見てみてね🐱",
+    "publishedTimestamp": 1791942049,
+    "author": {
+      "name": "あやや",
+      "handle": "ayyh_18"
+    }
+  },
+  {
+    "id": "2110189935839899730",
+    "url": "https://x.com/amjustadam/status/2110189935839899730",
+    "text": "Asked Gemini 4 argon, Opus 5.5 and Gpt 6.1 Sol to create domino animation of the title of my X briefing: https://advanceintelligence.ai \nResults here 👇\nSame exact prompt...",
+    "publishedTimestamp": 1791943460,
+    "author": {
+      "name": "ADAM 🌠",
+      "handle": "amjustadam"
+    }
+  },
+  {
+    "id": "2110120079438631409",
+    "url": "https://x.com/karabolamani/status/2110120079438631409",
+    "text": "Gemini 4 Argon is out in the Gemini app, so I gave it, Opus 5.5 and Fable 5.1 the same prompt\n\n\"a fox walking through a snowy forest at night under the northern lights\"\n\neach one wrote an animated web page from scratch. one of these is Argon. which one?",
+    "publishedTimestamp": 1791926805,
+    "author": {
+      "name": "Karabo",
+      "handle": "karabolamani"
+    }
+  },
+  {
+    "id": "2110179883045560674",
+    "url": "https://x.com/joshwoodward/status/2110179883045560674",
+    "text": "Gemini 4 Argon: How a 24-word prompt built a custom synthesizer that turns galloping horses, rippling water, and your own hands into music.",
+    "publishedTimestamp": 1791941064,
+    "author": {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward"
+    }
+  },
+  {
+    "id": "2110190366783910062",
+    "url": "https://x.com/SalenoXP/status/2110190366783910062",
+    "text": "Gemini 4 Argon is up on RamenBench!\n\nIt used up 9% of my 5hr usage limits, and I had to do it as a \"Task\" on Gemini web app because I don't have access on Antigravity\n\nIt absolutely swamps 3.8 Flash. Wow! Look at that difference in detail and quality. They weren't kidding when they said some people prefer this over Opus\n\nI actually like 4 Argon's output on this bench compared to Opus 5.5. Look at the ripples on the soup! And how it applied a rule to only pickup 1 topping at a time. Physics also feels much better. This is superb, and can't wait to play around with it more",
+    "publishedTimestamp": 1791943563,
+    "author": {
+      "name": "Saleno",
+      "handle": "SalenoXP"
+    }
+  },
+  {
+    "id": "2110182874913910978",
+    "url": "https://x.com/hanifproduktif/status/2110182874913910978",
+    "text": "I made the @HyperFrames_ launch video using Gemini 4 Argon + HyperFrames.\n\nArgon is seriously good at creative work!\n\nShould we switch to Argon, @liu8in? 👀",
+    "publishedTimestamp": 1791941777,
+    "author": {
+      "name": "Hanif | AI For Productivity",
+      "handle": "hanifproduktif"
+    }
   }
 ]
