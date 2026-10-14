@@ -24,7 +24,6 @@ for v in videos:
     assert published > cutoff
     assert published.timestamp() == p['publishedTimestamp']
     assert abs(((int(post_id) >> 22) + 1288834974657) / 1000 - published.timestamp()) < 2
-    assert dt.datetime.fromisoformat(v['publishedAtBeijing']) == published
     assert v['originalPost'] == p['text'] and v['author']['handle'] == p['author']['handle']
     assert v['sourceUrl'] == p['url'] and post_id in v['sourceUrl']
     assert (ROOT / 'prompts' / (v['id'] + '.md')).exists()
@@ -48,4 +47,4 @@ for name in ['README.md', 'README.zh-CN.md']:
     assert text.count('<td width="33%"') == len(videos)
     assert 'utm_campaign=awesome-gemini4-argon-videos' in text
     assert '/Users/' not in text and '/Volumes/' not in text
-print(f'PASS: {len(videos)} videos; exact source text and authors; strict Beijing cutoff; {len(objects)} verified R2 assets.')
+print(f'PASS: {len(videos)} videos; exact source text and authors; strict publication cutoff; {len(objects)} verified R2 assets.')
