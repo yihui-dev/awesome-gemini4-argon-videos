@@ -3,17 +3,17 @@
   "collectedOn": "2026-10-14",
   "publicationCutoffUtc": "2026-10-13T16:00:00Z",
   "cutoffRule": "strictly after; original source post publication, not a repost or download time",
-  "videoCount": 83,
-  "sourceAccountCount": 56,
-  "publicPromptCount": 11,
+  "videoCount": 294,
+  "sourceAccountCount": 206,
+  "publicPromptCount": 47,
   "categories": {
-    "motion": 26,
-    "3d": 22,
-    "interactive": 16,
-    "workflow": 11,
-    "comparison": 8
+    "motion": 65,
+    "3d": 76,
+    "interactive": 84,
+    "workflow": 26,
+    "comparison": 43
   },
-  "videoBytes": 2065448146,
+  "videoBytes": 7125203659,
   "discovery": {
     "platform": "X",
     "surfaces": [
@@ -68,10 +68,120 @@
         3
       ],
       "reason": "Visibly labelled Claude Opus 5.5. Only attachments 2 and 4 labelled Gemini 4 Argon are included."
+    },
+    {
+      "postId": "2110134370539606138",
+      "reason": "Same presentation shown in the Google Slides workflow; consolidated with 2110135264782025044."
+    },
+    {
+      "postId": "2110125411422351427",
+      "reason": "Video generation model/tool attribution is not established beyond the chat model name."
+    },
+    {
+      "postId": "2110124057559785601",
+      "reason": "Video generation model/tool attribution is not established beyond the chat model name."
+    },
+    {
+      "postId": "2110116887942381757",
+      "reason": "Video generation model/tool attribution is not established beyond the chat model name."
+    },
+    {
+      "postId": "2110116658207752219",
+      "reason": "Comparison footage does not match the stated jellyfishing project; withheld pending original-source verification."
+    },
+    {
+      "postId": "2110111934548996538",
+      "reason": "Embedded media already catalogued under its original creator, HarshithLucky3."
+    },
+    {
+      "postId": "2110107519888830605",
+      "reason": "Reused photorealistic tea-glass footage; original creator and Argon generation provenance not established."
+    },
+    {
+      "postId": "2110107330587009359",
+      "reason": "Original creator provenance insufficient for the cathedral clip."
+    },
+    {
+      "postId": "2110105248358662370",
+      "reason": "Embedded LuminaBench media; use original 2110097921014378606."
+    },
+    {
+      "postId": "2110097438463950882",
+      "reason": "Promotional movie framing; demonstrated Argon-created project not established."
+    },
+    {
+      "postId": "2110093858549694597",
+      "reason": "Embedded media already catalogued under its original creator, HarshithLucky3."
+    },
+    {
+      "postId": "2110093068133154871",
+      "reason": "Animation generation model/tool attribution not established."
+    },
+    {
+      "postId": "2110090088759841139",
+      "reason": "Multiple source and model attachments; Argon attachment identity not established confidently."
+    },
+    {
+      "postId": "2110061631988187153",
+      "reason": "Embedded GoogleDeepMind media; original publication not established in this batch."
+    },
+    {
+      "postId": "2110060752774242742",
+      "reason": "Same Apollo cornhole demonstration as 2110054176382206379; not counted twice."
+    },
+    {
+      "postId": "2110057669172306200",
+      "reason": "Same Spot robot footage already in 2110050272806601189."
+    },
+    {
+      "postId": "2110056817728369054",
+      "reason": "Earlier version of the same pelican scene; consolidated with 2110071147832262850."
+    },
+    {
+      "postId": "2110053619752145335",
+      "reason": "Embedded AIHubmix media; original publication not established in this batch."
+    },
+    {
+      "postId": "2110057790610047306",
+      "reason": "Promotional Argon reel; previous part explicitly made with Hark and current generation model not established."
+    },
+    {
+      "postId": "2110166432151400762",
+      "attachmentIndexes": [
+        2,
+        3
+      ],
+      "reason": "Other model attachments; only confirmed Argon attachment 1 is included."
+    },
+    {
+      "postId": "2110138436200088013",
+      "attachmentIndexes": [
+        2,
+        3
+      ],
+      "reason": "Other model attachments; only confirmed Argon attachment 1 is included."
+    },
+    {
+      "postId": "2110082266055741764",
+      "attachmentIndexes": [
+        2
+      ],
+      "reason": "Other model attachments; only confirmed Argon attachment 1 is included."
     }
   ],
   "rights": "Third-party videos, original posts and prompts retain their creators rights. MIT covers original repository tooling and curation structure only.",
-  "searchSnapshotEndUtc": "2026-10-13T16:55:00Z",
+  "searchSnapshotEndUtc": "2026-10-14T01:20:00Z",
   "earliestPublicationUtc": "2026-10-13T16:00:02Z",
-  "latestPublicationUtc": "2026-10-13T16:54:41Z"
+  "latestPublicationUtc": "2026-10-14T01:17:48Z",
+  "lastSearch": {
+    "fromUtc": "2026-10-13T16:45:00Z",
+    "toUtc": "2026-10-14T01:20:00Z",
+    "query": "(argon OR \"gemini 4\" OR gemini4) filter:videos since:2026-10-13_16:45:00_UTC until:2026-10-14_01:20:00_UTC",
+    "surface": "X Latest in the current signed-in Chrome session, followed by original posts and author replies",
+    "discoveredPostCount": 908,
+    "candidatePostsWithFullMetadata": 230,
+    "addedVideos": 211,
+    "verifiedNewObjects": 633,
+    "scope": "Curated original works found in the bounded search; not an exhaustive index of X."
+  }
 }
