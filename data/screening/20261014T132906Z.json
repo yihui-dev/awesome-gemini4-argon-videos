@@ -1,0 +1,555 @@
+{
+  "fromUtc": "2026-10-14T04:10:00Z",
+  "toUtc": "2026-10-14T13:29:06Z",
+  "observedAt": "2026-10-14T13:38:06.000944+00:00",
+  "searchSurface": "X Latest and Top in signed-in Chrome",
+  "discoveredSearchPostCount": 32,
+  "originalPostsReviewed": 13,
+  "selectedCount": 4,
+  "pendingCount": 21,
+  "scope": "Bounded quality-first pass. Incomplete candidates retained and prior successful cursor unchanged.",
+  "method": "Online X playback before selection/download; metadata-only checks for deduplication and precise duration. Engagement is supporting context, not ranking.",
+  "metadataFailures": [
+    {
+      "postId": "2110261251788181921",
+      "status": "pending",
+      "reason": "Metadata request failed; no video download or acceptance."
+    }
+  ],
+  "candidates": [
+    {
+      "postId": "2110362020935860334",
+      "sourceUrl": "https://x.com/i/status/2110362020935860334",
+      "decision": "selected",
+      "reason": "Finished Terraria-inspired Flutter game; coherent mining, traversal, inventory and health changes at 8 and 23 seconds.",
+      "duration": 52.483,
+      "engagement": {
+        "views": 5,
+        "replies": 1,
+        "likes": 0,
+        "reposts": 0
+      },
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": true,
+      "commentEvidence": [
+        {
+          "url": "https://x.com/jaichangpark/status/2110362373924208770",
+          "note": "Author supplies exact prompt."
+        }
+      ]
+    },
+    {
+      "postId": "2110361902064992440",
+      "sourceUrl": "https://x.com/i/status/2110361902064992440",
+      "decision": "excluded_comparison",
+      "reason": "Video visibly labels Opus5.5 above Gemini4Argon in split panels.",
+      "duration": 37.433,
+      "engagement": {},
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": false
+    },
+    {
+      "postId": "2110359134524805359",
+      "sourceUrl": "https://x.com/i/status/2110359134524805359",
+      "decision": "selected",
+      "reason": "Finished pixel animation with neon rainy city and submarine scenes; cohesive palette, layered motion and scene progression.",
+      "duration": 20.053333,
+      "engagement": {
+        "views": 67,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0
+      },
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": true
+    },
+    {
+      "postId": "2110276716870647921",
+      "sourceUrl": "https://x.com/i/status/2110276716870647921",
+      "decision": "selected",
+      "reason": "Finished ecosystem simulation; coherent schooling/predator motion and changing charts at 6 and 21 seconds. Resolves prior pending review.",
+      "duration": 62.1,
+      "engagement": {
+        "views": 625,
+        "replies": 4,
+        "likes": 14,
+        "reposts": 1
+      },
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": true,
+      "commentEvidence": [
+        {
+          "url": "https://x.com/sakashiiiii/status/2110276718837846126",
+          "note": "Author explains quadtree and inherited traits; other visible replies discuss token usage and Google integration, not independent reproduction."
+        }
+      ]
+    },
+    {
+      "postId": "2110228353462526112",
+      "sourceUrl": "https://x.com/i/status/2110228353462526112",
+      "decision": "selected",
+      "reason": "Polished finished floating-island pagoda with blossoms, bridges, varied structures and smooth camera tour.",
+      "duration": 43.630293,
+      "engagement": {
+        "views": 6803,
+        "likes": 180,
+        "reposts": 7,
+        "replies": 18
+      },
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": true,
+      "commentEvidence": [
+        {
+          "url": "https://x.com/thtbee_/status/2110267021745111411",
+          "note": "Author confirms audio generated in same pass."
+        },
+        {
+          "url": "https://x.com/thtbee_/status/2110265907662717191",
+          "note": "Author promises future prompt release; exact prompt not present."
+        }
+      ]
+    },
+    {
+      "postId": "2110343012421181485",
+      "sourceUrl": "https://x.com/i/status/2110343012421181485",
+      "decision": "excluded_process_showcase",
+      "reason": "Four-panel sketch/onion-skin/color/background production-stage comparison, not a single finished work.",
+      "duration": 8,
+      "engagement": {},
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": false
+    },
+    {
+      "postId": "2110343467570511986",
+      "sourceUrl": "https://x.com/i/status/2110343467570511986",
+      "decision": "not_selected",
+      "reason": "Angular sparse vegetation and simple environment less polished than selected pagoda; avoid redundant architecture scenes.",
+      "duration": 21.133333,
+      "engagement": {
+        "views": 564,
+        "likes": 15,
+        "replies": 1
+      },
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": false
+    },
+    {
+      "postId": "2110291890839191858",
+      "sourceUrl": "https://x.com/i/status/2110291890839191858",
+      "decision": "deferred_provenance",
+      "reason": "Engine scene differs from existing turbofan; no first-person authorship or original creator/source in post. Do not attribute repost as original.",
+      "duration": 37.826,
+      "engagement": {
+        "views": 656,
+        "likes": 18,
+        "replies": 1,
+        "reposts": 1
+      },
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": false
+    },
+    {
+      "postId": "2110293902091751836",
+      "sourceUrl": "https://x.com/i/status/2110293902091751836",
+      "decision": "not_selected",
+      "reason": "Basic radial particle expansion and glow; limited novelty compared with detailed existing space scenes.",
+      "duration": 14.784,
+      "engagement": {
+        "views": 37,
+        "likes": 0,
+        "replies": 0
+      },
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": false
+    },
+    {
+      "postId": "2110295201919209528",
+      "sourceUrl": "https://x.com/i/status/2110295201919209528",
+      "decision": "excluded_feature_demo",
+      "reason": "Software interface demonstrates SVG decomposition/reassembly controls, not finished artwork.",
+      "duration": 15.689,
+      "engagement": {},
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": false
+    },
+    {
+      "postId": "2110301301481640417",
+      "sourceUrl": "https://x.com/i/status/2110301301481640417",
+      "decision": "excluded_unclear_model",
+      "reason": "Dragon meme labelled Gemini Argon; no claim Argon generated the video; replies concern model hype.",
+      "duration": 10.005,
+      "engagement": {},
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": false
+    },
+    {
+      "postId": "2110299700368949616",
+      "sourceUrl": "https://x.com/i/status/2110299700368949616",
+      "decision": "excluded_comparison",
+      "reason": "Labelled Gemini and Opus Jelly Garden stacked panels.",
+      "duration": 41.981,
+      "engagement": {},
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": false
+    },
+    {
+      "postId": "2110292123178451424",
+      "sourceUrl": "https://x.com/i/status/2110292123178451424",
+      "decision": "pending",
+      "reason": "Author reports weak brand communication; video not sufficiently viewed; no download.",
+      "duration": 28.933,
+      "engagement": {},
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "original_post_review",
+      "downloaded": false
+    },
+    {
+      "postId": "2110297750311190765",
+      "sourceUrl": "https://x.com/i/status/2110297750311190765",
+      "decision": "excluded_duplicate_media",
+      "reason": "Media ID 2110078915696078848 already exists in catalog.",
+      "duration": 63.383,
+      "engagement": {},
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110248392584728991",
+      "sourceUrl": "https://x.com/i/status/2110248392584728991",
+      "decision": "excluded_duration",
+      "reason": "Exact source metadata duration 120.366 exceeds 120 seconds; no download.",
+      "duration": 120.366,
+      "engagement": {},
+      "observedAt": "2026-10-14T13:38:06.000944+00:00",
+      "stage": "metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110362098274578876",
+      "sourceUrl": "https://x.com/i/status/2110362098274578876",
+      "decision": "excluded_news_or_explainer",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110361439181623364",
+      "sourceUrl": "https://x.com/i/status/2110361439181623364",
+      "decision": "excluded_news_or_explainer",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110360055128138107",
+      "sourceUrl": "https://x.com/i/status/2110360055128138107",
+      "decision": "excluded_news_or_explainer",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110359633236054245",
+      "sourceUrl": "https://x.com/i/status/2110359633236054245",
+      "decision": "excluded_news_or_explainer",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110358413750550787",
+      "sourceUrl": "https://x.com/i/status/2110358413750550787",
+      "decision": "excluded_news_or_explainer",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110353829833084940",
+      "sourceUrl": "https://x.com/i/status/2110353829833084940",
+      "decision": "excluded_news_or_explainer",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110353836934385890",
+      "sourceUrl": "https://x.com/i/status/2110353836934385890",
+      "decision": "excluded_news_or_explainer",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110353840855814252",
+      "sourceUrl": "https://x.com/i/status/2110353840855814252",
+      "decision": "excluded_news_or_explainer",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110292888634740893",
+      "sourceUrl": "https://x.com/i/status/2110292888634740893",
+      "decision": "excluded_news_or_explainer",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110312265861742997",
+      "sourceUrl": "https://x.com/i/status/2110312265861742997",
+      "decision": "excluded_news_or_explainer",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110359970717782396",
+      "sourceUrl": "https://x.com/i/status/2110359970717782396",
+      "decision": "excluded_comparison",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110358995072643544",
+      "sourceUrl": "https://x.com/i/status/2110358995072643544",
+      "decision": "excluded_comparison",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110358752809607529",
+      "sourceUrl": "https://x.com/i/status/2110358752809607529",
+      "decision": "excluded_comparison",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110308632453669038",
+      "sourceUrl": "https://x.com/i/status/2110308632453669038",
+      "decision": "excluded_comparison",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110347938547511362",
+      "sourceUrl": "https://x.com/i/status/2110347938547511362",
+      "decision": "excluded_comparison",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110265185680470187",
+      "sourceUrl": "https://x.com/i/status/2110265185680470187",
+      "decision": "excluded_comparison",
+      "reason": "Search text identifies news/commentary/comparison.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110361900160884792",
+      "sourceUrl": "https://x.com/i/status/2110361900160884792",
+      "decision": "pending",
+      "reason": "Requires original playback/provenance review.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110361711543029860",
+      "sourceUrl": "https://x.com/i/status/2110361711543029860",
+      "decision": "pending",
+      "reason": "Requires original playback/provenance review.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110360212506845261",
+      "sourceUrl": "https://x.com/i/status/2110360212506845261",
+      "decision": "pending",
+      "reason": "Requires original playback/provenance review.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110359948421206020",
+      "sourceUrl": "https://x.com/i/status/2110359948421206020",
+      "decision": "pending",
+      "reason": "Requires original playback/provenance review.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110358622807154806",
+      "sourceUrl": "https://x.com/i/status/2110358622807154806",
+      "decision": "pending",
+      "reason": "Requires original playback/provenance review.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110302563971342738",
+      "sourceUrl": "https://x.com/i/status/2110302563971342738",
+      "decision": "pending",
+      "reason": "Requires original playback/provenance review.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110302573827944659",
+      "sourceUrl": "https://x.com/i/status/2110302573827944659",
+      "decision": "pending",
+      "reason": "Requires original playback/provenance review.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110302578961756601",
+      "sourceUrl": "https://x.com/i/status/2110302578961756601",
+      "decision": "pending",
+      "reason": "Requires original playback/provenance review.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110339625877451237",
+      "sourceUrl": "https://x.com/i/status/2110339625877451237",
+      "decision": "pending",
+      "reason": "Requires original playback/provenance review.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110223926974640423",
+      "sourceUrl": "https://x.com/i/status/2110223926974640423",
+      "decision": "already_collected",
+      "reason": "Existing catalog entry.",
+      "stage": "search_text",
+      "downloaded": false,
+      "observedAt": "2026-10-14T13:38:06.000944+00:00"
+    },
+    {
+      "postId": "2110299286311469304",
+      "sourceUrl": "https://x.com/i/status/2110299286311469304",
+      "decision": "pending",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false,
+      "reason": "Retained for further online playback/provenance review; not downloaded."
+    },
+    {
+      "postId": "2110292027422449718",
+      "sourceUrl": "https://x.com/i/status/2110292027422449718",
+      "decision": "pending",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false,
+      "reason": "Retained for further online playback/provenance review; not downloaded."
+    },
+    {
+      "postId": "2110292023052001732",
+      "sourceUrl": "https://x.com/i/status/2110292023052001732",
+      "decision": "pending",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false,
+      "reason": "Retained for further online playback/provenance review; not downloaded."
+    },
+    {
+      "postId": "2110261251788181921",
+      "sourceUrl": "https://x.com/i/status/2110261251788181921",
+      "decision": "pending",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false,
+      "reason": "Retained for further online playback/provenance review; not downloaded."
+    },
+    {
+      "postId": "2110230057268732239",
+      "sourceUrl": "https://x.com/i/status/2110230057268732239",
+      "decision": "pending",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false,
+      "reason": "Retained for further online playback/provenance review; not downloaded."
+    },
+    {
+      "postId": "2110253739999461606",
+      "sourceUrl": "https://x.com/i/status/2110253739999461606",
+      "decision": "pending",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false,
+      "reason": "Retained for further online playback/provenance review; not downloaded."
+    },
+    {
+      "postId": "2110280375268245740",
+      "sourceUrl": "https://x.com/i/status/2110280375268245740",
+      "decision": "pending",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false,
+      "reason": "Retained for further online playback/provenance review; not downloaded."
+    },
+    {
+      "postId": "2110237082647933325",
+      "sourceUrl": "https://x.com/i/status/2110237082647933325",
+      "decision": "pending",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false,
+      "reason": "Retained for further online playback/provenance review; not downloaded."
+    },
+    {
+      "postId": "2110253132353839106",
+      "sourceUrl": "https://x.com/i/status/2110253132353839106",
+      "decision": "pending",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false,
+      "reason": "Retained for further online playback/provenance review; not downloaded."
+    },
+    {
+      "postId": "2110230202991472880",
+      "sourceUrl": "https://x.com/i/status/2110230202991472880",
+      "decision": "pending",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false,
+      "reason": "Retained for further online playback/provenance review; not downloaded."
+    }
+  ]
+}

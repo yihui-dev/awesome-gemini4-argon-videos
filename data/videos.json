@@ -8299,6 +8299,81 @@
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110226024395067496/preview.e3260f31b9de.webp"
   },
   {
+    "id": "2110228353462526112",
+    "title": "Floating islands and voxel pagoda",
+    "category": "3d",
+    "author": {
+      "name": "Bee",
+      "handle": "thtbee_",
+      "url": "https://x.com/thtbee_"
+    },
+    "sourceUrl": "https://x.com/thtbee_/status/2110228353462526112",
+    "publishedAt": "2026-10-14T04:37:00Z",
+    "originalPost": "Gemini 4 Argon - An expansive multi island Voxel Pagoda... \n\nThe one google showcased is so crazyy because an iterative loop was used where agents critiqued the output over and over till was unbelievably realistic..\n\nThis one took 33 minutes to build in Antigravity.. and yes the audio was generated purely in code too!",
+    "prompt": null,
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": null,
+    "modelAttribution": "author_reported",
+    "mediaId": "2110058939991912448",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110058939991912448/vid/avc1/1920x1080/UyZv_6mPxsONuDjy.mp4?tag=29",
+    "sourceSha256": "5979e6b5685aef17b914aaed2730969fa5203287f39ed705f7aa6e46c662dcf1",
+    "duration": 43.630295,
+    "bytes": 47230370,
+    "width": 1920,
+    "height": 1080,
+    "relatedSources": [],
+    "additionalPosts": [
+      {
+        "url": "https://x.com/thtbee_/status/2110267021745111411",
+        "text": "@aapakari Same pass!",
+        "publishedAt": "2026-10-14T07:10:39Z"
+      },
+      {
+        "url": "https://x.com/thtbee_/status/2110265907662717191",
+        "text": "@PJeevanG1 Yup will share all the prompts soon :)",
+        "publishedAt": "2026-10-14T07:06:13Z"
+      }
+    ],
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110228353462526112/2110058939991912448.5979e6b5685a.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110228353462526112/poster.a89528cfc9fe.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110228353462526112/preview.2df062018a10.webp"
+  },
+  {
+    "id": "2110276716870647921",
+    "title": "Predator and schooling ecosystem",
+    "category": "interactive",
+    "author": {
+      "name": "🌺チェレステさかしー/Al/散歩/東京Uberエンジョイ勢",
+      "handle": "sakashiiiii",
+      "url": "https://x.com/sakashiiiii"
+    },
+    "sourceUrl": "https://x.com/sakashiiiii/status/2110276716870647921",
+    "publishedAt": "2026-10-14T07:49:11Z",
+    "originalPost": "Gemini 4 Argon、ちょっと次元が違いすぎ\n\n「ライブラリなし単一HTMLだけで、四分木空間分割・遺伝的アルゴリズム・捕食物理演算が動く生態系シミュレーターを作って」と指示したら、1,800行のガチなコードが一発で動いてしまった。\n\n青い草食魚が群れで逃げて、赤い捕食者が未来位置を予測して追い詰める。\n（詳細はリプ欄へ↓）",
+    "prompt": "ライブラリなし単一HTMLだけで、四分木空間分割・遺伝的アルゴリズム・捕食物理演算が動く生態系シミュレーターを作って",
+    "promptStatus": "verbatim",
+    "promptSourceUrl": "https://x.com/sakashiiiii/status/2110276716870647921",
+    "modelAttribution": "author_reported",
+    "mediaId": "2110275819977465856",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110275819977465856/vid/avc1/3780x2160/JfeHraqjA99g0ZSp.mp4?tag=29",
+    "sourceSha256": "5862140178d450dc8f9ef2c6a4939fd0bd26ac4935d30b0a514ea72395029784",
+    "duration": 62.083333,
+    "bytes": 128005775,
+    "width": 3780,
+    "height": 2160,
+    "relatedSources": [],
+    "additionalPosts": [
+      {
+        "url": "https://x.com/sakashiiiii/status/2110276718837846126",
+        "text": "何がエグいって、中身のアルゴリズムが全部本物：\n\n・数百体の近傍判定をQuadtree（四分木）で空間分割し、重い総当たり計算を90%削減\n・個体ごとに最高速度・視野・旋回力・体格のDNAを持ち、過酷な環境で生き残った遺伝子だけが世代交代で引き継がれる\n・速度を上げすぎると代謝コストで餓死しやすくなる「進化のトレードオフ」まで数学的に整合してる\n\nこれだけの複雑な依存関係を途中で破綻させず、1つのHTMLにまとめ上げる推理力は本物。",
+        "publishedAt": "2026-10-14T07:49:11Z"
+      }
+    ],
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110276716870647921/2110275819977465856.5862140178d4.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110276716870647921/poster.bfdab3e0b52b.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110276716870647921/preview.17a2206b6b5e.webp"
+  },
+  {
     "id": "2110294550656819493",
     "title": "Futuristic game world and arcade",
     "category": "interactive",
@@ -8413,5 +8488,63 @@
     "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110296301048836416/2110284740590968833.57f2cc5934ae.mp4",
     "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110296301048836416/poster.d2878a1fed34.webp",
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110296301048836416/preview.b18327496858.webp"
+  },
+  {
+    "id": "2110359134524805359",
+    "title": "Pixel city and submarine animation",
+    "category": "motion",
+    "author": {
+      "name": "kimura",
+      "handle": "kimura_0314",
+      "url": "https://x.com/kimura_0314"
+    },
+    "sourceUrl": "https://x.com/kimura_0314/status/2110359134524805359",
+    "publishedAt": "2026-10-14T13:16:40Z",
+    "originalPost": "Gemini 4 Argonでピクセル風の動画を作成！\nおもろいぞ！",
+    "prompt": null,
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": null,
+    "modelAttribution": "author_reported",
+    "mediaId": "2110359044695420928",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110359044695420928/vid/avc1/1280x720/JxacsFn1v45UXb0U.mp4?tag=29",
+    "sourceSha256": "629de28a2e7242fda23c6fd921a3e174b4eb9419ae76bca66ed87fdc044c77ce",
+    "duration": 20.053333,
+    "bytes": 5125247,
+    "width": 1280,
+    "height": 720,
+    "relatedSources": [],
+    "additionalPosts": [],
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110359134524805359/2110359044695420928.629de28a2e72.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110359134524805359/poster.672d627da197.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110359134524805359/preview.260b03d5430b.webp"
+  },
+  {
+    "id": "2110362020935860334",
+    "title": "Terraria-inspired Flutter game",
+    "category": "interactive",
+    "author": {
+      "name": "Dreamwalker",
+      "handle": "jaichangpark",
+      "url": "https://x.com/jaichangpark"
+    },
+    "sourceUrl": "https://x.com/jaichangpark/status/2110362020935860334",
+    "publishedAt": "2026-10-14T13:28:09Z",
+    "originalPost": "Single prompt. Gemini 4 Argon. @FlutterDev , @antigravity \n\n#FlutterDev #Flutter #Gemini4 #Gemini #FlutterScene",
+    "prompt": "Build a 3D version of Terraria as a Flutter app using flutter_scene package",
+    "promptStatus": "verbatim",
+    "promptSourceUrl": "https://x.com/jaichangpark/status/2110362373924208770",
+    "modelAttribution": "author_reported",
+    "mediaId": "2110361823841320960",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110361823841320960/vid/avc1/920x720/jxBNIVs5M4ucGfHs.mp4?tag=14",
+    "sourceSha256": "cf68596587c4b8d42c26d51ae7e0e9eef796dad6142afbd8b493779c418789d4",
+    "duration": 52.483333,
+    "bytes": 5810999,
+    "width": 920,
+    "height": 720,
+    "relatedSources": [],
+    "additionalPosts": [],
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110362020935860334/2110361823841320960.cf68596587c4.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110362020935860334/poster.dee426fb08de.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110362020935860334/preview.18dcbeffe571.webp"
   }
 ]

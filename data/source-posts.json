@@ -4178,5 +4178,85 @@
       "name": "木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏",
       "handle": "shota7180"
     }
+  },
+  {
+    "id": "2110265907662717191",
+    "url": "https://x.com/thtbee_/status/2110265907662717191",
+    "text": "@PJeevanG1 Yup will share all the prompts soon :)",
+    "publishedTimestamp": 1791961573,
+    "author": {
+      "name": "Bee",
+      "handle": "thtbee_"
+    }
+  },
+  {
+    "id": "2110276718837846126",
+    "url": "https://x.com/sakashiiiii/status/2110276718837846126",
+    "text": "何がエグいって、中身のアルゴリズムが全部本物：\n\n・数百体の近傍判定をQuadtree（四分木）で空間分割し、重い総当たり計算を90%削減\n・個体ごとに最高速度・視野・旋回力・体格のDNAを持ち、過酷な環境で生き残った遺伝子だけが世代交代で引き継がれる\n・速度を上げすぎると代謝コストで餓死しやすくなる「進化のトレードオフ」まで数学的に整合してる\n\nこれだけの複雑な依存関係を途中で破綻させず、1つのHTMLにまとめ上げる推理力は本物。",
+    "publishedTimestamp": 1791964151,
+    "author": {
+      "name": "🌺チェレステさかしー/Al/散歩/東京Uberエンジョイ勢",
+      "handle": "sakashiiiii"
+    }
+  },
+  {
+    "id": "2110359134524805359",
+    "url": "https://x.com/kimura_0314/status/2110359134524805359",
+    "text": "Gemini 4 Argonでピクセル風の動画を作成！\nおもろいぞ！",
+    "publishedTimestamp": 1791983800,
+    "author": {
+      "name": "kimura",
+      "handle": "kimura_0314"
+    }
+  },
+  {
+    "id": "2110267021745111411",
+    "url": "https://x.com/thtbee_/status/2110267021745111411",
+    "text": "@aapakari Same pass!",
+    "publishedTimestamp": 1791961839,
+    "author": {
+      "name": "Bee",
+      "handle": "thtbee_"
+    }
+  },
+  {
+    "id": "2110276716870647921",
+    "url": "https://x.com/sakashiiiii/status/2110276716870647921",
+    "text": "Gemini 4 Argon、ちょっと次元が違いすぎ\n\n「ライブラリなし単一HTMLだけで、四分木空間分割・遺伝的アルゴリズム・捕食物理演算が動く生態系シミュレーターを作って」と指示したら、1,800行のガチなコードが一発で動いてしまった。\n\n青い草食魚が群れで逃げて、赤い捕食者が未来位置を予測して追い詰める。\n（詳細はリプ欄へ↓）",
+    "publishedTimestamp": 1791964151,
+    "author": {
+      "name": "🌺チェレステさかしー/Al/散歩/東京Uberエンジョイ勢",
+      "handle": "sakashiiiii"
+    }
+  },
+  {
+    "id": "2110228353462526112",
+    "url": "https://x.com/thtbee_/status/2110228353462526112",
+    "text": "Gemini 4 Argon - An expansive multi island Voxel Pagoda... \n\nThe one google showcased is so crazyy because an iterative loop was used where agents critiqued the output over and over till was unbelievably realistic..\n\nThis one took 33 minutes to build in Antigravity.. and yes the audio was generated purely in code too!",
+    "publishedTimestamp": 1791952620,
+    "author": {
+      "name": "Bee",
+      "handle": "thtbee_"
+    }
+  },
+  {
+    "id": "2110362020935860334",
+    "url": "https://x.com/jaichangpark/status/2110362020935860334",
+    "text": "Single prompt. Gemini 4 Argon. @FlutterDev , @antigravity \n\n#FlutterDev #Flutter #Gemini4 #Gemini #FlutterScene",
+    "publishedTimestamp": 1791984489,
+    "author": {
+      "name": "Dreamwalker",
+      "handle": "jaichangpark"
+    }
+  },
+  {
+    "id": "2110362373924208770",
+    "url": "https://x.com/jaichangpark/status/2110362373924208770",
+    "text": "Prompt \n\"Build a 3D version of Terraria as a Flutter app using flutter_scene package\"",
+    "publishedTimestamp": 1791984573,
+    "author": {
+      "name": "Dreamwalker",
+      "handle": "jaichangpark"
+    }
   }
 ]
