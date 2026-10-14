@@ -4128,5 +4128,55 @@
       "name": "JQUAVE",
       "handle": "jquave"
     }
+  },
+  {
+    "id": "2110294900701016169",
+    "url": "https://x.com/essjaykay755/status/2110294900701016169",
+    "text": "Create a **single self-contained HTML file** using **Three.js** that renders a highly realistic, cinematic black hole inspired by **Gargantua from Interstellar**.\n\nPrioritize visual realism over UI complexity. The black hole should have:\nA deep black event horizon\nStrong gravitational lensing that visibly bends the accretion disk around the black hole\nA bright photon ring near the event horizon\nA thin, detailed accretion disk with turbulent glowing material\nThe characteristic lensed disk appearing both above and below/behind the black hole\nRelativistic Doppler beaming: one side brighter/bluer and the opposite side dimmer/redder\nBloom, HDR-like highlights, subtle noise, and a realistic star field\nSmooth animation of the accretion material without looking like a simple rotating texture\n\nUse shaders wherever necessary rather than relying only on standard Three.js materials.\n\nAdd a clean, compact floating control panel with real-time sliders for:\nBlack hole mass / apparent size\nSpin\nGravitational lensing strength\nPhoton ring intensity\nAccretion disk inner radius\nAccretion disk outer radius\nDisk thickness\nDisk brightness\nDisk temperature/color\nDoppler / relativistic effect strength\nDisk rotation speed\nTurbulence\nBloom intensity\nExposure\nCamera distance\nCamera inclination/viewing angle\nStar-field brightness\n\nChanges should update immediately while dragging the sliders.\n\nAllow mouse/touch orbiting and zooming, but keep the initial camera angle composed like a cinematic Interstellar-style shot.\n\nKeep the interface minimal and dark so the black hole remains the focus. Include **Reset to Default**, **Pause Animation**, and **Hide Controls** buttons.\n\nEverything must run directly from the one HTML file with no build process. Make the simulation visually convincing first; don't add unrelated features, explanatory sections, menus, or unnecessary UI.\n\nBefore finishing, test the rendering, controls, resizing, animation performance, and shader compilation errors. Aim for the closest practical approximation of a physically plausible Interstellar-style black hole achievable in real-time WebGL.",
+    "publishedTimestamp": 1791968486,
+    "author": {
+      "name": "Subhojit Karmakar",
+      "handle": "essjaykay755"
+    }
+  },
+  {
+    "id": "2110296301048836416",
+    "url": "https://x.com/BlockInsight214/status/2110296301048836416",
+    "text": "Gemini 4 Argon \n\n暴风雨之夜\n\nthree.js",
+    "publishedTimestamp": 1791968820,
+    "author": {
+      "name": "王小庄",
+      "handle": "BlockInsight214"
+    }
+  },
+  {
+    "id": "2110295720641392931",
+    "url": "https://x.com/reyniel_ia/status/2110295720641392931",
+    "text": "I created this game using Gemini 4 Argon with just a single prompt; it’s one of my favorites, and you can play it now:\n\nhttps://serpientes-campo-de-la-muerte.vercel.app/",
+    "publishedTimestamp": 1791968681,
+    "author": {
+      "name": "Reyniel P",
+      "handle": "reyniel_ia"
+    }
+  },
+  {
+    "id": "2110294802189463868",
+    "url": "https://x.com/essjaykay755/status/2110294802189463868",
+    "text": "gemini 4 argan one shotted this.\n\nhonestly pretty amazing to see how far these models have come. every new generation makes the previous one look ancient\n\nprompt 👇",
+    "publishedTimestamp": 1791968462,
+    "author": {
+      "name": "Subhojit Karmakar",
+      "handle": "essjaykay755"
+    }
+  },
+  {
+    "id": "2110294550656819493",
+    "url": "https://x.com/shota7180/status/2110294550656819493",
+    "text": "Googleの新モデル「Gemini 4 Argon」で、近未来をテーマにした3Dゲームを制作しました。\n\nマップを自由に探索できるほか、カーレースやパズル、DJブースなども実装。気分に合わせてのレトロゲームを作れる要素も入れました。\n\n専門スキルがなくてもアイデアを形にし、作りながら発想を広げられるのは、AIならではの面白さだと感じます。",
+    "publishedTimestamp": 1791968402,
+    "author": {
+      "name": "木内翔大＠SHIFT AI代表「日本をAI先進国に」𝕏",
+      "handle": "shota7180"
+    }
   }
 ]

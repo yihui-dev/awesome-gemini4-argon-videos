@@ -1,0 +1,563 @@
+{
+  "observedAt": "2026-10-14T09:48:42.512689+00:00",
+  "method": "X original posts viewed in current signed-in Chrome before downloading. Engagement is supporting context only.",
+  "selected": [
+    {
+      "postId": "2110296301048836416",
+      "decision": "selected",
+      "browserDuration": 17.229205,
+      "reason": "3D storm lighthouse with moving light beams, waves and clouds; two online samples checked. Distinct from existing angular-rock lighthouse scene.",
+      "engagement": {
+        "views": 117,
+        "likes": 1,
+        "replies": 1
+      },
+      "promptReview": "Author replies reviewed; prompt retained only when publicly present."
+    },
+    {
+      "postId": "2110295720641392931",
+      "decision": "selected",
+      "browserDuration": 107.733,
+      "reason": "Finished snake arena gameplay: moving players, collectibles, abilities and live score progression observed at 24 and 39 seconds.",
+      "engagement": {
+        "views": 18,
+        "likes": 0,
+        "replies": 0
+      },
+      "promptReview": "Author replies reviewed; prompt retained only when publicly present."
+    },
+    {
+      "postId": "2110294550656819493",
+      "decision": "selected",
+      "browserDuration": 101.9,
+      "reason": "Finished futuristic 3D game world: robot puzzle platform and in-world arcade gameplay observed at 27 and 76 seconds.",
+      "engagement": {
+        "views": 1491,
+        "likes": 7,
+        "replies": 0
+      },
+      "promptReview": "Author replies reviewed; prompt retained only when publicly present."
+    },
+    {
+      "postId": "2110294802189463868",
+      "decision": "selected",
+      "browserDuration": 39.829333,
+      "reason": "Finished cinematic black hole with animated accretion disk, lensing and changing camera; full public prompt in author reply.",
+      "engagement": {
+        "views": 15,
+        "likes": 0,
+        "replies": 1
+      },
+      "promptReview": "Author replies reviewed; prompt retained only when publicly present."
+    }
+  ],
+  "fromUtc": "2026-10-14T04:10:00Z",
+  "toUtc": "2026-10-14T09:29:39Z",
+  "discoveredPostCount": 68,
+  "candidates": [
+    {
+      "postId": "2110301060808188072",
+      "sourceUrl": "https://x.com/i/status/2110301060808188072",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110300796298678608",
+      "sourceUrl": "https://x.com/i/status/2110300796298678608",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110300760806392317",
+      "sourceUrl": "https://x.com/i/status/2110300760806392317",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110298657518154159",
+      "sourceUrl": "https://x.com/i/status/2110298657518154159",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110298634822762654",
+      "sourceUrl": "https://x.com/i/status/2110298634822762654",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110298480518279436",
+      "sourceUrl": "https://x.com/i/status/2110298480518279436",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110298338306248882",
+      "sourceUrl": "https://x.com/i/status/2110298338306248882",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110298119103447398",
+      "sourceUrl": "https://x.com/i/status/2110298119103447398",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110298043484459111",
+      "sourceUrl": "https://x.com/i/status/2110298043484459111",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110297967227781236",
+      "sourceUrl": "https://x.com/i/status/2110297967227781236",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110297877436334376",
+      "sourceUrl": "https://x.com/i/status/2110297877436334376",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110297812395045222",
+      "sourceUrl": "https://x.com/i/status/2110297812395045222",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110297541694869967",
+      "sourceUrl": "https://x.com/i/status/2110297541694869967",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110297272042856888",
+      "sourceUrl": "https://x.com/i/status/2110297272042856888",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110296306728284257",
+      "sourceUrl": "https://x.com/i/status/2110296306728284257",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110295216771018767",
+      "sourceUrl": "https://x.com/i/status/2110295216771018767",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110292763115987323",
+      "sourceUrl": "https://x.com/i/status/2110292763115987323",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110292323103908188",
+      "sourceUrl": "https://x.com/i/status/2110292323103908188",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110269222752502190",
+      "sourceUrl": "https://x.com/i/status/2110269222752502190",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110226616110440742",
+      "sourceUrl": "https://x.com/i/status/2110226616110440742",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110235775216275559",
+      "sourceUrl": "https://x.com/i/status/2110235775216275559",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110258604972581364",
+      "sourceUrl": "https://x.com/i/status/2110258604972581364",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110259577694601350",
+      "sourceUrl": "https://x.com/i/status/2110259577694601350",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110261333119877337",
+      "sourceUrl": "https://x.com/i/status/2110261333119877337",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110269471692918903",
+      "sourceUrl": "https://x.com/i/status/2110269471692918903",
+      "decision": "comparison",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110301444310245377",
+      "sourceUrl": "https://x.com/i/status/2110301444310245377",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110298382694543364",
+      "sourceUrl": "https://x.com/i/status/2110298382694543364",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110297898776711202",
+      "sourceUrl": "https://x.com/i/status/2110297898776711202",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110297078522159558",
+      "sourceUrl": "https://x.com/i/status/2110297078522159558",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110296537507287167",
+      "sourceUrl": "https://x.com/i/status/2110296537507287167",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110296264680358142",
+      "sourceUrl": "https://x.com/i/status/2110296264680358142",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110296125865660822",
+      "sourceUrl": "https://x.com/i/status/2110296125865660822",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110295000592646584",
+      "sourceUrl": "https://x.com/i/status/2110295000592646584",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110294556264567113",
+      "sourceUrl": "https://x.com/i/status/2110294556264567113",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110293429972554101",
+      "sourceUrl": "https://x.com/i/status/2110293429972554101",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110292888634740893",
+      "sourceUrl": "https://x.com/i/status/2110292888634740893",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110292322902753748",
+      "sourceUrl": "https://x.com/i/status/2110292322902753748",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110246783687500033",
+      "sourceUrl": "https://x.com/i/status/2110246783687500033",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110251655044468968",
+      "sourceUrl": "https://x.com/i/status/2110251655044468968",
+      "decision": "news_explanation_or_unrelated",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110296572831429038",
+      "sourceUrl": "https://x.com/i/status/2110296572831429038",
+      "decision": "over_120_seconds",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110243969649062182",
+      "sourceUrl": "https://x.com/i/status/2110243969649062182",
+      "decision": "over_120_seconds",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110240752517193761",
+      "sourceUrl": "https://x.com/i/status/2110240752517193761",
+      "decision": "over_120_seconds",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110259639371919757",
+      "sourceUrl": "https://x.com/i/status/2110259639371919757",
+      "decision": "over_120_seconds",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110271423482872266",
+      "sourceUrl": "https://x.com/i/status/2110271423482872266",
+      "decision": "not_selected_quality",
+      "stage": "online_original_review",
+      "downloaded": false
+    },
+    {
+      "postId": "2110238664924229780",
+      "sourceUrl": "https://x.com/i/status/2110238664924229780",
+      "decision": "not_selected_quality",
+      "stage": "online_original_review",
+      "downloaded": false
+    },
+    {
+      "postId": "2110301301481640417",
+      "sourceUrl": "https://x.com/i/status/2110301301481640417",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110299700368949616",
+      "sourceUrl": "https://x.com/i/status/2110299700368949616",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110299286311469304",
+      "sourceUrl": "https://x.com/i/status/2110299286311469304",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110297750311190765",
+      "sourceUrl": "https://x.com/i/status/2110297750311190765",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110295201919209528",
+      "sourceUrl": "https://x.com/i/status/2110295201919209528",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110293902091751836",
+      "sourceUrl": "https://x.com/i/status/2110293902091751836",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110292123178451424",
+      "sourceUrl": "https://x.com/i/status/2110292123178451424",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110292027422449718",
+      "sourceUrl": "https://x.com/i/status/2110292027422449718",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110292023052001732",
+      "sourceUrl": "https://x.com/i/status/2110292023052001732",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110291890839191858",
+      "sourceUrl": "https://x.com/i/status/2110291890839191858",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110261251788181921",
+      "sourceUrl": "https://x.com/i/status/2110261251788181921",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110276716870647921",
+      "sourceUrl": "https://x.com/i/status/2110276716870647921",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "online_original_review",
+      "downloaded": false
+    },
+    {
+      "postId": "2110230057268732239",
+      "sourceUrl": "https://x.com/i/status/2110230057268732239",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110253739999461606",
+      "sourceUrl": "https://x.com/i/status/2110253739999461606",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110280375268245740",
+      "sourceUrl": "https://x.com/i/status/2110280375268245740",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110237082647933325",
+      "sourceUrl": "https://x.com/i/status/2110237082647933325",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110253132353839106",
+      "sourceUrl": "https://x.com/i/status/2110253132353839106",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110248392584728991",
+      "sourceUrl": "https://x.com/i/status/2110248392584728991",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110230202991472880",
+      "sourceUrl": "https://x.com/i/status/2110230202991472880",
+      "decision": "pending_online_review_or_provenance",
+      "stage": "search_text_and_player_metadata",
+      "downloaded": false
+    },
+    {
+      "postId": "2110296301048836416",
+      "sourceUrl": "https://x.com/i/status/2110296301048836416",
+      "decision": "selected",
+      "stage": "online_original_review",
+      "downloaded": true
+    },
+    {
+      "postId": "2110295720641392931",
+      "sourceUrl": "https://x.com/i/status/2110295720641392931",
+      "decision": "selected",
+      "stage": "online_original_review",
+      "downloaded": true
+    },
+    {
+      "postId": "2110294550656819493",
+      "sourceUrl": "https://x.com/i/status/2110294550656819493",
+      "decision": "selected",
+      "stage": "online_original_review",
+      "downloaded": true
+    },
+    {
+      "postId": "2110294802189463868",
+      "sourceUrl": "https://x.com/i/status/2110294802189463868",
+      "decision": "selected",
+      "stage": "online_original_review",
+      "downloaded": true
+    }
+  ],
+  "pendingMustBeRevisitedBeforeNextCursor": true,
+  "qualityRejections": [
+    {
+      "postId": "2110271423482872266",
+      "reason": "Basic text particle logo reveal; limited novelty against existing collection.",
+      "commentEvidence": [
+        "https://x.com/AsifOnWeb3/status/2110278462313529833",
+        "https://x.com/rege_dev/status/2110279358908948733"
+      ],
+      "engagement": {
+        "views": 289,
+        "likes": 5,
+        "replies": 4,
+        "reposts": 4
+      }
+    },
+    {
+      "postId": "2110238664924229780",
+      "reason": "Stacked cartoon bicycle and aircraft animation; limited substantive novelty in two online samples.",
+      "duration": 19.966666,
+      "engagement": {
+        "views": 52,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0
+      }
+    }
+  ]
+}
