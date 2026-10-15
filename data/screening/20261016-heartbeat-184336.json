@@ -1,0 +1,108 @@
+{
+  "automationId": "gemini-4-argon",
+  "triggerUtc": "2026-10-15T18:43:36.293Z",
+  "fromUtc": "2026-10-15T15:12:37.622776Z",
+  "toUtc": "2026-10-15T18:48:48.960878Z",
+  "discoveredPostCount": 11,
+  "originalPostsReviewed": 4,
+  "selectedPostIds": [
+    "2110769564074352813"
+  ],
+  "pendingCount": 87,
+  "downloadedVideos": 1,
+  "scope": "X Latest/Top via signed-in Chrome; original players reviewed before the sole selected download. Remaining backlog is unresolved and the successful-search cursor remains held.",
+  "candidates": [
+    {
+      "postId": "2110769564074352813",
+      "sourceUrl": "https://x.com/yohakujpn/status/2110769564074352813",
+      "decision": "selected",
+      "reason": "Watched original 20-second player through takeoff and above-cloud flight: coherent camera and aircraft motion, clear HUD, detailed runway and scenery, and a complete short game experience rather than tutorial or comparison. Novel aviation simulation relative to existing collection.",
+      "observedAt": "2026-10-15T18:48:48.960878Z",
+      "downloaded": true,
+      "stage": "original_post_review",
+      "duration": 20.053333,
+      "engagement": {
+        "views": 873,
+        "likes": 31,
+        "replies": 16,
+        "reposts": 5,
+        "bookmarks": 10
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/notjazii/status/2110772021257019570",
+          "note": "Viewer asks about technical stack and playable link; creator says game will release on weekend."
+        },
+        {
+          "url": "https://x.com/yohakujpn/status/2110772240761671880",
+          "note": "Creator says game is not yet playable and release is planned for weekend; no exact prompt was shared."
+        }
+      ]
+    },
+    {
+      "postId": "2110761782176620644",
+      "sourceUrl": "https://x.com/Adidotdev/status/2110761782176620644",
+      "decision": "excluded_duration",
+      "reason": "Original X player displays 2:16, exceeding 120 seconds. No download.",
+      "observedAt": "2026-10-15T18:48:48.960878Z",
+      "downloaded": false,
+      "stage": "original_post_review",
+      "duration": 136
+    },
+    {
+      "postId": "2110802885491712062",
+      "sourceUrl": "https://x.com/achxvi/status/2110802885491712062",
+      "decision": "excluded_promo",
+      "reason": "Original video/post promote a creator SKILL with reply-for-link sales CTA; not a finished creative showcase for this collection. No download.",
+      "observedAt": "2026-10-15T18:48:48.960878Z",
+      "downloaded": false,
+      "stage": "original_post_review",
+      "duration": 20
+    },
+    {
+      "postId": "2110700925082103959",
+      "sourceUrl": "https://x.com/dextune/status/2110700925082103959",
+      "decision": "excluded_repost",
+      "reason": "Watched original X player crediting Minsang Daniel Kim; avoid attributing the work to reposting account or duplicating original creator content. No download.",
+      "observedAt": "2026-10-15T18:48:48.960878Z",
+      "downloaded": false,
+      "stage": "original_post_review",
+      "duration": 85
+    },
+    {
+      "postId": "2110802688158138481",
+      "decision": "excluded_duration_and_type",
+      "reason": "30:25 explanatory podcast/news video, over 120 seconds."
+    },
+    {
+      "postId": "2110802588350230784",
+      "decision": "excluded_comparison",
+      "reason": "Argon outperformed comparison post."
+    },
+    {
+      "postId": "2110802525922169198",
+      "decision": "excluded_explainer",
+      "reason": "Frame annotation workflow explanation, not finished work."
+    },
+    {
+      "postId": "2110802502715068489",
+      "decision": "excluded_explainer",
+      "reason": "Player re-identification workflow explanation, not finished work."
+    },
+    {
+      "postId": "2110801924077588611",
+      "decision": "excluded_comparison",
+      "reason": "Argon versus Opus comparison."
+    },
+    {
+      "postId": "2110737457994248521",
+      "decision": "excluded_mixed_model",
+      "reason": "UE5 versus AI comparison and Seedance animation; Argon-specific finished creation unclear."
+    },
+    {
+      "postId": "2110710422500504054",
+      "decision": "excluded_comparison",
+      "reason": "Claude versus Argon comparison."
+    }
+  ]
+}

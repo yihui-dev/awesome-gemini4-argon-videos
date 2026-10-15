@@ -8908,5 +8908,34 @@
     "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110742880654405919/2110741044723646464.935de7672d44.mp4",
     "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110742880654405919/poster.38b3d0a90116.webp",
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110742880654405919/preview.d99e3725ae90.webp"
+  },
+  {
+    "id": "2110769564074352813",
+    "title": "Airport Flight Simulator",
+    "category": "interactive",
+    "author": {
+      "name": "Yohaku",
+      "handle": "yohakujpn",
+      "url": "https://x.com/yohakujpn"
+    },
+    "sourceUrl": "https://x.com/yohakujpn/status/2110769564074352813",
+    "publishedAt": "2026-10-15T16:27:34Z",
+    "originalPost": "Gemini 4 Argon has created an Airport simulator\n\ni think everyone once played a game like airport simulator and you flew around the countries\n\nthe video creation process:\n\n- tokens: 15,5M total\n- output cost: $1.96\n- time: 2 hours\n\nArgon just created another banger",
+    "prompt": "",
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": "",
+    "modelAttribution": "author_reported",
+    "mediaId": "2110768286476447744",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110768286476447744/vid/avc1/1280x720/o8O5kygAScao44BK.mp4?tag=29",
+    "sourceSha256": "95cf4dfa75e154cb7c7d6686384f04019fb8fa2aeac347dbbb990fba0ff3f965",
+    "duration": 20.053333,
+    "bytes": 3655385,
+    "width": 1280,
+    "height": 720,
+    "relatedSources": [],
+    "note": "The creator identifies Gemini 4 Argon as the maker of the airport simulator. The original X video shows a complete takeoff sequence and flight above the cloud layer; the game itself was not yet publicly playable when reviewed.",
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110769564074352813/2110768286476447744.95cf4dfa75e1.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110769564074352813/poster.7c97c7c4e7f7.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110769564074352813/preview.e16183d3ef4a.webp"
   }
 ]

@@ -4578,5 +4578,15 @@
       "name": "Antseed",
       "handle": "AntSeed"
     }
+  },
+  {
+    "id": "2110769564074352813",
+    "url": "https://x.com/yohakujpn/status/2110769564074352813",
+    "text": "Gemini 4 Argon has created an Airport simulator\n\ni think everyone once played a game like airport simulator and you flew around the countries\n\nthe video creation process:\n\n- tokens: 15,5M total\n- output cost: $1.96\n- time: 2 hours\n\nArgon just created another banger",
+    "publishedTimestamp": 1792081654,
+    "author": {
+      "name": "Yohaku",
+      "handle": "yohakujpn"
+    }
   }
 ]

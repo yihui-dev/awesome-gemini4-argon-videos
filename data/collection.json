@@ -3,15 +3,15 @@
   "collectedOn": "2026-10-14",
   "publicationCutoffUtc": "2026-10-13T16:00:00Z",
   "cutoffRule": "strictly after; original source post publication, not a repost or download time",
-  "videoCount": 299,
-  "sourceAccountCount": 225,
+  "videoCount": 300,
+  "sourceAccountCount": 226,
   "publicPromptCount": 59,
   "categories": {
     "motion": 80,
     "3d": 99,
-    "interactive": 120
+    "interactive": 121
   },
-  "videoBytes": 7528806074,
+  "videoBytes": 7532461459,
   "discovery": {
     "platform": "X",
     "surfaces": [
@@ -1680,23 +1680,38 @@
       "postId": "2110742894986354882",
       "reason": "Watched original X player: turquoise wave breaks into obvious polygonal strips, undermining intended water motion and finish.",
       "reasonCode": "excluded_quality"
+    },
+    {
+      "postId": "2110761782176620644",
+      "reasonCode": "excluded_duration",
+      "reason": "X original player shows 2:16, exceeding the 120-second hard limit; no download."
+    },
+    {
+      "postId": "2110802885491712062",
+      "reasonCode": "explanatory_or_product_walkthrough",
+      "reason": "Watched original X player and post; a sales/skill promotion asking viewers to reply SKILL, not a curated finished creative showcase."
+    },
+    {
+      "postId": "2110700925082103959",
+      "reasonCode": "excluded_repost",
+      "reason": "Video is visibly credited to Minsang Daniel Kim, not the account reposting it; original creator already represented in the collection."
     }
   ],
   "rights": "Third-party videos, original posts and prompts retain their creators rights. MIT covers original repository tooling and curation structure only.",
   "searchSnapshotEndUtc": "2026-10-14T04:33:00Z",
   "earliestPublicationUtc": "2026-10-13T16:00:02Z",
-  "latestPublicationUtc": "2026-10-15T14:41:33Z",
+  "latestPublicationUtc": "2026-10-15T16:27:34Z",
   "lastSearch": {
-    "fromUtc": "2026-10-15T09:20:00Z",
-    "toUtc": "2026-10-15T15:12:37.622776Z",
-    "surface": "X Latest in signed-in Chrome, followed by original author thread and replies",
-    "discoveredPostCount": 17,
-    "originalPostsReviewed": 11,
-    "addedVideos": 4,
-    "verifiedNewObjects": 12,
+    "fromUtc": "2026-10-15T15:12:37.622776Z",
+    "toUtc": "2026-10-15T18:48:48.960878Z",
+    "surface": "X Latest and Top in signed-in Chrome, followed by original post and replies",
+    "discoveredPostCount": 11,
+    "originalPostsReviewed": 4,
+    "addedVideos": 1,
+    "verifiedNewObjects": 3,
     "pendingReviewCount": 87,
-    "screeningRecord": "data/screening/20261015-manual-expand.json",
-    "scope": "Bounded discovery, not an exhaustive index of X. Unreviewed candidates retained; successful-search cursor intentionally not advanced until pending candidates are resolved."
+    "screeningRecord": "data/screening/20261016-heartbeat-184336.json",
+    "scope": "Bounded discovery, not an exhaustive index of X. Unreviewed backlog remains; successful-search cursor intentionally not advanced."
   },
   "curationPolicy": {
     "showcase": "Finished creative work only; exclude model comparisons, reviews, explainers, tutorials, production walkthroughs, and software feature presentations. A short product demo can still be an explainer; evaluate content, not just category or duration.",
