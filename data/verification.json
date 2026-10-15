@@ -1,7 +1,7 @@
 {
-  "verifiedAt": "2026-10-15T18:48:48.959075+00:00",
+  "verifiedAt": "2026-10-15T22:45:07.519485Z",
   "method": "Every published object downloaded from its public R2 custom-domain URL and compared byte-for-byte by SHA-256 and length. Video URLs also tested with a 100-byte HTTP range request. Local originals passed ffprobe and full ffmpeg decode.",
-  "objectCount": 900,
+  "objectCount": 903,
   "objects": [
     {
       "url": "https://media.skillry.dev/gemini-4-argon/2110037855452180633/2110037645325733888.745e35aeddad.mp4",
@@ -7502,6 +7502,31 @@
       "publicReadback": "passed",
       "contentType": "image/webp",
       "verifiedAt": "2026-10-15T18:48:14.748953+00:00"
+    },
+    {
+      "url": "https://media.skillry.dev/gemini-4-argon/2110858544077762620/2110856596595322880.9c1a39807737.mp4",
+      "bytes": 69515740,
+      "sha256": "9c1a39807737041c82fd50f8e3591bd79fe8a840f0166e9de71f94b32d1329b2",
+      "publicReadback": "passed",
+      "contentType": "video/mp4",
+      "verifiedAt": "2026-10-15T22:44:33.168550+00:00",
+      "byteRange": "206; bytes 0-99; 100 bytes"
+    },
+    {
+      "url": "https://media.skillry.dev/gemini-4-argon/2110858544077762620/poster.d10630cb4d68.webp",
+      "bytes": 28474,
+      "sha256": "d10630cb4d6834e9a0e8a1e401f4232ed4687af3bb7e1352315072edaf6141e2",
+      "publicReadback": "passed",
+      "contentType": "image/webp",
+      "verifiedAt": "2026-10-15T22:44:34.215273+00:00"
+    },
+    {
+      "url": "https://media.skillry.dev/gemini-4-argon/2110858544077762620/preview.98109f60212b.webp",
+      "bytes": 303824,
+      "sha256": "98109f60212b2dc77a5000acb2327a97939b63c38e63f4a4b9aa24e301396d9d",
+      "publicReadback": "passed",
+      "contentType": "image/webp",
+      "verifiedAt": "2026-10-15T22:44:34.962742+00:00"
     }
   ],
   "catalogReconciledAt": "2026-10-14T06:18:35.313563Z"

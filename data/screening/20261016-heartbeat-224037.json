@@ -1,0 +1,34 @@
+{
+  "automationId": "gemini-4-argon",
+  "triggerUtc": "2026-10-15T22:40:37.144Z",
+  "fromUtc": "2026-10-15T18:40:00Z",
+  "toUtc": "2026-10-15T22:45:07.519485Z",
+  "discoveredPostCount": 7,
+  "originalPostsReviewed": 3,
+  "selectedPostIds": [
+    "2110858544077762620"
+  ],
+  "pendingCount": 87,
+  "downloadedVideos": 1,
+  "scope": "X Latest via signed-in Chrome. Original player reviewed before selected download. Search backlog remains unresolved and successful-search cursor remains held.",
+  "candidates": [
+    {
+      "postId": "2110858544077762620",
+      "sourceUrl": "https://x.com/SubhavMathur/status/2110858544077762620",
+      "decision": "selected",
+      "reason": "Watched the original 54-second X player at several points: polished completed 3D Thousand Sunny ship, coherent motion and water reflections, dramatic sunset-to-night lighting. No tutorial, comparison, or software walkthrough in video; distinct from existing catalog. Creator explicitly credits Gemini 4 Argon inside DevinAI.",
+      "observedAt": "2026-10-15T22:45:07.519485Z",
+      "downloaded": true,
+      "stage": "original_post_review",
+      "duration": 53.952,
+      "engagement": {
+        "views": 13,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0
+      },
+      "commentEvidence": []
+    }
+  ],
+  "otherSearchExclusions": "Original X player reviews: a Japanese temple Blender clip was deferred because original creator provenance was unclear; a 19-second birthday-balloon app settings walkthrough was excluded as product explanation with limited creative novelty. Further search results included model comparisons, Antigravity tutorials, and product/news posts; these were screened out before download."
+}

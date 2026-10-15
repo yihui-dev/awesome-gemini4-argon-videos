@@ -8937,5 +8937,34 @@
     "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110769564074352813/2110768286476447744.95cf4dfa75e1.mp4",
     "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110769564074352813/poster.7c97c7c4e7f7.webp",
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110769564074352813/preview.e16183d3ef4a.webp"
+  },
+  {
+    "id": "2110858544077762620",
+    "title": "Thousand Sunny at Sunset",
+    "category": "3d",
+    "author": {
+      "name": "Subhav",
+      "handle": "SubhavMathur",
+      "url": "https://x.com/SubhavMathur"
+    },
+    "sourceUrl": "https://x.com/SubhavMathur/status/2110858544077762620",
+    "publishedAt": "2026-10-15T22:21:09Z",
+    "originalPost": "20 minutes. 3 iterations. One Piece’s Thousand Sunny.\n\nBuilt entirely with Gemini 4 Argon inside @DevinAI.\n\nThis agent is seriously impressive when it comes to design.\n\nThe sunset, lighting, reflections on the water, the whole atmosphere. It looks so good.\n\nThe video quality doesn’t quite do it justice, but you get the idea.\n\nCoding and code review? Still not convinced. My earlier tests exposed some serious gaps, and I’d want another model reviewing its work before shipping.\n\nBut for turning a visual idea into something like this? I’m impressed.\n\nOne Piece fans, what scene should I try recreating next?",
+    "prompt": "",
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": "",
+    "modelAttribution": "author_reported",
+    "mediaId": "2110856596595322880",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110856596595322880/vid/avc1/3840x2160/i04rClz2d7fsPAFc.mp4?tag=29",
+    "sourceSha256": "9c1a39807737041c82fd50f8e3591bd79fe8a840f0166e9de71f94b32d1329b2",
+    "duration": 53.952,
+    "bytes": 69515740,
+    "width": 3840,
+    "height": 2160,
+    "relatedSources": [],
+    "note": "The creator says the One Piece Thousand Sunny scene was built entirely with Gemini 4 Argon inside DevinAI. The original X video shows the finished animated ship over reflective water through a sunset-to-night lighting transition; this is a visual creation showcase, not the coding-review commentary in the post.",
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110858544077762620/2110856596595322880.9c1a39807737.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110858544077762620/poster.d10630cb4d68.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110858544077762620/preview.98109f60212b.webp"
   }
 ]
