@@ -1,0 +1,404 @@
+{
+  "automationId": "gemini-4-argon",
+  "triggerUtc": "2026-10-15T09:42:38Z",
+  "status": "completed_bounded_screening",
+  "completedAt": "2026-10-15T14:43:36.595968+00:00",
+  "fromUtc": "2026-10-14T04:10:00Z",
+  "toUtc": "2026-10-15T09:42:38Z",
+  "surface": "X Latest and Top in signed-in Chrome; original posts and visible replies",
+  "discoveredPostCount": 34,
+  "newlyDiscoveredThisRun": 23,
+  "resumedPreviousCandidates": 12,
+  "overlapPostCount": 1,
+  "originalPostsReviewed": 5,
+  "previousOriginalReviewsReused": 1,
+  "selectedPostIds": [],
+  "downloadedVideos": 0,
+  "addedVideos": 0,
+  "verifiedNewObjects": 0,
+  "pendingReviewCount": 90,
+  "catalogCountUnchanged": 294,
+  "successfulCursorAdvanced": false,
+  "scope": "Bounded search and screening completed, not exhaustive coverage of X. Unresolved candidates retained; successful-search cursor remains unchanged to cover backlog. Previous archive-volume blocker resolved. No candidate media downloaded.",
+  "candidates": [
+    {
+      "postId": "2110603934855475262",
+      "sourceUrl": "https://x.com/i/status/2110603934855475262",
+      "decision": "excluded_news_promotion",
+      "reason": "Guide, official-demo commentary or model promotion, not original finished creative work.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T06:22:48.393148+00:00"
+    },
+    {
+      "postId": "2110598154219647276",
+      "sourceUrl": "https://x.com/i/status/2110598154219647276",
+      "decision": "excluded_news_promotion",
+      "reason": "Guide, official-demo commentary or model promotion, not original finished creative work.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T06:22:48.393148+00:00"
+    },
+    {
+      "postId": "2110592758285324537",
+      "sourceUrl": "https://x.com/i/status/2110592758285324537",
+      "decision": "excluded_news_promotion",
+      "reason": "Guide, official-demo commentary or model promotion, not original finished creative work.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T06:22:48.393148+00:00"
+    },
+    {
+      "postId": "2110590318605422978",
+      "sourceUrl": "https://x.com/i/status/2110590318605422978",
+      "decision": "excluded_news_promotion",
+      "reason": "Guide, official-demo commentary or model promotion, not original finished creative work.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T06:22:48.393148+00:00"
+    },
+    {
+      "postId": "2110592949239300461",
+      "sourceUrl": "https://x.com/i/status/2110592949239300461",
+      "decision": "excluded_comparison",
+      "reason": "Explicit comparison or another-model output following an Argon test.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T06:22:48.393148+00:00"
+    },
+    {
+      "postId": "2110592754241921051",
+      "sourceUrl": "https://x.com/i/status/2110592754241921051",
+      "decision": "excluded_comparison",
+      "reason": "Explicit comparison or another-model output following an Argon test.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T06:22:48.393148+00:00"
+    },
+    {
+      "postId": "2110589900592668980",
+      "sourceUrl": "https://x.com/i/status/2110589900592668980",
+      "decision": "excluded_comparison",
+      "reason": "Explicit comparison or another-model output following an Argon test.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T06:22:48.393148+00:00"
+    },
+    {
+      "postId": "2110589111270871143",
+      "sourceUrl": "https://x.com/i/status/2110589111270871143",
+      "decision": "excluded_software_features",
+      "reason": "Invoice software presentation rather than finished creative work.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T06:22:48.393148+00:00"
+    },
+    {
+      "postId": "2110602523015036990",
+      "sourceUrl": "https://x.com/i/status/2110602523015036990",
+      "decision": "excluded_duration",
+      "reason": "Original X player displayed 2:12 total, exceeding 120 seconds. Stopped without downloading.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "original_post_review",
+      "durationDisplay": "2:12",
+      "engagement": {
+        "views": 248,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0
+      }
+    },
+    {
+      "postId": "2110591236323017154",
+      "sourceUrl": "https://x.com/i/status/2110591236323017154",
+      "decision": "pending",
+      "reason": "Not watched or approved; duration, content-type and provenance still need checking.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T06:22:48.393148+00:00"
+    },
+    {
+      "postId": "2110590446405910725",
+      "sourceUrl": "https://x.com/i/status/2110590446405910725",
+      "decision": "pending",
+      "reason": "Not watched or approved; duration, content-type and provenance still need checking.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T06:22:48.393148+00:00"
+    },
+    {
+      "postId": "2110601742413172851",
+      "sourceUrl": "https://x.com/i/status/2110601742413172851",
+      "decision": "excluded_explainer",
+      "reason": "Original player14.058666s, viewed at4.2s: labelled atoms/electrodes/mirrors and a photons-over-time chart illustrate laser mechanism. Excluded as explanatory visualization. Author reply describes another toy optical bench; no exact prompt in reviewed thread.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T06:22:48.393148+00:00",
+      "stage": "original_post_review",
+      "duration": 14.058666,
+      "engagement": {
+        "views": 48,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 1
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/SidraMiconi/status/2110602027357417884",
+          "note": "Author describes another optical bench; description is not an exact prompt."
+        }
+      ]
+    },
+    {
+      "postId": "2110667233600901355",
+      "sourceUrl": "https://x.com/i/status/2110667233600901355",
+      "decision": "excluded_content_type",
+      "reason": "Live Algo Lab financial/model testing explainer.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110666407687987562",
+      "sourceUrl": "https://x.com/i/status/2110666407687987562",
+      "decision": "excluded_content_type",
+      "reason": "Explicit Argon, Opus and Grok sea-scene comparison.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110665951800901643",
+      "sourceUrl": "https://x.com/i/status/2110665951800901643",
+      "decision": "excluded_content_type",
+      "reason": "Discussion comparing model outputs and disputing attribution; not an original finished-work post.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110665088809996466",
+      "sourceUrl": "https://x.com/i/status/2110665088809996466",
+      "decision": "excluded_content_type",
+      "reason": "Model benchmark review and code migration commentary.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110663495436115972",
+      "sourceUrl": "https://x.com/i/status/2110663495436115972",
+      "decision": "excluded_content_type",
+      "reason": "API platform availability promotion.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110663020439576761",
+      "sourceUrl": "https://x.com/i/status/2110663020439576761",
+      "decision": "excluded_content_type",
+      "reason": "Chrome extension software feature presentation.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110662842882179309",
+      "sourceUrl": "https://x.com/i/status/2110662842882179309",
+      "decision": "excluded_content_type",
+      "reason": "Explicit Argon versus Opus anime game comparison.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110662260284588303",
+      "sourceUrl": "https://x.com/i/status/2110662260284588303",
+      "decision": "excluded_content_type",
+      "reason": "Explicit Argon versus Opus comparison.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110661990951587889",
+      "sourceUrl": "https://x.com/i/status/2110661990951587889",
+      "decision": "excluded_content_type",
+      "reason": "Explicit GPT versus Muse versus Gemini comparison.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110661933233819685",
+      "sourceUrl": "https://x.com/i/status/2110661933233819685",
+      "decision": "excluded_content_type",
+      "reason": "Explicit four-model comparison.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110405269171921243",
+      "sourceUrl": "https://x.com/i/status/2110405269171921243",
+      "decision": "excluded_content_type",
+      "reason": "RoboSimStudio toolkit introduction with Claude/GPT demonstration; not a solely attributed Argon finished creative work.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110667117003727022",
+      "sourceUrl": "https://x.com/i/status/2110667117003727022",
+      "decision": "pending",
+      "reason": "Glassmorphism website; original video not reviewed, content type and novelty unconfirmed.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110665502431269003",
+      "sourceUrl": "https://x.com/i/status/2110665502431269003",
+      "decision": "pending",
+      "reason": "Author describes Lyria/Veo/Voice/recording workflow; role of Argon and finished-content type need original review.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110663622380707999",
+      "sourceUrl": "https://x.com/i/status/2110663622380707999",
+      "decision": "pending",
+      "reason": "Racing game; original creator, duplicates, duration and visual quality unverified.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110663467124261145",
+      "sourceUrl": "https://x.com/i/status/2110663467124261145",
+      "decision": "pending",
+      "reason": "Wizard chess; original creator and possible official-demo duplication unverified.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110662095733948774",
+      "sourceUrl": "https://x.com/i/status/2110662095733948774",
+      "decision": "pending",
+      "reason": "Post names four models; likely comparison, content type not yet confirmed.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110635280101503099",
+      "sourceUrl": "https://x.com/i/status/2110635280101503099",
+      "decision": "pending",
+      "reason": "Player lists 119 seconds; original creator, content type and visual quality unverified.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110651100936438178",
+      "sourceUrl": "https://x.com/i/status/2110651100936438178",
+      "decision": "pending",
+      "reason": "Generic model reaction; original provenance and video content unverified.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110662056013881794",
+      "sourceUrl": "https://x.com/i/status/2110662056013881794",
+      "decision": "excluded_quality",
+      "reason": "Viewed original player at approximately 19.27 seconds of 30: faceted neon robot, orbiting rings and loose cubes on a grid. Limited novelty versus existing robot showcases. Author also criticizes the colors; generic praise does not outweigh the visual assessment.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "original_post_review",
+      "duration": 30,
+      "mediaId": "2110661951676379136",
+      "engagement": {
+        "views": 1297,
+        "likes": 18,
+        "replies": 10,
+        "reposts": 1,
+        "bookmarks": 2
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/SahilPanhotra/status/2110688107557425520",
+          "note": "Author says not that good and still choosing AI slop colors."
+        },
+        {
+          "url": "https://x.com/SahilPanhotra/status/2110697320102965404",
+          "note": "Author calls it not that cool but good enough."
+        }
+      ]
+    },
+    {
+      "postId": "2110584142161170449",
+      "sourceUrl": "https://x.com/i/status/2110584142161170449",
+      "decision": "deferred_provenance",
+      "reason": "Original X player 12.128 seconds. Saw polished FERAL can advertising end-shot, but creator only calls Argon an ad creator; exact generation workflow and contribution of other video models are unspecified in visible thread. Insufficient online visual sampling to approve; keep pending without downloading.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "original_post_review",
+      "duration": 12.128,
+      "engagement": {
+        "views": 130,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "bookmarks": 1
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/muratcan/status/2110584641589772711",
+          "note": "Generic praise only; creator replies thanks. No prompt or workflow clarification."
+        }
+      ]
+    },
+    {
+      "postId": "2110625958885720472",
+      "sourceUrl": "https://x.com/i/status/2110625958885720472",
+      "decision": "excluded_explainer",
+      "reason": "Original video viewed during episode 1: captioned Breakout learning reenactment with score-per-episode chart. Author explicitly says moves and captions are hard-coded to retell the famous reinforcement-learning result. Educational demonstration excluded by content-type rule.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "original_post_review",
+      "durationDisplay": "0:38",
+      "engagement": {
+        "views": 306,
+        "likes": 7,
+        "replies": 1,
+        "reposts": 0
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/GLaDOUGHSandHiv/status/2110637341748699225",
+          "note": "Generic praise; no substantive testing or prompt evidence."
+        }
+      ]
+    },
+    {
+      "postId": "2110438981997576214",
+      "sourceUrl": "https://x.com/i/status/2110438981997576214",
+      "decision": "excluded_quality",
+      "reason": "Original player 36.899 seconds; sampled opening and gameplay at 17.24 seconds. Basic monochrome 3D chess with capture banner, tightly cropped mobile browser recording and limited visual distinction from existing richer chess showcases. No standout novelty sufficient for this curated round.",
+      "downloaded": false,
+      "observedAt": "2026-10-15T14:43:36.595968+00:00",
+      "stage": "original_post_review",
+      "duration": 36.899,
+      "engagement": {
+        "views": 59,
+        "likes": 4,
+        "replies": 2,
+        "reposts": 0
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/Joshua_WD/status/2110473159854153744",
+          "note": "Looks fun to play; no evidence of actual playtesting."
+        },
+        {
+          "url": "https://x.com/LauraLoumd/status/2110443087906611683",
+          "note": "Generic praise and networking request."
+        }
+      ]
+    }
+  ]
+}
