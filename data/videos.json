@@ -8688,6 +8688,35 @@
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110390964028330106/preview.608fd92657c6.webp"
   },
   {
+    "id": "2110468908067221643",
+    "title": "Thoroughbred Horse in Motion",
+    "category": "3d",
+    "author": {
+      "name": "Vini Lana",
+      "handle": "oviniciuslana",
+      "url": "https://x.com/oviniciuslana"
+    },
+    "sourceUrl": "https://x.com/oviniciuslana/status/2110468908067221643",
+    "publishedAt": "2026-10-14T20:32:52Z",
+    "originalPost": "Depois de mais um prompt o Gemini 4 Argon me entregou ISSO AQUI, sem base!! \n\nMuito bom em 3D",
+    "prompt": null,
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": null,
+    "modelAttribution": "author_reported",
+    "mediaId": "2110468775329882112",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110468775329882112/vid/avc1/760x476/FzofF4VOoxZ14Wpv.mp4?tag=29",
+    "sourceSha256": "1718924ad051ed3745c46a4086c57d6b784008fda98c51720d7ce39327891af1",
+    "duration": 50.645333,
+    "bytes": 3998312,
+    "width": 760,
+    "height": 476,
+    "relatedSources": [],
+    "additionalPosts": [],
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110468908067221643/2110468775329882112.1718924ad051.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110468908067221643/poster.f25947e83c32.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110468908067221643/preview.d55324ced57f.webp"
+  },
+  {
     "id": "2110476539825643944",
     "title": "Hand-Drawn Skull Collage in Motion",
     "category": "motion",
@@ -8746,6 +8775,69 @@
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110509784508313818/preview.de5fbbcca27c.webp"
   },
   {
+    "id": "2110533459685052825",
+    "title": "Geometric UFO Study",
+    "category": "3d",
+    "author": {
+      "name": "The Engulfing Guy 🌊",
+      "handle": "TheEngulfingGuy",
+      "url": "https://x.com/TheEngulfingGuy"
+    },
+    "sourceUrl": "https://x.com/TheEngulfingGuy/status/2110533459685052825",
+    "publishedAt": "2026-10-15T00:49:23Z",
+    "originalPost": "I wonder if I was the first to create a UFO/UAP with Gemini Argon 🤔",
+    "prompt": null,
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": null,
+    "modelAttribution": "author_reported",
+    "mediaId": "2110533432660897792",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110533432660897792/vid/avc1/1080x1080/U5jzBj3sf8fVvMRv.mp4?tag=29",
+    "sourceSha256": "6e1424c51f8b891968fb94e2d8ed4629dca440aa422cdaa00b1336bc10a9f444",
+    "duration": 44.083333,
+    "bytes": 26050284,
+    "width": 1080,
+    "height": 1080,
+    "relatedSources": [],
+    "additionalPosts": [],
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110533459685052825/2110533432660897792.6e1424c51f8b.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110533459685052825/poster.29e0e7db4924.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110533459685052825/preview.81175fcdace1.webp"
+  },
+  {
+    "id": "2110533526248718808",
+    "title": "AirthMattle: Mental Math Duel",
+    "category": "interactive",
+    "author": {
+      "name": "Sabin Pokharel",
+      "handle": "sapienskid",
+      "url": "https://x.com/sapienskid"
+    },
+    "sourceUrl": "https://x.com/sapienskid/status/2110533526248718808",
+    "publishedAt": "2026-10-15T00:49:39Z",
+    "originalPost": "@GeminiApp built this math game with gemini 4 argon",
+    "prompt": null,
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": null,
+    "modelAttribution": "author_reported",
+    "mediaId": "2110533412809494528",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110533412809494528/vid/avc1/1280x720/794CUNtCDXxjedek.mp4?tag=14",
+    "sourceSha256": "a76b6175ae71cb5dc3dc045e91b547d9f8a60daa8faf1f257ae2d22a0167adc9",
+    "duration": 14.837551,
+    "bytes": 1930577,
+    "width": 1280,
+    "height": 720,
+    "relatedSources": [
+      {
+        "label": "Playable AirthMattle demo shared by the author",
+        "url": "https://x.com/sapienskid/status/2110538556813054314"
+      }
+    ],
+    "additionalPosts": [],
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110533526248718808/2110533412809494528.a76b6175ae71.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110533526248718808/poster.bb4a11fa8f0f.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110533526248718808/preview.ed221ba00b2e.webp"
+  },
+  {
     "id": "2110742878096146911",
     "title": "Lantern-Lit Coastal Village",
     "category": "motion",
@@ -8780,5 +8872,41 @@
     "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110742878096146911/2110740998011617280.cf66b185f636.mp4",
     "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110742878096146911/poster.ccd5e7246469.webp",
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110742878096146911/preview.066cb4db4841.webp"
+  },
+  {
+    "id": "2110742880654405919",
+    "title": "Translucent Jellyfish at Depth",
+    "category": "motion",
+    "author": {
+      "name": "Antseed",
+      "handle": "AntSeed",
+      "url": "https://x.com/AntSeed"
+    },
+    "sourceUrl": "https://x.com/AntSeed/status/2110742880654405919",
+    "publishedAt": "2026-10-15T14:41:33Z",
+    "originalPost": "Code translucent jellyfish in deep petrol-blue water, with cyan and coral light. Make their bells squeeze quickly and recover slowly to propel them forward. Tentacles should trail with a delay, each jellyfish on its own rhythm.",
+    "prompt": "Code translucent jellyfish in deep petrol-blue water, with cyan and coral light. Make their bells squeeze quickly and recover slowly to propel them forward. Tentacles should trail with a delay, each jellyfish on its own rhythm.",
+    "promptStatus": "verbatim",
+    "promptSourceUrl": "https://x.com/AntSeed/status/2110742880654405919",
+    "modelAttribution": "author_reported",
+    "mediaId": "2110741044723646464",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110741044723646464/vid/avc1/1920x1080/WKLhgW7J0rH6T-3E.mp4?tag=29",
+    "sourceSha256": "935de7672d44dc5e476047e310e79287e72f7c3fa57457ef7c1aa4017774c929",
+    "duration": 9.6,
+    "bytes": 8714103,
+    "width": 1920,
+    "height": 1080,
+    "relatedSources": [],
+    "additionalPosts": [
+      {
+        "url": "https://x.com/AntSeed/status/2110742865483563390",
+        "text": "Gemini 4 Argon bringing images, video and motion together surprised us 🤯   \n\nWhen everything shares the same code, you can keep the scene you love and direct what happens inside it. \n\nTotal cost via Antseed: $1.56 \n\nAll 10 with prompts below ↓",
+        "publishedAt": "2026-10-15T14:41:29Z"
+      }
+    ],
+    "note": "The author attributes this code-animation series to Gemini 4 Argon in the linked parent post.",
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110742880654405919/2110741044723646464.935de7672d44.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110742880654405919/poster.38b3d0a90116.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110742880654405919/preview.d99e3725ae90.webp"
   }
 ]

@@ -1,0 +1,272 @@
+{
+  "automationId": "manual-user-request",
+  "triggerUtc": "2026-10-15T15:12:37.622776Z",
+  "fromUtc": "2026-10-15T09:20:00Z",
+  "toUtc": "2026-10-15T15:12:37.622776Z",
+  "discoveredPostCount": 17,
+  "originalPostsReviewed": 11,
+  "selectedPostIds": [
+    "2110468908067221643",
+    "2110742880654405919",
+    "2110533526248718808",
+    "2110533459685052825"
+  ],
+  "pendingCount": 87,
+  "downloadedVideos": 4,
+  "scope": "Focused X Top/Latest and existing pending backlog in signed-in Chrome. Only original selected videos downloaded after online review. Search cursor left unchanged because backlog remains.",
+  "candidates": [
+    {
+      "postId": "2110468908067221643",
+      "sourceUrl": "https://x.com/oviniciuslana/status/2110468908067221643",
+      "decision": "selected",
+      "reason": "Original video sampled around 6 and 26 seconds: sculpted horse with articulated running poses, changing camera and coat material. Completed interactive 3D subject, no tutorial narration or comparison overlays seen. Adds an animal-animation subject absent from the catalog.",
+      "observedAt": "2026-10-15T15:06:41.495099+00:00",
+      "downloaded": true,
+      "stage": "original_post_review",
+      "duration": 50.6,
+      "engagement": {
+        "views": 1258,
+        "likes": 26,
+        "replies": 5,
+        "reposts": 2,
+        "bookmarks": 3
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/ericbatistasilv/status/2110478154250805425",
+          "note": "Viewer rates it 7.5/10; other replies mostly access questions and general praise. No exact prompt visible."
+        }
+      ]
+    },
+    {
+      "postId": "2110487330276651053",
+      "sourceUrl": "https://x.com/haruka_apps/status/2110487330276651053",
+      "decision": "excluded_quality",
+      "reason": "Original video sampled around 8 and 23.65 seconds shows rotating Earth and zooming to Sun/Moon orbits. Strong bloom obscures detail and offers limited novelty versus two existing globe/earth entries.",
+      "observedAt": "2026-10-15T15:06:41.495099+00:00",
+      "downloaded": false,
+      "stage": "original_post_review",
+      "duration": 46.4,
+      "engagement": {
+        "views": 438,
+        "likes": 11,
+        "replies": 1,
+        "reposts": 1
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/MichaelKaiserAI/status/2110488488286298403",
+          "note": "Generic praise, no substantive usage evidence."
+        }
+      ]
+    },
+    {
+      "postId": "2110490874467565684",
+      "sourceUrl": "https://x.com/jasp/status/2110490874467565684",
+      "decision": "excluded_process",
+      "reason": "Original video opens with Gemini composer and image/prompt submission workflow, rather than a clean finished scene showcase.",
+      "observedAt": "2026-10-15T15:06:41.495099+00:00",
+      "downloaded": false,
+      "stage": "original_post_review",
+      "duration": 41.233,
+      "engagement": {
+        "views": 471,
+        "likes": 5,
+        "reposts": 1
+      },
+      "commentEvidence": []
+    },
+    {
+      "postId": "2110478526499447100",
+      "sourceUrl": "https://x.com/TheBalkanHacker/status/2110478526499447100",
+      "decision": "excluded_duration",
+      "reason": "Public media metadata gives 171.098 seconds, exceeding 120; not played or downloaded.",
+      "observedAt": "2026-10-15T15:06:41.495099+00:00",
+      "downloaded": false,
+      "stage": "duration_prescreen",
+      "duration": 171.098,
+      "engagement": {},
+      "commentEvidence": []
+    },
+    {
+      "postId": "2110742880654405919",
+      "sourceUrl": "https://x.com/AntSeed/status/2110742880654405919",
+      "decision": "selected",
+      "reason": "Watched original X player: four cyan/coral jellyfish swim with individually delayed tentacles in a coherent deep-blue scene. A finished motion study, no comparison or walkthrough; distinct aquatic subject and animation.",
+      "observedAt": "2026-10-15T15:11:25.811535+00:00",
+      "downloaded": true,
+      "stage": "original_post_review",
+      "duration": 9.6,
+      "engagement": {
+        "views": 19,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0
+      },
+      "commentEvidence": []
+    },
+    {
+      "postId": "2110533526248718808",
+      "sourceUrl": "https://x.com/sapienskid/status/2110533526248718808",
+      "decision": "selected",
+      "reason": "Watched original X video: complete illustrated two-player arithmetic game with animated avatars, alternating math questions, score changes and working answer interaction. Creator linked playable demo in reply; not a tutorial.",
+      "observedAt": "2026-10-15T15:11:25.811535+00:00",
+      "downloaded": true,
+      "stage": "original_post_review",
+      "duration": 14.773,
+      "engagement": {
+        "views": 7922,
+        "likes": 39,
+        "replies": 1,
+        "reposts": 0,
+        "bookmarks": 18
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/sapienskid/status/2110538556813054314",
+          "note": "Author links playable AirthMattle demo; no exact generation prompt disclosed."
+        }
+      ]
+    },
+    {
+      "postId": "2110533459685052825",
+      "sourceUrl": "https://x.com/TheEngulfingGuy/status/2110533459685052825",
+      "decision": "selected",
+      "reason": "Watched original X video: intricate concentric metal lattice UFO rotates smoothly against a dark stage; finished 3D visual without tutorial or comparison overlay. Distinct sci-fi object; no explanatory voice or feature menu visible.",
+      "observedAt": "2026-10-15T15:11:25.811535+00:00",
+      "downloaded": true,
+      "stage": "original_post_review",
+      "duration": 44,
+      "engagement": {
+        "views": 28,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0
+      },
+      "commentEvidence": []
+    },
+    {
+      "postId": "2110363991180800187",
+      "sourceUrl": "https://x.com/techyoutbe/status/2110363991180800187",
+      "decision": "excluded_explanatory",
+      "reason": "Watched original X video: Verdant Studio interface largely shows option panels and controls for composing a terrarium; reads as software feature presentation, not a focused finished-work showcase.",
+      "observedAt": "2026-10-15T15:11:25.811535+00:00",
+      "downloaded": false,
+      "stage": "original_post_review",
+      "duration": 48.083,
+      "engagement": {
+        "views": 1646,
+        "likes": 11,
+        "replies": 5,
+        "reposts": 0,
+        "bookmarks": 5
+      },
+      "commentEvidence": []
+    },
+    {
+      "postId": "2110742872089849934",
+      "sourceUrl": "https://x.com/AntSeed/status/2110742872089849934",
+      "decision": "excluded_quality",
+      "reason": "Watched original X player: greenhouse scene has flat low-detail geometry, sparse motion and unfinished-looking plants/pool; below visual quality threshold.",
+      "observedAt": "2026-10-15T15:11:25.811535+00:00",
+      "downloaded": false,
+      "stage": "original_post_review",
+      "duration": 9.933,
+      "engagement": {
+        "views": 29,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0
+      },
+      "commentEvidence": []
+    },
+    {
+      "postId": "2110742886597734899",
+      "sourceUrl": "https://x.com/AntSeed/status/2110742886597734899",
+      "decision": "excluded_quality",
+      "reason": "Watched original X player: scenic train and viaduct read clearly but simplified geometry and sparse animation add little over higher-quality existing landscape scene.",
+      "observedAt": "2026-10-15T15:11:25.811535+00:00",
+      "downloaded": false,
+      "stage": "original_post_review",
+      "duration": 9.966,
+      "engagement": {
+        "views": 14,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0
+      },
+      "commentEvidence": []
+    },
+    {
+      "postId": "2110742894986354882",
+      "sourceUrl": "https://x.com/AntSeed/status/2110742894986354882",
+      "decision": "excluded_quality",
+      "reason": "Watched original X player: turquoise wave breaks into obvious polygonal strips, undermining intended water motion and finish.",
+      "observedAt": "2026-10-15T15:11:25.811535+00:00",
+      "downloaded": false,
+      "stage": "original_post_review",
+      "duration": 10,
+      "engagement": {
+        "views": 27,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0
+      },
+      "commentEvidence": []
+    },
+    {
+      "postId": "2110724362999394644",
+      "sourceUrl": "https://x.com/i/status/2110724362999394644",
+      "decision": "excluded_text_screen",
+      "reason": "Argon versus Opus head-to-head comparison",
+      "observedAt": "2026-10-15T15:12:37.622776Z",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110182874913910978",
+      "sourceUrl": "https://x.com/i/status/2110182874913910978",
+      "decision": "excluded_text_screen",
+      "reason": "Previously removed HyperFrames launch/product walkthrough",
+      "observedAt": "2026-10-15T15:12:37.622776Z",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110488107069964357",
+      "sourceUrl": "https://x.com/i/status/2110488107069964357",
+      "decision": "excluded_text_screen",
+      "reason": "Two-model ping-pong test, comparison",
+      "observedAt": "2026-10-15T15:12:37.622776Z",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110415126964896155",
+      "sourceUrl": "https://x.com/i/status/2110415126964896155",
+      "decision": "excluded_text_screen",
+      "reason": "Argon versus Opus car comparison",
+      "observedAt": "2026-10-15T15:12:37.622776Z",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110077806411722899",
+      "sourceUrl": "https://x.com/i/status/2110077806411722899",
+      "decision": "excluded_text_screen",
+      "reason": "API gateway product promotion",
+      "observedAt": "2026-10-15T15:12:37.622776Z",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110691874348421327",
+      "sourceUrl": "https://x.com/i/status/2110691874348421327",
+      "decision": "excluded_text_screen",
+      "reason": "Argon versus Opus comparison",
+      "observedAt": "2026-10-15T15:12:37.622776Z",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    }
+  ]
+}
