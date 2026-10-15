@@ -1,0 +1,185 @@
+{
+  "automationId": "gemini-4-argon",
+  "triggerUtc": "2026-10-15T14:44:58Z",
+  "fromUtc": "2026-10-15T09:20:00Z",
+  "toUtc": "2026-10-15T14:44:58Z",
+  "discoveredPostCount": 16,
+  "originalPostsReviewed": 3,
+  "selectedPostIds": [
+    "2110742878096146911"
+  ],
+  "pendingCount": 98,
+  "downloadedVideos": 1,
+  "scope": "Bounded X Latest search plus original author thread. Older pending backlog retained; successful cursor unchanged. Selected one representative landscape, not the overlapping montage. No rejected candidate videos downloaded.",
+  "candidates": [
+    {
+      "postId": "2110742865483563390",
+      "sourceUrl": "https://x.com/i/status/2110742865483563390",
+      "decision": "excluded_compilation",
+      "reason": "Parent montage overlaps the individual works. Retain as model-attribution context; do not count compilation and independent scenes separately.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "original_post_review"
+    },
+    {
+      "postId": "2110742093404729651",
+      "sourceUrl": "https://x.com/i/status/2110742093404729651",
+      "decision": "excluded_other_model",
+      "reason": "Author explicitly says Opus and Sonnet, not yet Argon; player also displays 2:42.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110741277776187593",
+      "sourceUrl": "https://x.com/i/status/2110741277776187593",
+      "decision": "excluded_comparison",
+      "reason": "Explicit Argon versus Opus output/cost comparison.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110740955200626702",
+      "sourceUrl": "https://x.com/i/status/2110740955200626702",
+      "decision": "excluded_comparison",
+      "reason": "Explicit Argon versus Opus output/cost comparison.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110740776548188238",
+      "sourceUrl": "https://x.com/i/status/2110740776548188238",
+      "decision": "excluded_comparison",
+      "reason": "Explicit Argon versus Opus output/cost comparison.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110740187646988446",
+      "sourceUrl": "https://x.com/i/status/2110740187646988446",
+      "decision": "excluded_software_features",
+      "reason": "Gemini app folder access and model-limit feature explanation.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110742874614571055",
+      "sourceUrl": "https://x.com/i/status/2110742874614571055",
+      "decision": "not_selected_representative",
+      "reason": "Original X player 9.966666 seconds; sampled desert observatory with painted dusk terrain and moving sky. Coastal scene selected as this round's representative from the same code-animation series; no original download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "original_post_review",
+      "duration": 9.966666,
+      "engagement": {
+        "views": 4,
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      }
+    },
+    {
+      "postId": "2110742878096146911",
+      "sourceUrl": "https://x.com/i/status/2110742878096146911",
+      "decision": "selected",
+      "reason": "Viewed original X playback at 4.37 and 7.60 seconds: fishing boat changes position with wake and oar movement while bridge, buildings and mountain remain fixed. Coherent indigo-and-amber woodblock-style composition, legible lantern reflections and a completed scene without tutorial/comparison overlays. Selected as the representative animated landscape from this thread.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": true,
+      "stage": "original_post_review",
+      "duration": 9.899999,
+      "engagement": {
+        "views": 11,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/AntSeed/status/2110742865483563390",
+          "note": "Author thread explicitly attributes the code animations to Gemini 4 Argon. The original post publishes the prompt verbatim. Visible reply is the next work in the series; no independent testing feedback visible. Low engagement is expected for a minutes-old post."
+        }
+      ]
+    },
+    {
+      "postId": "2110742868910588292",
+      "sourceUrl": "https://x.com/i/status/2110742868910588292",
+      "decision": "pending",
+      "reason": "Paris cafe in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742872089849934",
+      "sourceUrl": "https://x.com/i/status/2110742872089849934",
+      "decision": "pending",
+      "reason": "Victorian greenhouse in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742880654405919",
+      "sourceUrl": "https://x.com/i/status/2110742880654405919",
+      "decision": "pending",
+      "reason": "Jellyfish in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742884018450815",
+      "sourceUrl": "https://x.com/i/status/2110742884018450815",
+      "decision": "pending",
+      "reason": "Saxophone in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742886597734899",
+      "sourceUrl": "https://x.com/i/status/2110742886597734899",
+      "decision": "pending",
+      "reason": "Alpine train in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742889827610990",
+      "sourceUrl": "https://x.com/i/status/2110742889827610990",
+      "decision": "pending",
+      "reason": "Mediterranean still life in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742892364919238",
+      "sourceUrl": "https://x.com/i/status/2110742892364919238",
+      "decision": "pending",
+      "reason": "Floating island in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742894986354882",
+      "sourceUrl": "https://x.com/i/status/2110742894986354882",
+      "decision": "pending",
+      "reason": "Bioluminescent wave in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    }
+  ],
+  "status": "completed_published",
+  "addedVideos": 1,
+  "verifiedNewObjects": 3,
+  "catalogCount": 295,
+  "successfulCursorAdvanced": false
+}

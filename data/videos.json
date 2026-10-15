@@ -8744,5 +8744,41 @@
     "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110509784508313818/2110509756683288576.1d706a193fec.mp4",
     "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110509784508313818/poster.2a9351ff35d2.webp",
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110509784508313818/preview.de5fbbcca27c.webp"
+  },
+  {
+    "id": "2110742878096146911",
+    "title": "Lantern-Lit Coastal Village",
+    "category": "motion",
+    "author": {
+      "name": "Antseed",
+      "handle": "AntSeed",
+      "url": "https://x.com/AntSeed"
+    },
+    "sourceUrl": "https://x.com/AntSeed/status/2110742878096146911",
+    "publishedAt": "2026-10-15T14:41:32Z",
+    "originalPost": "Code a Japanese woodblock-style coastal village at indigo dusk, with red lanterns and a fishing boat. Make the boat travel and rock, with a rowing oar and a moving wake. Keep the village stationary.",
+    "prompt": "Code a Japanese woodblock-style coastal village at indigo dusk, with red lanterns and a fishing boat. Make the boat travel and rock, with a rowing oar and a moving wake. Keep the village stationary.",
+    "promptStatus": "verbatim",
+    "promptSourceUrl": "https://x.com/AntSeed/status/2110742878096146911",
+    "modelAttribution": "author_reported",
+    "mediaId": "2110740998011617280",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110740998011617280/vid/avc1/1920x1080/8jN6ohWTLZeMPdSi.mp4?tag=29",
+    "sourceSha256": "cf66b185f6363313042b488d677f00b5d7c770d2cc0d583d613f677d1755a120",
+    "duration": 9.9,
+    "bytes": 2865437,
+    "width": 1920,
+    "height": 1080,
+    "relatedSources": [],
+    "additionalPosts": [
+      {
+        "url": "https://x.com/AntSeed/status/2110742865483563390",
+        "text": "Gemini 4 Argon bringing images, video and motion together surprised us 🤯   \n\nWhen everything shares the same code, you can keep the scene you love and direct what happens inside it. \n\nTotal cost via Antseed: $1.56 \n\nAll 10 with prompts below ↓",
+        "publishedAt": "2026-10-15T14:41:29Z"
+      }
+    ],
+    "note": "The author attributes this code-animation series to Gemini 4 Argon in the linked parent post.",
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110742878096146911/2110740998011617280.cf66b185f636.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110742878096146911/poster.ccd5e7246469.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110742878096146911/preview.066cb4db4841.webp"
   }
 ]

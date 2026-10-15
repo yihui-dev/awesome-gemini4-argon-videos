@@ -3,15 +3,15 @@
   "collectedOn": "2026-10-14",
   "publicationCutoffUtc": "2026-10-13T16:00:00Z",
   "cutoffRule": "strictly after; original source post publication, not a repost or download time",
-  "videoCount": 294,
-  "sourceAccountCount": 221,
-  "publicPromptCount": 57,
+  "videoCount": 295,
+  "sourceAccountCount": 222,
+  "publicPromptCount": 58,
   "categories": {
-    "motion": 78,
+    "motion": 79,
     "3d": 97,
     "interactive": 119
   },
-  "videoBytes": 7485247361,
+  "videoBytes": 7488112798,
   "discovery": {
     "platform": "X",
     "surfaces": [
@@ -1575,23 +1575,93 @@
           "note": "Generic praise and networking request."
         }
       ]
+    },
+    {
+      "postId": "2110742865483563390",
+      "sourceUrl": "https://x.com/i/status/2110742865483563390",
+      "decision": "excluded_compilation",
+      "reason": "Parent montage overlaps the individual works. Retain as model-attribution context; do not count compilation and independent scenes separately.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "original_post_review"
+    },
+    {
+      "postId": "2110742093404729651",
+      "sourceUrl": "https://x.com/i/status/2110742093404729651",
+      "decision": "excluded_other_model",
+      "reason": "Author explicitly says Opus and Sonnet, not yet Argon; player also displays 2:42.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110741277776187593",
+      "sourceUrl": "https://x.com/i/status/2110741277776187593",
+      "decision": "excluded_comparison",
+      "reason": "Explicit Argon versus Opus output/cost comparison.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110740955200626702",
+      "sourceUrl": "https://x.com/i/status/2110740955200626702",
+      "decision": "excluded_comparison",
+      "reason": "Explicit Argon versus Opus output/cost comparison.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110740776548188238",
+      "sourceUrl": "https://x.com/i/status/2110740776548188238",
+      "decision": "excluded_comparison",
+      "reason": "Explicit Argon versus Opus output/cost comparison.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110740187646988446",
+      "sourceUrl": "https://x.com/i/status/2110740187646988446",
+      "decision": "excluded_software_features",
+      "reason": "Gemini app folder access and model-limit feature explanation.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "search_text_screening"
+    },
+    {
+      "postId": "2110742874614571055",
+      "sourceUrl": "https://x.com/i/status/2110742874614571055",
+      "decision": "not_selected_representative",
+      "reason": "Original X player 9.966666 seconds; sampled desert observatory with painted dusk terrain and moving sky. Coastal scene selected as this round's representative from the same code-animation series; no original download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "original_post_review",
+      "duration": 9.966666,
+      "engagement": {
+        "views": 4,
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      }
     }
   ],
   "rights": "Third-party videos, original posts and prompts retain their creators rights. MIT covers original repository tooling and curation structure only.",
   "searchSnapshotEndUtc": "2026-10-14T04:33:00Z",
   "earliestPublicationUtc": "2026-10-13T16:00:02Z",
-  "latestPublicationUtc": "2026-10-14T23:15:18Z",
+  "latestPublicationUtc": "2026-10-15T14:41:32Z",
   "lastSearch": {
-    "fromUtc": "2026-10-14T04:10:00Z",
-    "toUtc": "2026-10-15T09:42:38Z",
-    "surface": "X Latest and Top in signed-in Chrome; original posts and visible replies",
-    "discoveredPostCount": 34,
-    "originalPostsReviewed": 5,
-    "addedVideos": 0,
-    "verifiedNewObjects": 0,
-    "pendingReviewCount": 90,
-    "scope": "Bounded search and screening completed, not exhaustive coverage of X. Unresolved candidates retained; successful-search cursor remains unchanged to cover backlog. Previous archive-volume blocker resolved. No candidate media downloaded.",
-    "screeningRecord": "data/screening/20261015T094238Z.json"
+    "fromUtc": "2026-10-15T09:20:00Z",
+    "toUtc": "2026-10-15T14:44:58Z",
+    "surface": "X Latest in signed-in Chrome, followed by original author thread and replies",
+    "discoveredPostCount": 16,
+    "originalPostsReviewed": 3,
+    "addedVideos": 1,
+    "verifiedNewObjects": 3,
+    "pendingReviewCount": 98,
+    "screeningRecord": "data/screening/20261015T144458Z.json",
+    "scope": "Bounded discovery, not an exhaustive index of X. Unreviewed candidates retained; successful-search cursor intentionally not advanced until pending candidates are resolved."
   },
   "curationPolicy": {
     "showcase": "Finished creative work only; exclude model comparisons, reviews, explainers, tutorials, production walkthroughs, and software feature presentations. A short product demo can still be an explainer; evaluate content, not just category or duration.",
@@ -2454,6 +2524,78 @@
           "note": "Generic praise only; creator replies thanks. No prompt or workflow clarification."
         }
       ]
+    },
+    {
+      "postId": "2110742868910588292",
+      "sourceUrl": "https://x.com/i/status/2110742868910588292",
+      "decision": "pending",
+      "reason": "Paris cafe in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742872089849934",
+      "sourceUrl": "https://x.com/i/status/2110742872089849934",
+      "decision": "pending",
+      "reason": "Victorian greenhouse in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742880654405919",
+      "sourceUrl": "https://x.com/i/status/2110742880654405919",
+      "decision": "pending",
+      "reason": "Jellyfish in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742884018450815",
+      "sourceUrl": "https://x.com/i/status/2110742884018450815",
+      "decision": "pending",
+      "reason": "Saxophone in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742886597734899",
+      "sourceUrl": "https://x.com/i/status/2110742886597734899",
+      "decision": "pending",
+      "reason": "Alpine train in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742889827610990",
+      "sourceUrl": "https://x.com/i/status/2110742889827610990",
+      "decision": "pending",
+      "reason": "Mediterranean still life in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742892364919238",
+      "sourceUrl": "https://x.com/i/status/2110742892364919238",
+      "decision": "pending",
+      "reason": "Floating island in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2110742894986354882",
+      "sourceUrl": "https://x.com/i/status/2110742894986354882",
+      "decision": "pending",
+      "reason": "Bioluminescent wave in author thread. Prompt visible, but individual video not watched or approved. No candidate download.",
+      "observedAt": "2026-10-15T14:50:57.164614+00:00",
+      "downloaded": false,
+      "stage": "author_thread_text_screening"
     }
   ]
 }
