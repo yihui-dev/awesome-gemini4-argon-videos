@@ -8715,5 +8715,34 @@
     "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110476539825643944/2110476470648745984.7141f7431185.mp4",
     "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110476539825643944/poster.0d4f2a1de835.webp",
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110476539825643944/preview.ddba3ac7afc0.webp"
+  },
+  {
+    "id": "2110509784508313818",
+    "title": "Lantern-Lit Autumn Garden Walk",
+    "category": "3d",
+    "author": {
+      "name": "Taiyo Kimura",
+      "handle": "taiyo_ai_gakuse",
+      "url": "https://x.com/taiyo_ai_gakuse"
+    },
+    "sourceUrl": "https://x.com/taiyo_ai_gakuse/status/2110509784508313818",
+    "publishedAt": "2026-10-14T23:15:18Z",
+    "originalPost": "Gemini 4 Argonで作った紅葉3DCGを歩かせてみた",
+    "prompt": null,
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": null,
+    "modelAttribution": "author_reported",
+    "mediaId": "2110509756683288576",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110509756683288576/vid/avc1/1280x720/EjSlGWHuQ5NHdTEK.mp4?tag=29",
+    "sourceSha256": "1d706a193fec8879b4515e27d206e0f5be2562592890896ebf07c45a46086f04",
+    "duration": 10.083333,
+    "bytes": 2036406,
+    "width": 1280,
+    "height": 720,
+    "relatedSources": [],
+    "additionalPosts": [],
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110509784508313818/2110509756683288576.1d706a193fec.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110509784508313818/poster.2a9351ff35d2.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110509784508313818/preview.de5fbbcca27c.webp"
   }
 ]

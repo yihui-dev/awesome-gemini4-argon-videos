@@ -1,0 +1,943 @@
+{
+  "automationId": "gemini-4-argon",
+  "fromUtc": "2026-10-14T04:10:00Z",
+  "toUtc": "2026-10-15T01:32:39Z",
+  "observedAt": "2026-10-15T01:39:42.750831+00:00",
+  "discoveredPostCount": 95,
+  "originalPostsReviewed": 6,
+  "selectedCount": 1,
+  "initiallySelectedCount": 2,
+  "rejectedAfterDownloadCount": 1,
+  "pendingCount": 80,
+  "scope": "Bounded Chrome X Latest and Top discovery with original player/reply review. Not exhaustive; pending candidates not downloaded. Successful cursor retained. A player-rounded120s selection failed exact downloaded duration and was excluded.",
+  "candidates": [
+    {
+      "postId": "2110544191008739511",
+      "sourceUrl": "https://x.com/i/status/2110544191008739511",
+      "decision": "excluded_duration_and_news",
+      "reason": "X search player shows 3:43 or30:18, over120seconds; model interview/news is also outside finished-work scope.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110532887908921540",
+      "sourceUrl": "https://x.com/i/status/2110532887908921540",
+      "decision": "excluded_duration_and_news",
+      "reason": "X search player shows 3:43 or30:18, over120seconds; model interview/news is also outside finished-work scope.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110544119869391182",
+      "sourceUrl": "https://x.com/i/status/2110544119869391182",
+      "decision": "excluded_author_reported_unfinished",
+      "reason": "Author explicitly reports failed benchmark or unfinished work. Text-only rejection, no independent playback quality claim.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110494088671764701",
+      "sourceUrl": "https://x.com/i/status/2110494088671764701",
+      "decision": "excluded_author_reported_unfinished",
+      "reason": "Author explicitly reports failed benchmark or unfinished work. Text-only rejection, no independent playback quality claim.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110538241396867583",
+      "sourceUrl": "https://x.com/i/status/2110538241396867583",
+      "decision": "excluded_other_model",
+      "reason": "Author states Codex directed Muse to make final video after Argon storyboard and ChatGPT refinement; not an attributable Argon finished video.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110536201950069050",
+      "sourceUrl": "https://x.com/i/status/2110536201950069050",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110530151029297410",
+      "sourceUrl": "https://x.com/i/status/2110530151029297410",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110522541676879881",
+      "sourceUrl": "https://x.com/i/status/2110522541676879881",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110514740795457576",
+      "sourceUrl": "https://x.com/i/status/2110514740795457576",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110514025599561847",
+      "sourceUrl": "https://x.com/i/status/2110514025599561847",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110513580059861222",
+      "sourceUrl": "https://x.com/i/status/2110513580059861222",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110510048128483360",
+      "sourceUrl": "https://x.com/i/status/2110510048128483360",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110503943520555282",
+      "sourceUrl": "https://x.com/i/status/2110503943520555282",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110503415663190461",
+      "sourceUrl": "https://x.com/i/status/2110503415663190461",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110500220777922845",
+      "sourceUrl": "https://x.com/i/status/2110500220777922845",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110498737181106629",
+      "sourceUrl": "https://x.com/i/status/2110498737181106629",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110478423676121526",
+      "sourceUrl": "https://x.com/i/status/2110478423676121526",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110478301806424130",
+      "sourceUrl": "https://x.com/i/status/2110478301806424130",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110528172978799011",
+      "sourceUrl": "https://x.com/i/status/2110528172978799011",
+      "decision": "excluded_news_promotion_or_explainer",
+      "reason": "News roundup, model availability/promotion, usage advice or software features rather than an original finished creative showcase.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110532511067771187",
+      "sourceUrl": "https://x.com/i/status/2110532511067771187",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110530184550236232",
+      "sourceUrl": "https://x.com/i/status/2110530184550236232",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110526286896435677",
+      "sourceUrl": "https://x.com/i/status/2110526286896435677",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110526144436916580",
+      "sourceUrl": "https://x.com/i/status/2110526144436916580",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110525248257089589",
+      "sourceUrl": "https://x.com/i/status/2110525248257089589",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110522949409083414",
+      "sourceUrl": "https://x.com/i/status/2110522949409083414",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110522878701736446",
+      "sourceUrl": "https://x.com/i/status/2110522878701736446",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110522434885431533",
+      "sourceUrl": "https://x.com/i/status/2110522434885431533",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110522388798705774",
+      "sourceUrl": "https://x.com/i/status/2110522388798705774",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110521236258234781",
+      "sourceUrl": "https://x.com/i/status/2110521236258234781",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110513702029930865",
+      "sourceUrl": "https://x.com/i/status/2110513702029930865",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110513063589814316",
+      "sourceUrl": "https://x.com/i/status/2110513063589814316",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110504045257601361",
+      "sourceUrl": "https://x.com/i/status/2110504045257601361",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110500266298704094",
+      "sourceUrl": "https://x.com/i/status/2110500266298704094",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110500262628806787",
+      "sourceUrl": "https://x.com/i/status/2110500262628806787",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110497621613928511",
+      "sourceUrl": "https://x.com/i/status/2110497621613928511",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110492091440873550",
+      "sourceUrl": "https://x.com/i/status/2110492091440873550",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110491219659046983",
+      "sourceUrl": "https://x.com/i/status/2110491219659046983",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110488107069964357",
+      "sourceUrl": "https://x.com/i/status/2110488107069964357",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110487692899405958",
+      "sourceUrl": "https://x.com/i/status/2110487692899405958",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110270980207862160",
+      "sourceUrl": "https://x.com/i/status/2110270980207862160",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110434949799321812",
+      "sourceUrl": "https://x.com/i/status/2110434949799321812",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110456897077702969",
+      "sourceUrl": "https://x.com/i/status/2110456897077702969",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110374607681392915",
+      "sourceUrl": "https://x.com/i/status/2110374607681392915",
+      "decision": "excluded_comparison_or_review",
+      "reason": "Explicit model comparison, benchmark or review; excluded before downloading.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110514032818131115",
+      "sourceUrl": "https://x.com/i/status/2110514032818131115",
+      "decision": "excluded_explainer",
+      "reason": "Author explicitly describes AI-avatar/voice commentary about another pagoda demonstration.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110507253841211682",
+      "sourceUrl": "https://x.com/i/status/2110507253841211682",
+      "decision": "excluded_explainer",
+      "reason": "Author explicitly describes AI-avatar/voice commentary about another pagoda demonstration.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110513281337327725",
+      "sourceUrl": "https://x.com/i/status/2110513281337327725",
+      "decision": "excluded_unrelated",
+      "reason": "Argon is the account name; post is about a running route, not Gemini creation.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110512751512879460",
+      "sourceUrl": "https://x.com/i/status/2110512751512879460",
+      "decision": "excluded_unrelated_and_duration",
+      "reason": "Author explicitly says attached video is unrelated; player displays1:00:46.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110528790728208393",
+      "sourceUrl": "https://x.com/i/status/2110528790728208393",
+      "decision": "excluded_repost",
+      "reason": "Llama Fourier/Golden Gate epicycle reposts of original videos already reviewed and excluded; retain original creator decisions.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110523656439034202",
+      "sourceUrl": "https://x.com/i/status/2110523656439034202",
+      "decision": "excluded_repost",
+      "reason": "Llama Fourier/Golden Gate epicycle reposts of original videos already reviewed and excluded; retain original creator decisions.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110525636884259180",
+      "sourceUrl": "https://x.com/i/status/2110525636884259180",
+      "decision": "pending_duplicate_check",
+      "reason": "Sunlit pure-Python library resembles existing fofrAI library entry2110052096481366287; no download pending original/media check.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110541250734748024",
+      "sourceUrl": "https://x.com/i/status/2110541250734748024",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110540278159520066",
+      "sourceUrl": "https://x.com/i/status/2110540278159520066",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110533526248718808",
+      "sourceUrl": "https://x.com/i/status/2110533526248718808",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110533459685052825",
+      "sourceUrl": "https://x.com/i/status/2110533459685052825",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110533336817107084",
+      "sourceUrl": "https://x.com/i/status/2110533336817107084",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110531809347854791",
+      "sourceUrl": "https://x.com/i/status/2110531809347854791",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110531291275812882",
+      "sourceUrl": "https://x.com/i/status/2110531291275812882",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110531021162831979",
+      "sourceUrl": "https://x.com/i/status/2110531021162831979",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110530579225809013",
+      "sourceUrl": "https://x.com/i/status/2110530579225809013",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110529055107748260",
+      "sourceUrl": "https://x.com/i/status/2110529055107748260",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110521032666739182",
+      "sourceUrl": "https://x.com/i/status/2110521032666739182",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110520218288332991",
+      "sourceUrl": "https://x.com/i/status/2110520218288332991",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110514391926083985",
+      "sourceUrl": "https://x.com/i/status/2110514391926083985",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110512543437586809",
+      "sourceUrl": "https://x.com/i/status/2110512543437586809",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110509507558154315",
+      "sourceUrl": "https://x.com/i/status/2110509507558154315",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110504298555879507",
+      "sourceUrl": "https://x.com/i/status/2110504298555879507",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110504253450014878",
+      "sourceUrl": "https://x.com/i/status/2110504253450014878",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110502947713151061",
+      "sourceUrl": "https://x.com/i/status/2110502947713151061",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110502386175447312",
+      "sourceUrl": "https://x.com/i/status/2110502386175447312",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110498713135415752",
+      "sourceUrl": "https://x.com/i/status/2110498713135415752",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110496987099570300",
+      "sourceUrl": "https://x.com/i/status/2110496987099570300",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110494381178523867",
+      "sourceUrl": "https://x.com/i/status/2110494381178523867",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110493042717479042",
+      "sourceUrl": "https://x.com/i/status/2110493042717479042",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110492059228320208",
+      "sourceUrl": "https://x.com/i/status/2110492059228320208",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110490999197663334",
+      "sourceUrl": "https://x.com/i/status/2110490999197663334",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110490874467565684",
+      "sourceUrl": "https://x.com/i/status/2110490874467565684",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110490842515595771",
+      "sourceUrl": "https://x.com/i/status/2110490842515595771",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110489757440704668",
+      "sourceUrl": "https://x.com/i/status/2110489757440704668",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110487330276651053",
+      "sourceUrl": "https://x.com/i/status/2110487330276651053",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110479364488102170",
+      "sourceUrl": "https://x.com/i/status/2110479364488102170",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110479058270380178",
+      "sourceUrl": "https://x.com/i/status/2110479058270380178",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110478994907054179",
+      "sourceUrl": "https://x.com/i/status/2110478994907054179",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110478526499447100",
+      "sourceUrl": "https://x.com/i/status/2110478526499447100",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110478256097173600",
+      "sourceUrl": "https://x.com/i/status/2110478256097173600",
+      "decision": "pending",
+      "reason": "Original playback, duration, content-type, specific authorship/model and duplicate checks still required. Not approved for download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110480304280629329",
+      "sourceUrl": "https://x.com/i/status/2110480304280629329",
+      "decision": "excluded_previous_review",
+      "reason": "Already excluded in preceding screening; no repeat viewing or download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110479872418287630",
+      "sourceUrl": "https://x.com/i/status/2110479872418287630",
+      "decision": "excluded_previous_review",
+      "reason": "Already excluded in preceding screening; no repeat viewing or download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110479827660665320",
+      "sourceUrl": "https://x.com/i/status/2110479827660665320",
+      "decision": "excluded_previous_review",
+      "reason": "Already excluded in preceding screening; no repeat viewing or download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110477416695304460",
+      "sourceUrl": "https://x.com/i/status/2110477416695304460",
+      "decision": "excluded_previous_review",
+      "reason": "Already excluded in preceding screening; no repeat viewing or download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110461103008321700",
+      "sourceUrl": "https://x.com/i/status/2110461103008321700",
+      "decision": "excluded_previous_review",
+      "reason": "Already excluded in preceding screening; no repeat viewing or download.",
+      "stage": "search_text",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false
+    },
+    {
+      "postId": "2110533217086562374",
+      "sourceUrl": "https://x.com/i/status/2110533217086562374",
+      "decision": "excluded_quality_novelty",
+      "reason": "Original42.768s player viewed around14s: basic floating-island platforms and simplified shapes with dense overlay UI. Limited visual polish/novelty relative to existing game entries. Replies only general praise; no reproducibility details.",
+      "stage": "original_post_review",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false,
+      "duration": 42.768,
+      "engagement": {
+        "views": 130,
+        "likes": 3,
+        "replies": 2,
+        "reposts": 0
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/xlarry256/status/2110533338922733674",
+          "note": "General praise, not quality verification."
+        }
+      ]
+    },
+    {
+      "postId": "2110519826091495925",
+      "sourceUrl": "https://x.com/i/status/2110519826091495925",
+      "decision": "excluded_duration",
+      "reason": "Online player/metadata showed120s; initially selected after viewing opening,33s,48s and prompt/replies. Downloaded-file ffprobe found120.042667s including audio (video stream120.000000s). Hard duration gate failed; no upload or entry, no trimming.",
+      "stage": "downloaded_final_duration_check",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": true,
+      "duration": 120.042667,
+      "engagement": {
+        "views": 1520,
+        "likes": 37,
+        "replies": 5,
+        "reposts": 1,
+        "bookmarks": 15
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/IamEmily2050/status/2110519828427804953",
+          "note": "Author links source project; full prompt in original. Does not override duration."
+        }
+      ]
+    },
+    {
+      "postId": "2110509784508313818",
+      "sourceUrl": "https://x.com/i/status/2110509784508313818",
+      "decision": "selected",
+      "reason": "Original X playback around5s and7s of10s: camera progresses along stone path under orange maple canopy, warm lanterns and red railings with coherent depth. Finished environment walkthrough, no creation steps/comparison. Original Japanese post explicitly credits Argon. No existing autumn/maple theme or same author/media in catalog. Visible replies are generic praise and thanks; no exact prompt.",
+      "stage": "original_post_review",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": true,
+      "duration": 10,
+      "engagement": {
+        "views": 1101,
+        "likes": 21,
+        "replies": 1,
+        "reposts": 0,
+        "bookmarks": 2
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/waki/status/2110511715939238010",
+          "note": "General praise only; selection based on actual finished-scene playback, not popularity."
+        },
+        {
+          "url": "https://x.com/taiyo_ai_gakuse/status/2110514157842043346",
+          "note": "Author thanks commenter, no actual prompt."
+        }
+      ]
+    },
+    {
+      "postId": "2110513483464761818",
+      "sourceUrl": "https://x.com/i/status/2110513483464761818",
+      "decision": "excluded_process_presentation",
+      "reason": "25.7s original player shows stage-by-stage underpainting with a visible eight-stage workflow bar, render progress and export controls. Primarily process presentation rather than a finished-only work showcase.",
+      "stage": "original_post_review",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false,
+      "duration": 25.7,
+      "engagement": {
+        "views": 5,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0
+      }
+    },
+    {
+      "postId": "2110498070290989314",
+      "sourceUrl": "https://x.com/i/status/2110498070290989314",
+      "decision": "excluded_limited_novelty",
+      "reason": "21.056s original playback shows an orbiting solar system with Bitcoin central globe and branding. Limited new value beyond existing solar-system examples; visible comments are generic praise.",
+      "stage": "original_post_review",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false,
+      "duration": 21.055999,
+      "engagement": {
+        "views": 1108,
+        "likes": 32,
+        "replies": 5,
+        "reposts": 5,
+        "bookmarks": 2
+      }
+    },
+    {
+      "postId": "2110487491513815149",
+      "sourceUrl": "https://x.com/i/status/2110487491513815149",
+      "decision": "pending_provenance_and_playback",
+      "reason": "29.5s teaser original reviewed; author credits both Argon and Opus code/shaders, plus Flow/Tripo/Blender/Lyria. Observed end/title shots but insufficient representative gameplay; model-specific contribution and visual quality remain unresolved. No download.",
+      "stage": "original_post_review",
+      "observedAt": "2026-10-15T01:39:42.750831+00:00",
+      "downloaded": false,
+      "duration": 29.5,
+      "engagement": {
+        "views": 88,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/Joshua_WD/status/2110493327414186335",
+          "note": "Generic praise; no reproducibility/provenance evidence."
+        }
+      ]
+    }
+  ]
+}
