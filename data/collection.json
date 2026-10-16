@@ -3,15 +3,15 @@
   "collectedOn": "2026-10-14",
   "publicationCutoffUtc": "2026-10-13T16:00:00Z",
   "cutoffRule": "strictly after; original source post publication, not a repost or download time",
-  "videoCount": 303,
-  "sourceAccountCount": 229,
+  "videoCount": 304,
+  "sourceAccountCount": 230,
   "publicPromptCount": 59,
   "categories": {
     "motion": 80,
     "3d": 101,
-    "interactive": 122
+    "interactive": 123
   },
-  "videoBytes": 7661908348,
+  "videoBytes": 7689989771,
   "discovery": {
     "platform": "X",
     "surfaces": [
@@ -1719,22 +1719,38 @@
     {
       "postId": "2111030823377936668",
       "reason": "Watched X player; mathematically generated music visualization has limited visible motion and no distinctive visual showcase versus existing entries."
+    },
+    {
+      "postId": "2111106388919463961",
+      "reason": "Watched the 56-second Mars simulation. Generic low-detail city elements and mostly static interface close-ups do not meet standout completion or visual-quality bar."
+    },
+    {
+      "postId": "2111063342630744149",
+      "reason": "Original 37-second video is explicitly split-screen Gemini Argon versus official Tesla footage. Model-to-reference comparison is a hard content-type exclusion regardless of 14K views."
+    },
+    {
+      "postId": "2111081875934748728",
+      "reason": "Watched the 15-second textured orange object; most footage shows a single sphere with UI controls and limited distinct motion or creative payoff compared with existing 3D entries."
+    },
+    {
+      "postId": "2111080831661850951",
+      "reason": "Watched the 64-second Minecraft clone. X player credits JAZII rather than the posting account, and the collection already has multiple stronger Minecraft entries; exclude repeat/repost."
     }
   ],
   "rights": "Third-party videos, original posts and prompts retain their creators rights. MIT covers original repository tooling and curation structure only.",
   "searchSnapshotEndUtc": "2026-10-14T04:33:00Z",
   "earliestPublicationUtc": "2026-10-13T16:00:02Z",
-  "latestPublicationUtc": "2026-10-16T09:49:07Z",
+  "latestPublicationUtc": "2026-10-16T12:27:13Z",
   "lastSearch": {
-    "fromUtc": "2026-10-16T06:00:00Z",
-    "toUtc": "2026-10-16T11:00:13.824425Z",
+    "fromUtc": "2026-10-16T10:30:00Z",
+    "toUtc": "2026-10-16T15:02:46.231440Z",
     "surface": "X Latest in signed-in Chrome, followed by original posts, player playback and visible replies",
-    "discoveredPostCount": 26,
-    "originalPostsReviewed": 8,
+    "discoveredPostCount": 5,
+    "originalPostsReviewed": 5,
     "addedVideos": 1,
     "verifiedNewObjects": 3,
     "pendingReviewCount": 88,
-    "screeningRecord": "data/screening/20261016-heartbeat-105425.json",
+    "screeningRecord": "data/screening/20261016-heartbeat-145756.json",
     "scope": "Bounded recent-interval discovery, not an exhaustive index of X. Older pending backlog remains; successful-search cursor intentionally not advanced."
   },
   "curationPolicy": {

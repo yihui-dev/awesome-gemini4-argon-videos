@@ -9040,5 +9040,53 @@
     "videoUrl": "https://media.skillry.dev/gemini-4-argon/2111031676730245466/2111030961257500672.3d84aec68a24.mp4",
     "posterUrl": "https://media.skillry.dev/gemini-4-argon/2111031676730245466/poster.b311f8e08975.webp",
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2111031676730245466/preview.33b5042ff79f.webp"
+  },
+  {
+    "id": "2111071463155564733",
+    "title": "Interactive Transparent Sushi Box",
+    "category": "interactive",
+    "author": {
+      "name": "Ann Nguyen",
+      "handle": "ann_nnng",
+      "url": "https://x.com/ann_nnng"
+    },
+    "sourceUrl": "https://x.com/ann_nnng/status/2111071463155564733",
+    "publishedAt": "2026-10-16T12:27:13Z",
+    "originalPost": "gemini 4 argon is actually amazing\n\nasked it to create this 3D sushi box effect and only gave it one reference pic of the box\n\nit pulled up with the whole thing in three.js and shaders, no 3d models needed",
+    "prompt": "",
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": "",
+    "modelAttribution": "author_reported",
+    "mediaId": "2111071354472861696",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2111071354472861696/vid/avc1/2268x1504/xAuLCco0E5TAY6tR.mp4?tag=29",
+    "sourceSha256": "9ca0d557865b2086d1fbc58364cc3f9d3aac599f5887574695e4b1bb05804849",
+    "duration": 20.733333,
+    "bytes": 28081423,
+    "width": 2268,
+    "height": 1504,
+    "relatedSources": [
+      {
+        "label": "Creator reply with playable Sushi Box",
+        "url": "https://x.com/ann_nnng/status/2111071846762434623"
+      },
+      {
+        "label": "Creator reply on edge detail",
+        "url": "https://x.com/ann_nnng/status/2111087563754918380"
+      }
+    ],
+    "additionalPosts": [
+      {
+        "url": "https://x.com/ann_nnng/status/2111071846762434623",
+        "text": "try it here"
+      },
+      {
+        "url": "https://x.com/ann_nnng/status/2111087563754918380",
+        "text": "yeah i am soo surprised it made the edges look so goodd"
+      }
+    ],
+    "note": "The creator says Gemini 4 Argon built this Three.js sushi-box effect from one reference image. The original X video shows a finished interactive translucent box with ribbed plastic refraction, a hinged lid, modeled sushi, rotation and material variations. A creator reply links a playable version; neither an exact verbatim prompt nor the reference image was published in the reviewed post text. The highest X source available during collection was 2268 × 1504, below native 4K.",
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2111071463155564733/2111071354472861696.9ca0d557865b.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2111071463155564733/poster.a344ba8a878d.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2111071463155564733/preview.d0c40dff78c9.webp"
   }
 ]

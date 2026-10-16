@@ -4618,5 +4618,15 @@
       "name": "H | Arikawa",
       "handle": "eiichi292929"
     }
+  },
+  {
+    "id": "2111071463155564733",
+    "url": "https://x.com/ann_nnng/status/2111071463155564733",
+    "text": "gemini 4 argon is actually amazing\n\nasked it to create this 3D sushi box effect and only gave it one reference pic of the box\n\nit pulled up with the whole thing in three.js and shaders, no 3d models needed",
+    "publishedTimestamp": 1792153633,
+    "author": {
+      "name": "Ann Nguyen",
+      "handle": "ann_nnng"
+    }
   }
 ]

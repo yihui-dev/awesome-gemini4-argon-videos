@@ -1,0 +1,74 @@
+{
+  "automationId": "gemini-4-argon",
+  "triggerUtc": "2026-10-16T14:57:56.059Z",
+  "fromUtc": "2026-10-16T10:30:00Z",
+  "toUtc": "2026-10-16T15:02:46.231440Z",
+  "surface": "X Latest in signed-in Chrome, creator original posts, player playback and visible replies",
+  "scope": "Bounded recent interval with 30-minute overlap. Older pending backlog remains unresolved; not an exhaustive X index.",
+  "selectedPostIds": [
+    "2111071463155564733"
+  ],
+  "downloadedVideos": 1,
+  "candidates": [
+    {
+      "postId": "2111071463155564733",
+      "sourceUrl": "https://x.com/ann_nnng/status/2111071463155564733",
+      "decision": "selected_and_verified",
+      "reason": "Watched the original 20-second X video at multiple moments. Finished, interactive transparent ribbed sushi box in Three.js: the hinged lid opens, refractive material reveals modeled sushi, and controls change presentation. Clear object design and coherent motion, distinct from existing 3D works. Creator explicitly attributes it to Gemini 4 Argon and offers a playable link in a reply. Not a tutorial, model comparison or software-feature walkthrough.",
+      "observedAt": "2026-10-16T15:00:33.768093Z",
+      "durationPlayerSeconds": 20,
+      "engagement": {
+        "views": 974,
+        "likes": 37,
+        "replies": 5,
+        "reposts": 1,
+        "bookmarks": 11
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/ann_nnng/status/2111071846762434623",
+          "summary": "Creator shared a playable Sushi Box link; its card describes refraction through the ribbed polycarbonate and hinged opening."
+        },
+        {
+          "url": "https://x.com/ayushmanatr/status/2111072787875913729",
+          "summary": "Specific feedback praises the clear ribbed plastic material."
+        },
+        {
+          "url": "https://x.com/ann_nnng/status/2111087563754918380",
+          "summary": "Creator replies that the model made the edge treatment surprisingly good."
+        }
+      ],
+      "durationExactSeconds": 20.733333,
+      "mediaId": "2111071354472861696",
+      "sourceSha256": "9ca0d557865b2086d1fbc58364cc3f9d3aac599f5887574695e4b1bb05804849",
+      "nativeWidth": 2268,
+      "nativeHeight": 1504,
+      "publicReadback": "passed"
+    },
+    {
+      "postId": "2111106388919463961",
+      "sourceUrl": "https://x.com/tamimbuilds/status/2111106388919463961",
+      "decision": "excluded",
+      "reason": "Watched the 56-second Mars simulation. Generic low-detail city elements and mostly static interface close-ups do not meet standout completion or visual-quality bar."
+    },
+    {
+      "postId": "2111063342630744149",
+      "sourceUrl": "https://x.com/abhinavflac/status/2111063342630744149",
+      "decision": "excluded",
+      "reason": "Original 37-second video is explicitly split-screen Gemini Argon versus official Tesla footage. Model-to-reference comparison is a hard content-type exclusion regardless of 14K views."
+    },
+    {
+      "postId": "2111081875934748728",
+      "sourceUrl": "https://x.com/SahilPanhotra/status/2111081875934748728",
+      "decision": "excluded",
+      "reason": "Watched the 15-second textured orange object; most footage shows a single sphere with UI controls and limited distinct motion or creative payoff compared with existing 3D entries."
+    },
+    {
+      "postId": "2111080831661850951",
+      "sourceUrl": "https://x.com/RealFedeURU/status/2111080831661850951",
+      "decision": "excluded",
+      "reason": "Watched the 64-second Minecraft clone. X player credits JAZII rather than the posting account, and the collection already has multiple stronger Minecraft entries; exclude repeat/repost."
+    }
+  ],
+  "otherSearchExclusions": "Search also surfaced >2-minute reviews, tutorials, SEO/AI news, product/model comparison videos and author-described weak tests. These were excluded before download."
+}
