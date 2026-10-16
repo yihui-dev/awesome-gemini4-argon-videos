@@ -8966,5 +8966,49 @@
     "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110858544077762620/2110856596595322880.9c1a39807737.mp4",
     "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110858544077762620/poster.d10630cb4d68.webp",
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110858544077762620/preview.98109f60212b.webp"
+  },
+  {
+    "id": "2110979632019501329",
+    "title": "VroomX Toy Factory Grand Prix",
+    "category": "interactive",
+    "author": {
+      "name": "moctx",
+      "handle": "moc_tx89",
+      "url": "https://x.com/moc_tx89"
+    },
+    "sourceUrl": "https://x.com/moc_tx89/status/2110979632019501329",
+    "publishedAt": "2026-10-16T06:22:19Z",
+    "originalPost": "Gemini 4 Argon is so crazy look at what it built!! \n\nI love it",
+    "prompt": "",
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": "",
+    "modelAttribution": "author_reported",
+    "mediaId": "2110978332577910784",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2110978332577910784/vid/avc1/1280x686/M7LYtuMlEIsis4RH.mp4?tag=29",
+    "sourceSha256": "938f1c9fb9434174e132196c9a4154e56b3c4f08644799dfe47e32801bc57618",
+    "duration": 50.027,
+    "bytes": 11495148,
+    "width": 1280,
+    "height": 686,
+    "relatedSources": [
+      {
+        "label": "Creator reply with playable clone",
+        "url": "https://x.com/moc_tx89/status/2110979635387511172"
+      },
+      {
+        "label": "Play VroomX",
+        "url": "https://vroomx-template.modulify.website/"
+      }
+    ],
+    "additionalPosts": [
+      {
+        "url": "https://x.com/moc_tx89/status/2110979635387511172",
+        "text": "Link to clone"
+      }
+    ],
+    "note": "The creator says Gemini 4 Argon built this miniature Grand Prix game and shared a playable clone in a reply. The original X video shows coherent racing through a toy-car factory, camera views, a race HUD and driver selection. This is a finished game showcase; the exact prompt was not published in the sources reviewed. The highest X source available during collection was 1280 × 686; this is not a native 4K video.",
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110979632019501329/2110978332577910784.938f1c9fb943.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110979632019501329/poster.6b6fdcbe6b28.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110979632019501329/preview.155782206a5b.webp"
   }
 ]

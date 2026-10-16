@@ -1,0 +1,59 @@
+{
+  "automationId": "gemini-4-argon",
+  "triggerUtc": "2026-10-16T06:51:54.775Z",
+  "fromUtc": "2026-10-16T02:00:00Z",
+  "toUtc": "2026-10-16T06:53:48Z",
+  "surface": "X Latest in signed-in Chrome, with original-post player review",
+  "scope": "Bounded recent-interval discovery with overlap. Older pending candidates remain unresolved; this is not an exhaustive index.",
+  "selectedPostIds": [
+    "2110979632019501329"
+  ],
+  "downloadedVideos": 1,
+  "candidates": [
+    {
+      "postId": "2110979632019501329",
+      "sourceUrl": "https://x.com/moc_tx89/status/2110979632019501329",
+      "decision": "selected_and_verified",
+      "reason": "Watched the original X player at multiple points: completed miniature F1 racing game in a toy factory, coherent third-person racing, cinematic camera changes, polished race HUD and original setting. The 48-second clip is a finished game showcase, not a walkthrough. Creator states Gemini 4 Argon built it and replies with a playable clone link. Distinct from existing desk, neighborhood, drone and drag-racing entries.",
+      "observedAt": "2026-10-16T06:53:48Z",
+      "durationPlayerSeconds": 48,
+      "engagement": {
+        "views": 269,
+        "likes": 16,
+        "replies": 10,
+        "reposts": 1
+      },
+      "commentEvidence": [
+        {
+          "url": "https://x.com/moc_tx89/status/2110979635387511172",
+          "summary": "Author supplied the VroomX playable clone link and described the toy-car-factory race."
+        }
+      ],
+      "durationExactSeconds": 50.027,
+      "mediaId": "2110978332577910784",
+      "sourceSha256": "938f1c9fb9434174e132196c9a4154e56b3c4f08644799dfe47e32801bc57618",
+      "nativeWidth": 1280,
+      "nativeHeight": 686,
+      "publicReadback": "passed"
+    },
+    {
+      "postId": "2110983989041520870",
+      "sourceUrl": "https://x.com/thebuggeddev/status/2110983989041520870",
+      "decision": "excluded",
+      "reason": "Watched the 30-second plush spider showcase. The animation works but the simple fur/color variation is too close in concept to this creator's stronger existing fluffy pumpkin entry, so this round retains the representative work."
+    },
+    {
+      "postId": "2110942109138072003",
+      "sourceUrl": "https://x.com/JeudryPena28376/status/2110942109138072003",
+      "decision": "excluded",
+      "reason": "Watched the 1:59 COD Zombies one-shot game. Although the author shares a prompt in a reply, the dark, low-detail footage and unfinished-looking gameplay do not meet the visual completion bar."
+    },
+    {
+      "postId": "2110976871034941630",
+      "sourceUrl": "https://x.com/SandbaseAI/status/2110976871034941630",
+      "decision": "excluded",
+      "reason": "The post explicitly presents Argon above GPT-6 Astra for comparison, which is a content-type hard exclusion. No video downloaded."
+    }
+  ],
+  "otherSearchExclusions": "Recent X results also included Excel Power Pivot explanation, Opus-versus-Argon comparison, code-review/tutorial posts, paid-plan news and model test commentary. These were screened out before download."
+}
