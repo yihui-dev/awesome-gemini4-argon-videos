@@ -1702,16 +1702,16 @@
   "earliestPublicationUtc": "2026-10-13T16:00:02Z",
   "latestPublicationUtc": "2026-10-15T22:21:09Z",
   "lastSearch": {
-    "fromUtc": "2026-10-15T18:40:00Z",
-    "toUtc": "2026-10-15T22:45:07.519485Z",
-    "surface": "X Latest in signed-in Chrome, followed by original posts, original-player playback, and visible replies",
-    "discoveredPostCount": 7,
-    "originalPostsReviewed": 3,
-    "addedVideos": 1,
-    "verifiedNewObjects": 3,
+    "fromUtc": "2026-10-15T22:00:00Z",
+    "toUtc": "2026-10-16T02:54:31Z",
+    "surface": "X Latest in signed-in Chrome, followed by original-post and original-player review",
+    "discoveredPostCount": 9,
+    "originalPostsReviewed": 9,
+    "addedVideos": 0,
+    "verifiedNewObjects": 0,
     "pendingReviewCount": 87,
-    "screeningRecord": "data/screening/20261016-heartbeat-224037.json",
-    "scope": "Bounded discovery, not an exhaustive index of X. Unreviewed backlog remains; successful-search cursor intentionally not advanced."
+    "screeningRecord": "data/screening/20261016-heartbeat-024851.json",
+    "scope": "Bounded discovery of the recent interval plus overlap, not an exhaustive index of X. Unreviewed backlog remains; successful-search cursor intentionally not advanced."
   },
   "curationPolicy": {
     "showcase": "Finished creative work only; exclude model comparisons, reviews, explainers, tutorials, production walkthroughs, and software feature presentations. A short product demo can still be an explainer; evaluate content, not just category or duration.",

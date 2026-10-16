@@ -1,0 +1,67 @@
+{
+  "automationId": "gemini-4-argon",
+  "triggerUtc": "2026-10-16T02:48:51.251Z",
+  "fromUtc": "2026-10-15T22:00:00Z",
+  "toUtc": "2026-10-16T02:54:31Z",
+  "surface": "X Latest in signed-in Chrome, with original-post and player checks",
+  "scope": "Bounded discovery of the new interval plus overlap. The older pending backlog remains unresolved; this record does not claim exhaustive coverage.",
+  "selectedPostIds": [],
+  "downloadedVideos": 0,
+  "candidates": [
+    {
+      "postId": "2110919965402407340",
+      "sourceUrl": "https://x.com/cufaloza/status/2110919965402407340",
+      "decision": "deferred",
+      "reason": "Watched the 10-second oscilloscope-face clip. The post says Argon presents himself, but does not establish that Gemini 4 Argon created the video. Model provenance needs confirmation."
+    },
+    {
+      "postId": "2110900326354272581",
+      "sourceUrl": "https://x.com/nxrskyaa/status/2110900326354272581",
+      "decision": "excluded",
+      "reason": "Watched the 15-second metaballs motion clip. It is a generic visual exercise with little novelty against the existing catalog; the post only describes vague skills results."
+    },
+    {
+      "postId": "2110892497115247030",
+      "sourceUrl": "https://x.com/sirironpalm/status/2110892497115247030",
+      "decision": "excluded",
+      "reason": "Watched the Argon RPG battle demo. The scene and combat are cluttered, and the creator says gameplay still needs slowing down; below the finished-work quality bar."
+    },
+    {
+      "postId": "2110882629268406619",
+      "sourceUrl": "https://x.com/Jaidcel/status/2110882629268406619",
+      "decision": "excluded",
+      "reason": "The original X player shows 2:20, exceeding the 120-second hard limit. No video downloaded."
+    },
+    {
+      "postId": "2110880409303253166",
+      "sourceUrl": "https://x.com/AIandDesign/status/2110880409303253166",
+      "decision": "excluded",
+      "reason": "Watched the 18-second website-hero clip. Finished but visually subtle and too similar to existing hero showcases to justify another download."
+    },
+    {
+      "postId": "2110899041588355448",
+      "sourceUrl": "https://x.com/ekcheungAI/status/2110899041588355448",
+      "decision": "excluded",
+      "reason": "A helicopter clip reposting Bee's original work; the original post 2110069786415968754 is already cataloged."
+    },
+    {
+      "postId": "2110858544077762620",
+      "sourceUrl": "https://x.com/SubhavMathur/status/2110858544077762620",
+      "decision": "already_collected",
+      "reason": "The polished 54-second Thousand Sunny scene was already collected in the prior run and is present in data/videos.json with verified R2 assets."
+    },
+    {
+      "postId": "2110903352871801123",
+      "sourceUrl": "https://x.com/KRR2021/status/2110903352871801123",
+      "decision": "excluded",
+      "reason": "Watched the 47-second MVP game. The creator describes unfinished parts and says only Gemini 4, without an explicit Argon attribution."
+    },
+    {
+      "postId": "2110885452752240655",
+      "sourceUrl": "https://x.com/RealAngryDegen/status/2110885452752240655",
+      "decision": "deferred",
+      "reason": "Watched the polished 14-second Millpond 3D website clip. The post names Gemini Argon 4 and PlaygroundPad but does not say who created the scene; a focused X source search did not establish original authorship."
+    }
+  ],
+  "otherSearchExclusions": "The latest-search overlap also showed multiple Argon-versus-Opus and other model comparisons, tutorials, availability news, and software feature explanations. These were excluded by content type without downloading."
+}
