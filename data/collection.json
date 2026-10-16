@@ -3,15 +3,15 @@
   "collectedOn": "2026-10-14",
   "publicationCutoffUtc": "2026-10-13T16:00:00Z",
   "cutoffRule": "strictly after; original source post publication, not a repost or download time",
-  "videoCount": 302,
-  "sourceAccountCount": 228,
+  "videoCount": 303,
+  "sourceAccountCount": 229,
   "publicPromptCount": 59,
   "categories": {
     "motion": 80,
-    "3d": 100,
+    "3d": 101,
     "interactive": 122
   },
-  "videoBytes": 7613472347,
+  "videoBytes": 7661908348,
   "discovery": {
     "platform": "X",
     "surfaces": [
@@ -1695,23 +1695,47 @@
       "postId": "2110700925082103959",
       "reasonCode": "excluded_repost",
       "reason": "Video is visibly credited to Minsang Daniel Kim, not the account reposting it; original creator already represented in the collection."
+    },
+    {
+      "postId": "2110990860192219385",
+      "reason": "Watched six-second cat turntable; well rendered but little substantive animation or interaction compared with existing 3D showcases."
+    },
+    {
+      "postId": "2110987470737485952",
+      "reason": "Watched six-second shrine turntable; clear model but too short and visually repetitive to meet the standout quality bar."
+    },
+    {
+      "postId": "2110990637579579553",
+      "reason": "Author explicitly calls the Halloween-world result unsuccessful; X video looks blocky and incomplete."
+    },
+    {
+      "postId": "2111027089080218078",
+      "reason": "Watched X player; Roman Colosseum environment is low-detail with placeholder-looking geometry, below curation bar."
+    },
+    {
+      "postId": "2111029421494947962",
+      "reason": "Watched X player; Tower of Hanoi variant emphasizes automatic/zero-disc modes and does not show a sufficiently polished puzzle experience."
+    },
+    {
+      "postId": "2111030823377936668",
+      "reason": "Watched X player; mathematically generated music visualization has limited visible motion and no distinctive visual showcase versus existing entries."
     }
   ],
   "rights": "Third-party videos, original posts and prompts retain their creators rights. MIT covers original repository tooling and curation structure only.",
   "searchSnapshotEndUtc": "2026-10-14T04:33:00Z",
   "earliestPublicationUtc": "2026-10-13T16:00:02Z",
-  "latestPublicationUtc": "2026-10-16T06:22:19Z",
+  "latestPublicationUtc": "2026-10-16T09:49:07Z",
   "lastSearch": {
-    "fromUtc": "2026-10-16T02:00:00Z",
-    "toUtc": "2026-10-16T06:56:41Z",
+    "fromUtc": "2026-10-16T06:00:00Z",
+    "toUtc": "2026-10-16T11:00:13.824425Z",
     "surface": "X Latest in signed-in Chrome, followed by original posts, player playback and visible replies",
-    "discoveredPostCount": 4,
-    "originalPostsReviewed": 3,
+    "discoveredPostCount": 26,
+    "originalPostsReviewed": 8,
     "addedVideos": 1,
     "verifiedNewObjects": 3,
-    "pendingReviewCount": 87,
-    "screeningRecord": "data/screening/20261016-heartbeat-065154.json",
-    "scope": "Bounded discovery, not an exhaustive index of X. Unreviewed backlog remains; successful-search cursor intentionally not advanced."
+    "pendingReviewCount": 88,
+    "screeningRecord": "data/screening/20261016-heartbeat-105425.json",
+    "scope": "Bounded recent-interval discovery, not an exhaustive index of X. Older pending backlog remains; successful-search cursor intentionally not advanced."
   },
   "curationPolicy": {
     "showcase": "Finished creative work only; exclude model comparisons, reviews, explainers, tutorials, production walkthroughs, and software feature presentations. A short product demo can still be an explainer; evaluate content, not just category or duration.",
@@ -2547,6 +2571,15 @@
       "observedAt": "2026-10-15T14:50:57.164614+00:00",
       "downloaded": false,
       "stage": "author_thread_text_screening"
+    },
+    {
+      "postId": "2111010584636629504",
+      "sourceUrl": "https://x.com/Dhanush_Nehru/status/2111010584636629504",
+      "decision": "deferred_provenance",
+      "reason": "Attractive 10-second chess clip, but a reply questions whether it is a 3D render rather than a direct video; creator provides no build evidence or actual prompt. Do not download without resolving attribution.",
+      "downloaded": false,
+      "observedAt": "2026-10-16T11:00:13.824425Z",
+      "stage": "original_post_review"
     }
   ]
 }

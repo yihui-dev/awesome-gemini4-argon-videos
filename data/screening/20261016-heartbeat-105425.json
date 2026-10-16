@@ -1,0 +1,78 @@
+{
+  "automationId": "gemini-4-argon",
+  "triggerUtc": "2026-10-16T10:54:25.200Z",
+  "fromUtc": "2026-10-16T06:00:00Z",
+  "toUtc": "2026-10-16T11:00:13.824425Z",
+  "surface": "X Latest in signed-in Chrome, original-post player playback and visible replies",
+  "scope": "Bounded recent-interval search with overlap; older pending candidates remain unresolved.",
+  "selectedPostIds": [
+    "2111031676730245466"
+  ],
+  "downloadedVideos": 1,
+  "candidates": [
+    {
+      "postId": "2111031676730245466",
+      "sourceUrl": "https://x.com/eiichi292929/status/2111031676730245466",
+      "decision": "selected_and_verified",
+      "reason": "Watched the original 22-second X video. A finished, articulated metallic hawk in a custom Three.js interface responds coherently to pose and lighting controls. Distinct from the existing mechanical bee and humanoid work; not a tutorial, comparison or software feature explanation. Creator explicitly attributes the work to Gemini 4 Argon.",
+      "observedAt": "2026-10-16T10:57:53.213939Z",
+      "durationPlayerSeconds": 22,
+      "engagement": {
+        "views": 40,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0
+      },
+      "commentEvidence": [],
+      "durationExactSeconds": 21.9,
+      "mediaId": "2111030961257500672",
+      "sourceSha256": "3d84aec68a244c0feffa649489ab9665a5f1299be17c19201ab3e85ddd0ce3ce",
+      "nativeWidth": 2752,
+      "nativeHeight": 1516,
+      "publicReadback": "passed"
+    },
+    {
+      "postId": "2110990860192219385",
+      "sourceUrl": "https://x.com/npaka123/status/2110990860192219385",
+      "decision": "excluded",
+      "reason": "Watched six-second cat turntable; well rendered but little substantive animation or interaction compared with existing 3D showcases."
+    },
+    {
+      "postId": "2110987470737485952",
+      "sourceUrl": "https://x.com/npaka123/status/2110987470737485952",
+      "decision": "excluded",
+      "reason": "Watched six-second shrine turntable; clear model but too short and visually repetitive to meet the standout quality bar."
+    },
+    {
+      "postId": "2110990637579579553",
+      "sourceUrl": "https://x.com/mitsukiai_0130/status/2110990637579579553",
+      "decision": "excluded",
+      "reason": "Author explicitly calls the Halloween-world result unsuccessful; X video looks blocky and incomplete."
+    },
+    {
+      "postId": "2111027089080218078",
+      "sourceUrl": "https://x.com/sumitkahar083/status/2111027089080218078",
+      "decision": "excluded",
+      "reason": "Watched X player; Roman Colosseum environment is low-detail with placeholder-looking geometry, below curation bar."
+    },
+    {
+      "postId": "2111029421494947962",
+      "sourceUrl": "https://x.com/9758xRy/status/2111029421494947962",
+      "decision": "excluded",
+      "reason": "Watched X player; Tower of Hanoi variant emphasizes automatic/zero-disc modes and does not show a sufficiently polished puzzle experience."
+    },
+    {
+      "postId": "2111030823377936668",
+      "sourceUrl": "https://x.com/fofrAI/status/2111030823377936668",
+      "decision": "excluded",
+      "reason": "Watched X player; mathematically generated music visualization has limited visible motion and no distinctive visual showcase versus existing entries."
+    },
+    {
+      "postId": "2111010584636629504",
+      "sourceUrl": "https://x.com/Dhanush_Nehru/status/2111010584636629504",
+      "decision": "deferred_provenance",
+      "reason": "Attractive 10-second chess clip, but a reply questions whether it is a 3D render rather than a direct video; creator provides no build evidence or actual prompt. Do not download without resolving attribution."
+    }
+  ],
+  "otherSearchExclusions": "Search also surfaced product/model comparisons, tutorials, model access news, software feature introductions, and unfinished experiments; excluded before download."
+}

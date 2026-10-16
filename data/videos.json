@@ -9010,5 +9010,35 @@
     "videoUrl": "https://media.skillry.dev/gemini-4-argon/2110979632019501329/2110978332577910784.938f1c9fb943.mp4",
     "posterUrl": "https://media.skillry.dev/gemini-4-argon/2110979632019501329/poster.6b6fdcbe6b28.webp",
     "previewUrl": "https://media.skillry.dev/gemini-4-argon/2110979632019501329/preview.155782206a5b.webp"
+  },
+  {
+    "id": "2111031676730245466",
+    "title": "Aero-Raptor Mechanical Hawk",
+    "category": "3d",
+    "author": {
+      "name": "H | Arikawa",
+      "handle": "eiichi292929",
+      "url": "https://x.com/eiichi292929"
+    },
+    "sourceUrl": "https://x.com/eiichi292929/status/2111031676730245466",
+    "publishedAt": "2026-10-16T09:49:07Z",
+    "originalPost": "Gemini 4 Argon (High) \n機械の鷹 3D を Three.js で 作って と 頼んだけでコレ",
+    "prompt": "",
+    "promptStatus": "not_published_in_reviewed_sources",
+    "promptSourceUrl": "",
+    "modelAttribution": "author_reported",
+    "mediaId": "2111030961257500672",
+    "sourceVideoUrl": "https://video.twimg.com/amplify_video/2111030961257500672/vid/avc1/2752x1516/86imaHINZRyy_rJE.mp4?tag=29",
+    "sourceSha256": "3d84aec68a244c0feffa649489ab9665a5f1299be17c19201ab3e85ddd0ce3ce",
+    "duration": 21.9,
+    "bytes": 48436001,
+    "width": 2752,
+    "height": 1516,
+    "relatedSources": [],
+    "additionalPosts": [],
+    "note": "The creator says they asked Gemini 4 Argon (High) to make a 3D mechanical hawk in Three.js. The original X video shows a finished articulated metallic hawk with coherent wing movement, camera presets, lighting and armor variations. No exact verbatim prompt was published in the reviewed source. The highest X source available during collection was 2752 × 1516, below native 4K.",
+    "videoUrl": "https://media.skillry.dev/gemini-4-argon/2111031676730245466/2111030961257500672.3d84aec68a24.mp4",
+    "posterUrl": "https://media.skillry.dev/gemini-4-argon/2111031676730245466/poster.b311f8e08975.webp",
+    "previewUrl": "https://media.skillry.dev/gemini-4-argon/2111031676730245466/preview.33b5042ff79f.webp"
   }
 ]
